@@ -67,21 +67,21 @@ Last result: **86** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 113 | 107–121 | 105–122 | 105–122 | 102–123 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 109 | 105–111 | 105–111 | 105–111 | 102–113 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 119 | 118–122 | 116–122 | 116–122 | 112–123 |
-| [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 107 | 105–112 | 105–113 | 93–113 | 93–113 |
-| [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 116 | 113–118 | 113–119 | 113–120 | 113–120 |
+| [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 109 | 103–117 | 100–119 | 98–122 | 94–127 |
+| [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 111 | 104–118 | 102–120 | 101–123 | 97–128 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 110 | 102–115 | 102–119 | 101–125 | 101–127 |
-| [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 116 | 110–125 | 107–126 | 106–126 | 102–132 |
+| [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 115 | 107–123 | 106–125 | 104–128 | 100–132 |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 110 | 110 | 105–110 | 103–111 | 99–117 |
 | [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 115 | 114–120 | 114–120 | 114–120 | 114–120 |
 | [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 96 | 96–98 | 96–108 | 96–108 | 96–112 |
-| [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 108 | 108 | 107–116 | 103–118 | 101–125 |
+| [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 113 | 108–119 | 106–120 | 105–121 | 102–125 |
 | [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 97 | 95–98 | 94–98 | 93–98 | 93–115 |
-| [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 97 | 97–99 | 97–102 | 97–117 | 89–119 |
+| [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 108 | 101–114 | 98–118 | 97–120 | 92–124 |
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 109 | 109–117 | 109–122 | 109–123 | 105–123 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 108 | 106–109 | 105–110 | 105–110 | 105–117 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 105 | 104–109 | 102–109 | 97–110 | 97–110 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 120 | 116–121 | 116–122 | 116–123 | 103–124 |
-| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 122 | 116–129 | 112–129 | 110–129 | 109–129 |
+| [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 115 | 108–123 | 106–128 | 103–130 | 101–130 |
 
 ### Probability Mass Function
 
