@@ -64,13 +64,13 @@ Last result: **19** seats (General Election of 4 October 2015)
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 18 | 16–23 | 14–24 | 13–24 | 10–27 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 15 | 12–18 | 10–18 | 10–18 | 9–21 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 15 | 10–18 | 10–19 | 9–22 | 8–24 |
-| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 22 | 22–23 | 22–23 | 22–27 | 17–28 |
+| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 18 | 16–24 | 14–24 | 13–25 | 11–27 |
 | [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 13 | 13–18 | 8–18 | 8–18 | 8–18 |
-| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 23 | 21–25 | 20–28 | 20–29 | 19–29 |
+| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 23 | 18–26 | 18–27 | 17–27 | 14–30 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 15 | 11–18 | 10–18 | 10–18 | 9–21 |
-| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 21 | 18–23 | 17–26 | 17–27 | 17–27 |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 20 | 18–24 | 17–26 | 15–27 | 12–28 |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 20 | 18–24 | 16–26 | 15–27 | 12–28 |
-| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 18 | 11–18 | 11–18 | 11–19 | 10–20 |
+| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 13 | 10–18 | 10–18 | 10–18 | 9–20 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 18 | 18–19 | 18–20 | 18–21 | 13–22 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 19 | 18–24 | 18–24 | 18–24 | 18–24 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 15 | 14–22 | 13–22 | 12–24 | 10–24 |

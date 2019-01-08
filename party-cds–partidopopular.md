@@ -86,13 +86,13 @@ Last result: **18** seats (General Election of 4 October 2015)
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 19 | 14–25 | 13–27 | 12–29 | 10–30 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 14 | 10–18 | 10–19 | 9–19 | 8–21 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 19 | 15–24 | 13–27 | 12–28 | 10–30 |
-| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 13 | 13 | 13–16 | 10–21 | 7–21 |
+| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 13 | 9–18 | 8–19 | 7–20 | 6–22 |
 | [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 19 | 9–19 | 9–19 | 9–19 | 9–19 |
-| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 14 | 8–14 | 7–15 | 6–15 | 6–21 |
+| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 10 | 6–13 | 6–16 | 6–18 | 6–20 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 9–15 | 8–16 | 7–18 | 6–19 |
-| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 11 | 10–15 | 10–16 | 10–18 | 9–20 |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 10 | 7–15 | 6–17 | 6–19 | 6–20 |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 11 | 8–18 | 7–18 | 7–20 | 6–21 |
-| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 11 | 7–11 | 6–13 | 6–14 | 6–14 |
+| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 7–13 | 6–14 | 6–16 | 6–17 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 6 | 6–10 | 6–10 | 3–10 | 3–13 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 8 | 8–11 | 8–11 | 8–11 | 6–11 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 19 | 10–19 | 10–19 | 9–19 | 8–19 |

@@ -71,13 +71,13 @@ Last result: **89** seats (General Election of 4 October 2015)
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 67 | 59–73 | 58–76 | 55–77 | 54–79 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 74 | 68–80 | 67–81 | 66–82 | 63–85 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 67 | 59–74 | 58–76 | 56–78 | 54–81 |
-| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 68 | 68 | 68–74 | 68–79 | 60–86 |
+| [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 68–82 | 66–84 | 64–86 | 60–90 |
 | [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 69 | 68–77 | 68–77 | 68–81 | 68–81 |
-| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 86 | 81–87 | 78–87 | 78–87 | 63–87 |
+| [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 78 | 71–87 | 68–89 | 68–89 | 64–94 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 75 | 71–80 | 69–82 | 67–84 | 65–87 |
-| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 79 | 79–87 | 79–87 | 73–93 | 66–93 |
+| [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 77 | 70–84 | 68–87 | 66–89 | 63–93 |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 67–82 | 65–85 | 63–87 | 59–89 |
-| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 74 | 71–80 | 70–80 | 70–81 | 70–85 |
+| [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 78 | 71–81 | 70–83 | 68–84 | 65–88 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 81 | 79–81 | 79–81 | 78–81 | 74–82 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 81 | 76–81 | 76–81 | 76–87 | 76–88 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 70 | 69–73 | 69–73 | 61–73 | 60–80 |
