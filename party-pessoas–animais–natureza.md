@@ -51,15 +51,15 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
-| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
+| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
-| [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
@@ -67,7 +67,7 @@ Last result: **1** seats (General Election of 4 October 2015)
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
-| [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 0–1 | 0–2 | 0–2 | 0–4 |
+| [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 1 | 1–2 | 0–2 | 0–3 | 0–3 |
 | [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
 
 ### Probability Mass Function
@@ -78,10 +78,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% |  |
-| 1 | 64% | 99.1% | Last Result, Median |
-| 2 | 33% | 35% |  |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 10% | 100% |  |
+| 1 | 57% | 90% | Last Result, Median |
+| 2 | 30% | 34% |  |
+| 3 | 4% | 4% |  |
+| 4 | 0.3% | 0.4% |  |
+| 5 | 0% | 0% |  |
 
 

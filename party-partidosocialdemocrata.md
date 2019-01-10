@@ -64,23 +64,23 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 68–78 | 68–78 | 67–78 | 66–78 |
-| [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 70 | 68–75 | 68–75 | 67–75 | 67–75 |
-| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 78 | 73–78 | 68–78 | 67–78 | 66–78 |
+| N/A | [Poll Average](average.html) | 71 | 64–78 | 62–79 | 60–81 | 57–84 |
+| [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 68 | 62–76 | 60–79 | 58–81 | 56–85 |
+| [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 73 | 68–78 | 66–79 | 64–81 | 61–84 |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 67–82 | 65–85 | 64–87 | 60–91 |
 | [1–3 October 2018](2018-10-03-Aximage.html) | Aximage <br> Correio da Manhã | 67 | 59–73 | 58–76 | 55–77 | 54–79 |
 | [5–12 September 2018](2018-09-12-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 74 | 68–80 | 67–81 | 66–82 | 63–85 |
 | [1–2 September 2018](2018-09-02-Aximage.html) | Aximage <br> Correio da Manhã | 67 | 59–74 | 58–76 | 56–78 | 54–81 |
 | [13–16 July 2018](2018-07-16-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 68–82 | 66–84 | 64–86 | 60–90 |
-| [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 69 | 68–77 | 68–77 | 68–81 | 68–81 |
+| [4–11 July 2018](2018-07-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 73 | 69–77 | 66–78 | 64–80 | 63–82 |
 | [9–12 June 2018](2018-06-12-Aximage.html) | Aximage <br> Correio da Manhã | 78 | 71–87 | 68–89 | 68–89 | 64–94 |
 | [3–9 May 2018](2018-05-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 75 | 71–80 | 69–82 | 67–84 | 65–87 |
 | [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 77 | 70–84 | 68–87 | 66–89 | 63–93 |
-| [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 67–82 | 65–85 | 63–87 | 59–89 |
+| [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 67–82 | 65–83 | 63–87 | 60–89 |
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 78 | 71–81 | 70–83 | 68–84 | 65–88 |
-| [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 81 | 79–81 | 79–81 | 78–81 | 74–82 |
-| [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 81 | 76–81 | 76–81 | 76–87 | 76–88 |
-| [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 70 | 69–73 | 69–73 | 61–73 | 60–80 |
+| [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 68–84 | 66–86 | 65–87 | 62–89 |
+| [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 73 | 65–80 | 64–82 | 62–82 | 59–87 |
+| [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 74 | 68–78 | 66–81 | 64–81 | 62–84 |
 | [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 71 | 66–82 | 65–83 | 64–84 | 59–86 |
 
 ### Probability Mass Function
@@ -91,31 +91,42 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 64 | 0.2% | 100% |  |
-| 65 | 0% | 99.8% |  |
-| 66 | 0.3% | 99.8% |  |
-| 67 | 4% | 99.4% |  |
-| 68 | 6% | 96% |  |
-| 69 | 0.7% | 89% |  |
-| 70 | 17% | 89% |  |
-| 71 | 6% | 72% |  |
-| 72 | 4% | 65% |  |
-| 73 | 19% | 61% | Median |
-| 74 | 5% | 42% |  |
-| 75 | 8% | 37% |  |
-| 76 | 0.2% | 30% |  |
-| 77 | 0.9% | 29% |  |
-| 78 | 28% | 28% |  |
-| 79 | 0% | 0% |  |
-| 80 | 0% | 0% |  |
-| 81 | 0% | 0% |  |
-| 82 | 0% | 0% |  |
-| 83 | 0% | 0% |  |
-| 84 | 0% | 0% |  |
-| 85 | 0% | 0% |  |
-| 86 | 0% | 0% |  |
-| 87 | 0% | 0% |  |
-| 88 | 0% | 0% |  |
-| 89 | 0% | 0% | Last Result |
+| 54 | 0.1% | 100% |  |
+| 55 | 0.1% | 99.9% |  |
+| 56 | 0.2% | 99.8% |  |
+| 57 | 0.4% | 99.6% |  |
+| 58 | 0.8% | 99.2% |  |
+| 59 | 0.7% | 98% |  |
+| 60 | 1.0% | 98% |  |
+| 61 | 1.1% | 97% |  |
+| 62 | 1.3% | 96% |  |
+| 63 | 2% | 94% |  |
+| 64 | 4% | 92% |  |
+| 65 | 4% | 88% |  |
+| 66 | 4% | 84% |  |
+| 67 | 6% | 80% |  |
+| 68 | 6% | 74% |  |
+| 69 | 5% | 68% |  |
+| 70 | 6% | 63% |  |
+| 71 | 7% | 57% | Median |
+| 72 | 5% | 49% |  |
+| 73 | 9% | 44% |  |
+| 74 | 8% | 35% |  |
+| 75 | 5% | 27% |  |
+| 76 | 7% | 22% |  |
+| 77 | 5% | 15% |  |
+| 78 | 3% | 10% |  |
+| 79 | 3% | 7% |  |
+| 80 | 0.8% | 4% |  |
+| 81 | 1.4% | 3% |  |
+| 82 | 0.9% | 2% |  |
+| 83 | 0.3% | 1.2% |  |
+| 84 | 0.3% | 0.8% |  |
+| 85 | 0.2% | 0.5% |  |
+| 86 | 0.1% | 0.3% |  |
+| 87 | 0.1% | 0.2% |  |
+| 88 | 0.1% | 0.1% |  |
+| 89 | 0% | 0.1% | Last Result |
+| 90 | 0% | 0% |  |
 
 
