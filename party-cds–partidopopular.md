@@ -10,8 +10,8 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
-| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 9.4% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.1% | 6.4–10.5% | 6.0–11.1% | 5.8–11.5% | 5.3–12.5% |
+| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 9.4% | 8.0–11.1% | 7.6–11.5% | 7.3–12.0% | 6.7–12.8% |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 8.6% | 7.3–10.3% | 7.0–10.7% | 6.6–11.2% | 6.1–12.0% |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 7.6% | 6.4–9.2% | 6.1–9.6% | 5.8–10.0% | 5.2–10.8% |
@@ -37,15 +37,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 25% | 98% |  |
-| 6.5–7.5% | 46% | 73% | Median |
-| 7.5–8.5% | 23% | 26% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
-| 10.5–11.5% | 0% | 0% |  |
-| 11.5–12.5% | 0% | 0% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 13% | 98.8% |  |
+| 6.5–7.5% | 25% | 86% |  |
+| 7.5–8.5% | 20% | 61% | Median |
+| 8.5–9.5% | 18% | 41% |  |
+| 9.5–10.5% | 14% | 24% |  |
+| 10.5–11.5% | 7% | 9% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -80,8 +80,8 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 9–14 | 8–17 | 7–18 | 6–19 |
-| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 10–24 | 9–24 | 8–24 | 7–28 |
+| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 24 | 12–24 | 12–24 | 12–25 | 12–29 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 19 | 13–23 | 11–25 | 10–26 | 10–29 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 11 | 9–14 | 8–17 | 7–18 | 6–19 |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 15 | 10–19 | 9–21 | 9–22 | 6–24 |
@@ -108,21 +108,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.6% | 100% |  |
-| 7 | 2% | 99.3% |  |
-| 8 | 4% | 97% |  |
-| 9 | 7% | 93% |  |
-| 10 | 27% | 86% |  |
-| 11 | 20% | 58% | Median |
-| 12 | 13% | 38% |  |
-| 13 | 11% | 25% |  |
-| 14 | 5% | 14% |  |
-| 15 | 3% | 9% |  |
-| 16 | 1.2% | 7% |  |
-| 17 | 2% | 5% |  |
-| 18 | 1.0% | 3% | Last Result |
-| 19 | 2% | 2% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 6 | 0.3% | 100% |  |
+| 7 | 1.2% | 99.7% |  |
+| 8 | 2% | 98% |  |
+| 9 | 4% | 97% |  |
+| 10 | 14% | 93% |  |
+| 11 | 10% | 79% |  |
+| 12 | 16% | 69% |  |
+| 13 | 10% | 53% | Median |
+| 14 | 3% | 43% |  |
+| 15 | 1.3% | 41% |  |
+| 16 | 0.9% | 39% |  |
+| 17 | 1.1% | 38% |  |
+| 18 | 2% | 37% | Last Result |
+| 19 | 1.2% | 36% |  |
+| 20 | 5% | 34% |  |
+| 21 | 0.6% | 30% |  |
+| 22 | 0.9% | 29% |  |
+| 23 | 0% | 28% |  |
+| 24 | 26% | 28% |  |
+| 25 | 2% | 2% |  |
+| 26 | 0.1% | 0.6% |  |
+| 27 | 0% | 0.5% |  |
+| 28 | 0.1% | 0.5% |  |
+| 29 | 0.4% | 0.4% |  |
+| 30 | 0% | 0% |  |
 
 
