@@ -10,7 +10,8 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 6.4–10.5% | 6.0–11.1% | 5.8–11.5% | 5.3–12.5% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.5–10.5% | 6.2–11.1% | 5.9–11.5% | 5.4–12.5% |
+| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 9.4% | 8.0–11.1% | 7.6–11.5% | 7.3–12.0% | 6.7–12.8% |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 8.6% | 7.3–10.3% | 7.0–10.7% | 6.6–11.2% | 6.1–12.0% |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
@@ -37,11 +38,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.2% | 100% |  |
-| 5.5–6.5% | 13% | 98.8% |  |
-| 6.5–7.5% | 25% | 86% |  |
-| 7.5–8.5% | 20% | 61% | Median |
-| 8.5–9.5% | 18% | 41% |  |
+| 4.5–5.5% | 0.7% | 100% |  |
+| 5.5–6.5% | 10% | 99.3% |  |
+| 6.5–7.5% | 25% | 89% |  |
+| 7.5–8.5% | 22% | 64% | Median |
+| 8.5–9.5% | 18% | 42% |  |
 | 9.5–10.5% | 14% | 24% |  |
 | 10.5–11.5% | 7% | 9% |  |
 | 11.5–12.5% | 2% | 2% |  |
@@ -80,7 +81,8 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–24 | 9–24 | 8–24 | 7–28 |
+| N/A | [Poll Average](average.html) | 13 | 10–24 | 10–24 | 8–24 | 7–28 |
+| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 10 | 10–19 | 8–21 | 7–21 | 7–23 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 24 | 12–24 | 12–24 | 12–25 | 12–29 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 19 | 13–23 | 11–25 | 10–26 | 10–29 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 11 | 9–14 | 8–17 | 7–18 | 6–19 |
@@ -108,30 +110,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.3% | 100% |  |
-| 7 | 1.2% | 99.7% |  |
-| 8 | 2% | 98% |  |
-| 9 | 4% | 97% |  |
-| 10 | 14% | 93% |  |
-| 11 | 10% | 79% |  |
-| 12 | 16% | 69% |  |
-| 13 | 10% | 53% | Median |
-| 14 | 3% | 43% |  |
-| 15 | 1.3% | 41% |  |
-| 16 | 0.9% | 39% |  |
-| 17 | 1.1% | 38% |  |
-| 18 | 2% | 37% | Last Result |
-| 19 | 1.2% | 36% |  |
-| 20 | 5% | 34% |  |
-| 21 | 0.6% | 30% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 2% | 99.9% |  |
+| 8 | 0.5% | 98% |  |
+| 9 | 0% | 97% |  |
+| 10 | 37% | 97% |  |
+| 11 | 0.1% | 60% |  |
+| 12 | 9% | 60% |  |
+| 13 | 8% | 51% | Median |
+| 14 | 0.3% | 43% |  |
+| 15 | 0.1% | 43% |  |
+| 16 | 1.4% | 43% |  |
+| 17 | 0.2% | 42% |  |
+| 18 | 2% | 41% | Last Result |
+| 19 | 0.2% | 39% |  |
+| 20 | 5% | 39% |  |
+| 21 | 5% | 34% |  |
 | 22 | 0.9% | 29% |  |
-| 23 | 0% | 28% |  |
+| 23 | 0.1% | 28% |  |
 | 24 | 26% | 28% |  |
 | 25 | 2% | 2% |  |
 | 26 | 0.1% | 0.6% |  |
 | 27 | 0% | 0.5% |  |
 | 28 | 0.1% | 0.5% |  |
-| 29 | 0.4% | 0.4% |  |
+| 29 | 0.4% | 0.5% |  |
 | 30 | 0% | 0% |  |
 
 
