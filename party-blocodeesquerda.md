@@ -58,9 +58,9 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–24 | 10–24 | 9–24 | 8–28 |
-| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 24 | 10–24 | 9–24 | 8–24 | 8–24 |
-| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 14 | 14–19 | 14–19 | 14–19 | 14–28 |
+| N/A | [Poll Average](average.html) | 17 | 11–20 | 10–22 | 10–23 | 9–25 |
+| [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 15 | 11–18 | 10–18 | 10–18 | 9–18 |
+| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 18 | 14–22 | 13–23 | 11–24 | 10–26 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 22 | 18–25 | 16–27 | 15–27 | 13–29 |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 14 | 10–18 | 10–18 | 10–18 | 9–19 |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 18 | 15–24 | 14–24 | 13–25 | 10–27 |
@@ -87,30 +87,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 0.1% | 99.9% |  |
-| 7 | 0% | 99.8% |  |
-| 8 | 2% | 99.8% |  |
-| 9 | 2% | 98% |  |
-| 10 | 1.3% | 96% |  |
-| 11 | 0.4% | 94% |  |
-| 12 | 0.1% | 94% |  |
-| 13 | 0.2% | 94% |  |
-| 14 | 27% | 94% |  |
-| 15 | 0.1% | 66% |  |
-| 16 | 1.1% | 66% |  |
-| 17 | 0.4% | 65% |  |
-| 18 | 20% | 65% | Median |
-| 19 | 7% | 45% | Last Result |
-| 20 | 0% | 37% |  |
-| 21 | 0.2% | 37% |  |
-| 22 | 0% | 37% |  |
-| 23 | 0.5% | 37% |  |
-| 24 | 36% | 37% |  |
-| 25 | 0.1% | 0.7% |  |
-| 26 | 0% | 0.6% |  |
-| 27 | 0% | 0.6% |  |
-| 28 | 0.6% | 0.6% |  |
-| 29 | 0% | 0% |  |
+| 9 | 0.9% | 100% |  |
+| 10 | 4% | 99.0% |  |
+| 11 | 6% | 95% |  |
+| 12 | 2% | 89% |  |
+| 13 | 8% | 88% |  |
+| 14 | 8% | 79% |  |
+| 15 | 11% | 71% |  |
+| 16 | 7% | 61% |  |
+| 17 | 15% | 54% | Median |
+| 18 | 23% | 38% |  |
+| 19 | 5% | 16% | Last Result |
+| 20 | 2% | 10% |  |
+| 21 | 2% | 8% |  |
+| 22 | 1.4% | 6% |  |
+| 23 | 2% | 5% |  |
+| 24 | 2% | 2% |  |
+| 25 | 0.3% | 0.6% |  |
+| 26 | 0.1% | 0.3% |  |
+| 27 | 0.1% | 0.1% |  |
+| 28 | 0% | 0% |  |
 
 
