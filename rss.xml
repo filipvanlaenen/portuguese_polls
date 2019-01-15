@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 13 Jan 2019 23:00:38 +0100</pubDate>
+    <pubDate>Tue, 15 Jan 2019 19:52:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 2–9 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-01-09-Eurosondagem.html</link>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2018-03-05-Aximage.png"
         length="165409"
         type="image/png"/>
-      <pubDate>Wed, 09 Jan 2019 13:29:41 +0100</pubDate>
-      <dc:date>2019-01-09T13:29:41.176612+01:00</dc:date>
+      <pubDate>Tue, 15 Jan 2019 19:52:25 +0100</pubDate>
+      <dc:date>2019-01-15T19:52:25.521011+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã, 3–6 February 2018 – Voting Intentions</title>
@@ -199,6 +199,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-01-13T23:00:38.434817+01:00</dc:date>
+    <dc:date>2019-01-15T19:52:25.521011+01:00</dc:date>
   </channel>
 </rss>
