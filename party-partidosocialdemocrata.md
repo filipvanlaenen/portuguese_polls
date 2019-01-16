@@ -83,7 +83,7 @@ Last result: **89** seats (General Election of 4 October 2015)
 | [5–9 May 2018](2018-05-09-Aximage.html) | Aximage <br> Correio da Manhã | 77 | 70–84 | 68–87 | 66–89 | 63–93 |
 | [8–12 April 2018](2018-04-12-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 67–82 | 65–83 | 63–87 | 60–89 |
 | [8–14 March 2018](2018-03-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 78 | 71–81 | 70–83 | 68–84 | 65–88 |
-| [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 68–82 | 67–85 | 64–87 | 61–90 |
+| [2–5 March 2018](2018-03-05-Aximage.html) | Aximage <br> Correio da Manhã | 75 | 68–82 | 66–85 | 64–87 | 61–90 |
 | [3–6 February 2018](2018-02-06-Aximage.html) | Aximage <br> Correio da Manhã | 73 | 65–80 | 64–82 | 62–82 | 59–87 |
 | [14–17 January 2018](2018-01-17-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 74 | 68–78 | 66–81 | 64–81 | 62–84 |
 | [6–9 January 2018](2018-01-09-Aximage.html) | Aximage <br> Correio da Manhã | 71 | 66–82 | 65–83 | 64–84 | 59–86 |
