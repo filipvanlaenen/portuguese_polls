@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 22–28% <br> 60–77 | 6–9% <br> 8–19 | 37–43% <br> 107–124 | 6–9% <br> 10–18 | 6–9% <br> 9–18 | 1–3% <br> 0–3 | 3–5% <br> 2–6 |
-| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 55–78 | 7–12% <br> 12–28 | 34–42% <br> 96–119 | 7–11% <br> 11–24 | 5–10% <br> 7–20 | 2–5% <br> 2–7 | 1–2% <br> 0–2 |
+| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 56–78 | 7–12% <br> 12–28 | 34–42% <br> 96–119 | 7–11% <br> 11–24 | 5–10% <br> 8–20 | 2–5% <br> 2–6 | 1–2% <br> 0–2 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 58–81 | 7–11% <br> 10–26 | 33–41% <br> 98–121 | 8–13% <br> 15–27 | 5–9% <br> 6–17 | N/A <br> N/A | N/A <br> N/A |
 | [7–14 November 2018](2018-11-14-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 24–30% <br> 64–81 | 6–9% <br> 7–18 | 39–45% <br> 109–127 | 6–9% <br> 10–18 | 6–9% <br> 8–17 | 1–3% <br> 0–3 | N/A <br> N/A |
 | [9–12 November 2018](2018-11-12-Aximage.html) | Aximage <br> Correio da Manhã | 23–30% <br> 64–87 | 6–10% <br> 9–22 | 34–42% <br> 98–122 | 7–12% <br> 13–25 | 4–8% <br> 6–17 | N/A <br> N/A | N/A <br> N/A |
