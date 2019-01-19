@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 21–28% <br> 57–77 | 6–12% <br> 8–28 | 34–43% <br> 98–122 | 6–11% <br> 10–24 | 6–9% <br> 8–19 | 1–5% <br> 1–6 | 1–5% <br> 0–6 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 22–28% <br> 60–77 | 6–9% <br> 8–19 | 37–43% <br> 107–124 | 6–9% <br> 10–18 | 6–9% <br> 9–18 | 1–3% <br> 0–3 | 3–5% <br> 2–6 |
-| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 56–78 | 7–12% <br> 12–28 | 34–42% <br> 96–119 | 7–11% <br> 11–24 | 5–10% <br> 8–20 | 2–5% <br> 2–6 | 1–2% <br> 0–2 |
+| [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 55–77 | 7–12% <br> 12–28 | 34–42% <br> 96–119 | 7–11% <br> 11–24 | 5–10% <br> 8–20 | 2–5% <br> 2–6 | 1–2% <br> 0–2 |
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
