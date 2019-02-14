@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/portuguese_polls</id>
   <title>All Registered Polls for the Assembleia da República</title>
-  <updated>2019-02-03T14:40:23.55583+01:00</updated>
+  <updated>2019-02-14T20:06:04.510501+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 22.2–27.5%, 59–77 seats</li><li>Partido Socialista: 37.0–43.1%, 106–125 seats</li><li>Bloco de Esquerda: 6.1–9.4%, 10–18 seats</li><li>CDS–Partido Popular: 5.7–8.9%, 8–19 seats</li><li>Coligação Democrática Unitária: 5.7–8.9%, 9–18 seats</li><li>Pessoas–Animais–Natureza: 1.2–2.9%, 0–3 seats</li><li>Aliança: 2.9–5.3%, 2–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/portuguese_polls/2019-01-09-Eurosondagem.html</id>
@@ -24,6 +24,14 @@
     <dc:date>2019-01-19T17:09:37.475492+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 23.0–30.0%, 64–87 seats</li><li>Partido Socialista: 34.0–41.8%, 98–122 seats</li><li>Bloco de Esquerda: 7.1–11.7%, 13–25 seats</li><li>CDS–Partido Popular: 5.8–10.0%, 9–22 seats</li><li>Coligação Democrática Unitária: 4.5–8.4%, 6–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/portuguese_polls/2018-11-12-Aximage.html</id>
+    <link href="https://filipvanlaenen.github.io/portuguese_polls/2018-11-12-Aximage.html"/>
+    <title>Opinion Poll by Aximage for Correio da Manhã, 9–12 November 2018</title>
+    <updated>2019-02-14T20:06:04.510501+01:00</updated>
+    <dc:date>2019-02-14T20:06:04.510501+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 23.8–30.9%, 64–86 seats</li><li>Partido Socialista: 35.2–43.0%, 98–121 seats</li><li>Bloco de Esquerda: 7.4–12.1%, 13–25 seats</li><li>CDS–Partido Popular: 5.5–9.7%, 7–20 seats</li><li>Coligação Democrática Unitária: 5.2–9.3%, 7–19 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/portuguese_polls/2018-07-16-Aximage.html</id>
     <link href="https://filipvanlaenen.github.io/portuguese_polls/2018-07-16-Aximage.html"/>
@@ -39,5 +47,5 @@
     <updated>2019-01-15T21:05:44.614175+01:00</updated>
     <dc:date>2019-01-15T21:05:44.614175+01:00</dc:date>
   </entry>
-  <dc:date>2019-02-03T14:40:23.55583+01:00</dc:date>
+  <dc:date>2019-02-14T20:06:04.510501+01:00</dc:date>
 </feed>
