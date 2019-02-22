@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Thu, 14 Feb 2019 20:06:04 +0100</pubDate>
+    <pubDate>Fri, 22 Feb 2019 19:16:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã, 5–10 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-02-10-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.2–28.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.6–40.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.9–11.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 7.2–11.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.6–8.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.5–4.1%&lt;/li&gt;&lt;li&gt;Aliança: 0.9–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-02-10-Aximage.png"
+        length="196212"
+        type="image/png"/>
+      <pubDate>Fri, 22 Feb 2019 19:16:12 +0100</pubDate>
+      <dc:date>2019-02-22T19:16:12.356936+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC, 2–9 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-01-09-Eurosondagem.html#seats</link>
@@ -299,6 +309,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-02-14T20:06:04.510501+01:00</dc:date>
+    <dc:date>2019-02-22T19:16:12.356936+01:00</dc:date>
   </channel>
 </rss>
