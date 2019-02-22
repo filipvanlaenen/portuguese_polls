@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
+| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 70–75 | 7–12% <br> 15–27 | 33–40% <br> 90–109 | 7–12% <br> 17–23 | 5–9% <br> 7–16 | 2–4% <br> 1–4 | 1–3% <br> 0–2 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC | 22–28% <br> 59–77 | 6–9% <br> 8–19 | 37–43% <br> 106–125 | 6–9% <br> 10–18 | 6–9% <br> 9–18 | 1–3% <br> 0–3 | 3–5% <br> 2–6 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 55–77 | 7–12% <br> 12–28 | 34–42% <br> 96–119 | 7–11% <br> 11–24 | 5–10% <br> 8–20 | 2–5% <br> 2–6 | 1–2% <br> 0–2 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 58–81 | 7–11% <br> 10–26 | 33–41% <br> 98–121 | 8–13% <br> 15–27 | 5–9% <br> 6–17 | N/A <br> N/A | N/A <br> N/A |
