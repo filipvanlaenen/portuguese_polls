@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
-| [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 23–28% <br> 66–79 | 7–10% <br> 10–25 | 34–40% <br> 91–114 | 7–10% <br> 10–23 | 6–9% <br> 6–17 | 2–3% <br> 1–4 | 2–5% <br> 2–6 |
-| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 21–27% <br> 54–75 | 8–12% <br> 14–27 | 33–40% <br> 94–125 | 7–12% <br> 12–27 | 5–9% <br> 7–17 | 1–4% <br> 1–6 | 1–3% <br> 0–2 |
+| [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 23–28% <br> 63–79 | 7–10% <br> 12–22 | 34–40% <br> 99–116 | 7–10% <br> 10–21 | 6–9% <br> 9–18 | 2–3% <br> 1–4 | 2–5% <br> 2–6 |
+| [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 21–27% <br> 55–78 | 8–12% <br> 14–29 | 33–40% <br> 95–117 | 7–12% <br> 14–25 | 5–9% <br> 7–20 | 1–4% <br> 1–4 | 1–3% <br> 0–2 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 21–28% <br> 65–75 | 7–12% <br> 13–29 | 33–40% <br> 97–118 | 7–12% <br> 12–24 | 5–9% <br> 5–17 | 2–4% <br> 1–6 | 1–3% <br> 0–2 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 22–28% <br> 59–77 | 6–9% <br> 8–19 | 37–43% <br> 106–125 | 6–9% <br> 10–18 | 6–9% <br> 9–18 | 1–3% <br> 0–3 | 3–5% <br> 2–6 |
