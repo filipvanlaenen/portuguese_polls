@@ -86,8 +86,8 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 12–25 | 11–25 | 10–28 |
-| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 20 | 17–20 | 14–20 | 12–20 | 10–20 |
+| N/A | [Poll Average](average.html) | 19 | 14–25 | 12–25 | 11–25 | 9–28 |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 19 | 15–19 | 14–20 | 11–21 | 9–24 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 12–25 | 11–25 | 10–25 | 9–28 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 18 | 13–20 | 13–21 | 12–22 | 10–25 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 18–28 | 18–28 | 14–29 | 11–30 |
@@ -123,26 +123,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
 | 8 | 0.1% | 99.9% |  |
-| 9 | 0.2% | 99.8% |  |
-| 10 | 1.3% | 99.6% |  |
+| 9 | 0.6% | 99.8% |  |
+| 10 | 1.4% | 99.2% |  |
 | 11 | 2% | 98% |  |
-| 12 | 5% | 96% |  |
-| 13 | 0.3% | 91% |  |
-| 14 | 0.4% | 91% |  |
-| 15 | 0.4% | 91% |  |
-| 16 | 0% | 90% |  |
-| 17 | 21% | 90% |  |
-| 18 | 2% | 69% | Last Result |
-| 19 | 4% | 68% |  |
-| 20 | 41% | 64% | Median |
-| 21 | 0.3% | 23% |  |
-| 22 | 0.2% | 23% |  |
-| 23 | 1.3% | 23% |  |
-| 24 | 0.1% | 21% |  |
+| 12 | 4% | 96% |  |
+| 13 | 0.5% | 92% |  |
+| 14 | 3% | 92% |  |
+| 15 | 0.8% | 89% |  |
+| 16 | 4% | 88% |  |
+| 17 | 2% | 84% |  |
+| 18 | 12% | 83% | Last Result |
+| 19 | 27% | 70% | Median |
+| 20 | 19% | 43% |  |
+| 21 | 0.6% | 24% |  |
+| 22 | 0.2% | 24% |  |
+| 23 | 2% | 23% |  |
+| 24 | 0.2% | 22% |  |
 | 25 | 20% | 21% |  |
-| 26 | 0.7% | 1.2% |  |
-| 27 | 0% | 0.5% |  |
-| 28 | 0.4% | 0.5% |  |
+| 26 | 0.6% | 1.3% |  |
+| 27 | 0% | 0.6% |  |
+| 28 | 0.5% | 0.6% |  |
 | 29 | 0% | 0.1% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
