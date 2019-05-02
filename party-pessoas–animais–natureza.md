@@ -59,8 +59,8 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–6 |
-| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 2 | 2–3 | 1–4 | 1–4 | 1–6 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–4 | 1–4 | 1–6 |
+| [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 2 | 1–3 | 1–4 | 1–4 | 1–6 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 2 | 1–4 | 1–4 | 1–4 | 0–6 |
@@ -94,13 +94,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 6% | 99.6% | Last Result |
-| 2 | 55% | 94% | Median |
-| 3 | 30% | 39% |  |
-| 4 | 7% | 9% |  |
-| 5 | 0.1% | 1.5% |  |
-| 6 | 1.4% | 1.4% |  |
+| 0 | 0.1% | 100% |  |
+| 1 | 12% | 99.9% | Last Result |
+| 2 | 47% | 88% | Median |
+| 3 | 32% | 41% |  |
+| 4 | 8% | 9% |  |
+| 5 | 0.3% | 1.0% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 
