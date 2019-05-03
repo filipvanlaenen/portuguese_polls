@@ -68,7 +68,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 9–17 | 9–19 | 8–20 | 6–21 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 14 | 10–17 | 9–17 | 9–18 | 7–20 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 10–17 | 8–17 | 7–20 | 7–21 |
-| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 16 | 14–18 | 13–20 | 11–21 | 9–23 |
+| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 16 | 14–19 | 13–20 | 11–20 | 9–22 |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 8 | 7–17 | 7–17 | 5–17 | 5–17 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 14 | 10–17 | 9–17 | 9–18 | 7–20 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 14 | 9–17 | 8–18 | 8–20 | 6–21 |
@@ -105,15 +105,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 5% | 95% |  |
 | 11 | 6% | 90% |  |
 | 12 | 5% | 84% |  |
-| 13 | 7% | 79% |  |
-| 14 | 23% | 71% | Median |
+| 13 | 8% | 79% |  |
+| 14 | 22% | 71% | Median |
 | 15 | 6% | 49% |  |
 | 16 | 10% | 43% |  |
-| 17 | 21% | 32% | Last Result |
-| 18 | 6% | 11% |  |
-| 19 | 2% | 5% |  |
-| 20 | 2% | 4% |  |
-| 21 | 1.0% | 1.4% |  |
+| 17 | 21% | 33% | Last Result |
+| 18 | 5% | 12% |  |
+| 19 | 2% | 7% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.9% | 1.3% |  |
 | 22 | 0.1% | 0.4% |  |
 | 23 | 0.1% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |

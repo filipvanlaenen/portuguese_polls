@@ -60,12 +60,12 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–6 | 1–6 | 1–6 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 1–6 | 1–6 | 1–6 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 2 | 2–4 | 1–4 | 1–4 | 1–6 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–3 | 1–4 | 1–4 | 1–4 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 2 | 1–4 | 1–4 | 1–4 | 0–6 |
-| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 3 | 2–6 | 2–6 | 2–6 | 1–6 |
+| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 3 | 2–5 | 2–6 | 2–6 | 1–6 |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 3 | 2–4 | 1–4 | 1–6 | 1–6 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 1 | 1–2 | 1–3 | 0–3 | 0–4 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 4 | 2–6 | 2–6 | 2–6 | 2–9 |
@@ -97,11 +97,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
 | 1 | 5% | 99.9% | Last Result |
-| 2 | 31% | 95% |  |
-| 3 | 35% | 64% | Median |
-| 4 | 21% | 29% |  |
-| 5 | 2% | 9% |  |
-| 6 | 6% | 6% |  |
+| 2 | 35% | 95% |  |
+| 3 | 34% | 60% | Median |
+| 4 | 19% | 26% |  |
+| 5 | 2% | 7% |  |
+| 6 | 5% | 5% |  |
 | 7 | 0.1% | 0.2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

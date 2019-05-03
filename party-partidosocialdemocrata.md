@@ -71,12 +71,12 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 65–83 | 63–86 | 62–89 | 59–93 |
+| N/A | [Poll Average](average.html) | 73 | 65–83 | 64–86 | 62–89 | 60–93 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 70 | 64–76 | 64–77 | 63–78 | 60–82 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 79 | 72–88 | 70–90 | 68–92 | 65–95 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 71 | 65–76 | 63–78 | 63–79 | 60–82 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 66 | 57–73 | 56–74 | 55–78 | 53–83 |
-| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 69 | 63–76 | 62–78 | 61–79 | 58–82 |
+| [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 71 | 64–77 | 62–79 | 61–80 | 58–83 |
 | [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 70 | 68–71 | 67–73 | 65–75 | 54–83 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 69 | 63–75 | 61–76 | 59–77 | 57–79 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 66 | 59–74 | 57–76 | 55–77 | 53–81 |
@@ -110,26 +110,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 0.1% | 99.9% |  |
 | 58 | 0.1% | 99.8% |  |
 | 59 | 0.2% | 99.7% |  |
-| 60 | 0.5% | 99.5% |  |
-| 61 | 0.8% | 98.9% |  |
-| 62 | 2% | 98% |  |
-| 63 | 2% | 96% |  |
-| 64 | 3% | 94% |  |
-| 65 | 4% | 91% |  |
-| 66 | 4% | 87% |  |
-| 67 | 5% | 82% |  |
-| 68 | 4% | 78% |  |
-| 69 | 7% | 74% |  |
-| 70 | 5% | 67% |  |
-| 71 | 6% | 62% |  |
-| 72 | 6% | 56% | Median |
-| 73 | 7% | 50% |  |
-| 74 | 6% | 43% |  |
-| 75 | 5% | 37% |  |
-| 76 | 5% | 32% |  |
-| 77 | 3% | 27% |  |
-| 78 | 4% | 23% |  |
-| 79 | 2% | 20% |  |
+| 60 | 0.4% | 99.5% |  |
+| 61 | 0.7% | 99.1% |  |
+| 62 | 1.4% | 98% |  |
+| 63 | 2% | 97% |  |
+| 64 | 3% | 95% |  |
+| 65 | 3% | 92% |  |
+| 66 | 4% | 89% |  |
+| 67 | 5% | 86% |  |
+| 68 | 4% | 81% |  |
+| 69 | 7% | 76% |  |
+| 70 | 5% | 70% |  |
+| 71 | 6% | 65% |  |
+| 72 | 6% | 59% |  |
+| 73 | 7% | 53% | Median |
+| 74 | 6% | 46% |  |
+| 75 | 6% | 40% |  |
+| 76 | 5% | 33% |  |
+| 77 | 4% | 28% |  |
+| 78 | 4% | 24% |  |
+| 79 | 3% | 21% |  |
 | 80 | 3% | 18% |  |
 | 81 | 2% | 15% |  |
 | 82 | 3% | 13% |  |
