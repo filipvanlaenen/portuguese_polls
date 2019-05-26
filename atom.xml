@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/portuguese_polls</id>
   <title>All Registered Polls for the Assembleia da República</title>
-  <updated>2019-05-03T11:33:51.049688+02:00</updated>
+  <updated>2019-05-26T05:35:50.83435+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 22.3–29.2%, 63–86 seats</li><li>Partido Socialista: 33.4–41.1%, 98–122 seats</li><li>Bloco de Esquerda: 6.3–10.7%, 10–24 seats</li><li>CDS–Partido Popular: 4.8–8.7%, 6–19 seats</li><li>Coligação Democrática Unitária: 4.8–8.7%, 6–18 seats</li><li>Pessoas–Animais–Natureza: 1.8–4.5%, 1–6 seats</li><li>Aliança: 1.0–3.2%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/portuguese_polls/2019-04-13-Pitagórica.html</id>
+    <link href="https://filipvanlaenen.github.io/portuguese_polls/2019-04-13-Pitagórica.html"/>
+    <title>Opinion Poll by Pitagórica, 3–13 April 2019</title>
+    <updated>2019-05-26T05:35:50.83435+02:00</updated>
+    <dc:date>2019-05-26T05:35:50.83435+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 22.5–27.8%, 63–78 seats</li><li>Partido Socialista: 34.0–39.9%, 98–115 seats</li><li>Bloco de Esquerda: 6.3–9.6%, 10–18 seats</li><li>CDS–Partido Popular: 6.9–10.3%, 11–23 seats</li><li>Coligação Democrática Unitária: 5.8–9.0%, 9–18 seats</li><li>Pessoas–Animais–Natureza: 1.7–3.6%, 1–4 seats</li><li>Aliança: 2.6–4.9%, 2–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/portuguese_polls/2019-04-11-Eurosondagem.html</id>
@@ -71,5 +79,5 @@
     <updated>2019-01-15T21:05:44.614175+01:00</updated>
     <dc:date>2019-01-15T21:05:44.614175+01:00</dc:date>
   </entry>
-  <dc:date>2019-05-03T11:33:51.049688+02:00</dc:date>
+  <dc:date>2019-05-26T05:35:50.83435+02:00</dc:date>
 </feed>
