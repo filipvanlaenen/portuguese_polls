@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 26 May 2019 05:35:50 +0200</pubDate>
+    <pubDate>Thu, 20 Jun 2019 19:52:34 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-06-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.7–26.9%&lt;/li&gt;&lt;li&gt;Partido Socialista: 34.5–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.5–11.1%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.0–8.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.7–6.4%&lt;/li&gt;&lt;li&gt;Aliança: 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-06-Eurosondagem.png"
+        length="182044"
+        type="image/png"/>
+      <pubDate>Thu, 20 Jun 2019 19:52:34 +0200</pubDate>
+      <dc:date>2019-06-20T19:52:34.950319+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica, 3–13 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-04-13-Pitagórica.html#seats</link>
@@ -449,6 +459,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-05-26T05:35:50.83435+02:00</dc:date>
+    <dc:date>2019-06-20T19:52:34.950319+02:00</dc:date>
   </channel>
 </rss>
