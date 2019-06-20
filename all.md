@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
-| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 22–27% <br> 61–78 | 5–8% <br> 7–15 | 34–40% <br> 103–120 | 7–11% <br> 15–25 | 5–8% <br> 7–17 | 4–6% <br> 4–12 | 1–3% <br> 0–2 |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 22–29% <br> 63–86 | 5–9% <br> 6–19 | 33–41% <br> 98–122 | 6–11% <br> 10–24 | 5–9% <br> 6–18 | 2–4% <br> 1–6 | 1–3% <br> 0–2 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 22–28% <br> 63–78 | 7–10% <br> 11–23 | 34–40% <br> 98–115 | 6–10% <br> 10–18 | 6–9% <br> 9–18 | 2–4% <br> 1–4 | 3–5% <br> 2–6 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 24–31% <br> 68–92 | 6–11% <br> 10–25 | 31–38% <br> 89–114 | 6–11% <br> 11–24 | 5–9% <br> 8–20 | N/A <br> N/A | N/A <br> N/A |
