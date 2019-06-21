@@ -65,7 +65,7 @@ Last result: **1** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 2–8 | 2–9 | 2–10 | 1–13 |
-| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 7 | 6–9 | 5–10 | 4–12 | 4–13 |
+| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 7 | 6–9 | 5–10 | 4–11 | 4–13 |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 3 | 2–6 | 2–6 | 1–6 | 1–7 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 2 | 2–4 | 1–4 | 1–4 | 1–6 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
@@ -104,16 +104,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 2% | 100% | Last Result |
 | 2 | 12% | 98% |  |
 | 3 | 14% | 85% |  |
-| 4 | 17% | 71% |  |
-| 5 | 2% | 55% |  |
-| 6 | 24% | 53% | Median |
-| 7 | 11% | 29% |  |
+| 4 | 16% | 71% |  |
+| 5 | 3% | 55% |  |
+| 6 | 27% | 52% | Median |
+| 7 | 8% | 25% |  |
 | 8 | 10% | 17% |  |
 | 9 | 4% | 7% |  |
-| 10 | 1.3% | 3% |  |
-| 11 | 0.2% | 2% |  |
-| 12 | 0.7% | 1.4% |  |
-| 13 | 0.5% | 0.7% |  |
+| 10 | 1.2% | 3% |  |
+| 11 | 0.4% | 1.4% |  |
+| 12 | 0.4% | 1.0% |  |
+| 13 | 0.4% | 0.6% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 
