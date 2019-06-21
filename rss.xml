@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Thu, 20 Jun 2019 19:52:34 +0200</pubDate>
+    <pubDate>Thu, 20 Jun 2019 21:17:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-06-Eurosondagem.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-06-Eurosondagem.png"
         length="182044"
         type="image/png"/>
-      <pubDate>Thu, 20 Jun 2019 19:52:34 +0200</pubDate>
-      <dc:date>2019-06-20T19:52:34.950319+02:00</dc:date>
+      <pubDate>Thu, 20 Jun 2019 21:17:50 +0200</pubDate>
+      <dc:date>2019-06-20T21:17:50.63708+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica, 3–13 April 2019 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-06-20T19:52:34.950319+02:00</dc:date>
+    <dc:date>2019-06-20T21:17:50.63708+02:00</dc:date>
   </channel>
 </rss>
