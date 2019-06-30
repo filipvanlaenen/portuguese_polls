@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Thu, 20 Jun 2019 21:17:50 +0200</pubDate>
+    <pubDate>Sun, 30 Jun 2019 10:16:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.0–26.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 31.8–39.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.9–11.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.9–8.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.2–9.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.8–6.0%&lt;/li&gt;&lt;li&gt;Aliança: 0.4–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.png"
+        length="198422"
+        type="image/png"/>
+      <pubDate>Sun, 30 Jun 2019 10:16:15 +0200</pubDate>
+      <dc:date>2019-06-30T10:16:15.255683+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-06-Eurosondagem.html</link>
@@ -459,6 +469,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-06-20T21:17:50.63708+02:00</dc:date>
+    <dc:date>2019-06-30T10:16:15.255683+02:00</dc:date>
   </channel>
 </rss>
