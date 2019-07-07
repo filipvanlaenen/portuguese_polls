@@ -10,13 +10,13 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.7% | 5.0–8.1% | 4.8–8.5% | 4.4–9.3% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.5–8.3% | 5.1–8.8% | 4.9–9.3% | 4.3–10.1% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.6% | 5.5–8.1% | 5.2–8.5% | 4.9–8.9% | 4.4–9.6% |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 6.1% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.9% | N/A | N/A | N/A | N/A |
-| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 6.1% | N/A | N/A | N/A | N/A |
-| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 7.0% | N/A | N/A | N/A | N/A |
-| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 8.0% | N/A | N/A | N/A | N/A |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.9% | 5.8–8.4% | 5.4–8.8% | 5.2–9.2% | 4.7–10.0% |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 6.1% | 5.0–7.6% | 4.7–8.0% | 4.5–8.3% | 4.0–9.1% |
+| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 7.0% | 6.3–7.8% | 6.1–8.1% | 5.9–8.3% | 5.6–8.7% |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.7% |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 6.4% | 5.3–7.9% | 5.0–8.3% | 4.8–8.7% | 4.3–9.4% |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 8.4% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8.5% | 7.2–10.1% | 6.8–10.6% | 6.5–11.0% | 5.9–11.8% |
@@ -52,13 +52,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 16% | 99.0% |  |
-| 5.5–6.5% | 41% | 83% | Median |
-| 6.5–7.5% | 30% | 42% |  |
-| 7.5–8.5% | 10% | 13% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 4.5–5.5% | 11% | 99.0% |  |
+| 5.5–6.5% | 29% | 88% |  |
+| 6.5–7.5% | 34% | 59% | Median |
+| 7.5–8.5% | 18% | 25% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 1.3% | 1.5% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -95,20 +95,20 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–17 | 8–19 | 7–19 | 6–21 |
+| N/A | [Poll Average](average.html) | 11 | 8–17 | 7–19 | 7–20 | 6–21 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 12 | 8–19 | 8–19 | 8–20 | 6–22 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 10 | 8–13 | 7–13 | 6–16 | 6–18 |
-| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica |  |  |  |  |  |
-| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP |  |  |  |  |  |
-| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 12 | 9–18 | 8–20 | 8–20 | 6–22 |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 10 | 7–14 | 6–17 | 6–18 | 6–19 |
+| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 10 | 9–13 | 8–14 | 8–15 | 6–17 |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 14 | 11–19 | 10–20 | 10–20 | 9–23 |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 11 | 8–16 | 6–19 | 6–19 | 6–20 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 18 | 13–20 | 12–21 | 11–23 | 10–25 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 18 | 13–23 | 11–24 | 10–25 | 10–28 |
 | [10–14 March 2019](2019-03-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 18 | 13–20 | 13–21 | 12–22 | 10–25 |
 | [9–13 March 2019](2019-03-13-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 18–28 | 18–28 | 14–29 | 11–30 |
 | [9–21 February 2019](2019-02-21-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 16 | 13–20 | 12–20 | 10–23 | 8–25 |
-| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 20 | 17–27 | 15–27 | 13–29 | 13–29 |
+| [5–10 February 2019](2019-02-10-Aximage.html) | Aximage <br> Correio da Manhã | 20 | 17–25 | 13–28 | 13–29 | 11–30 |
 | [2–9 January 2019](2019-01-09-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 12 | 9–18 | 8–18 | 8–19 | 7–19 |
 | [4–7 January 2019](2019-01-07-Aximage.html) | Aximage <br> Correio da Manhã | 20 | 15–25 | 13–28 | 12–28 | 10–30 |
 | [7–11 December 2018](2018-12-11-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 19 | 13–23 | 11–25 | 10–26 | 10–29 |
@@ -137,26 +137,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0% | 100% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 0.1% | 99.9% |  |
 | 6 | 2% | 99.9% |  |
 | 7 | 3% | 98% |  |
-| 8 | 20% | 95% |  |
-| 9 | 6% | 75% |  |
-| 10 | 15% | 69% |  |
-| 11 | 19% | 54% | Median |
-| 12 | 8% | 35% |  |
-| 13 | 10% | 27% |  |
-| 14 | 2% | 16% |  |
-| 15 | 2% | 14% |  |
-| 16 | 1.3% | 12% |  |
-| 17 | 4% | 11% |  |
-| 18 | 1.0% | 6% | Last Result |
-| 19 | 3% | 5% |  |
-| 20 | 2% | 2% |  |
+| 8 | 14% | 94% |  |
+| 9 | 6% | 81% |  |
+| 10 | 16% | 75% |  |
+| 11 | 16% | 58% | Median |
+| 12 | 8% | 42% |  |
+| 13 | 13% | 34% |  |
+| 14 | 4% | 21% |  |
+| 15 | 4% | 17% |  |
+| 16 | 2% | 13% |  |
+| 17 | 3% | 10% |  |
+| 18 | 2% | 7% | Last Result |
+| 19 | 2% | 5% |  |
+| 20 | 2% | 3% |  |
 | 21 | 0.3% | 0.6% |  |
-| 22 | 0.2% | 0.3% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0.1% |  |
+| 22 | 0.1% | 0.3% |  |
+| 23 | 0% | 0.2% |  |
+| 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
