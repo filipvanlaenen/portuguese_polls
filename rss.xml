@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Mon, 01 Jul 2019 06:56:35 +0200</pubDate>
+    <pubDate>Sun, 07 Jul 2019 12:08:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.html</link>
@@ -28,6 +28,46 @@
         type="image/png"/>
       <pubDate>Thu, 20 Jun 2019 21:17:50 +0200</pubDate>
       <dc:date>2019-06-20T21:17:50.63708+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 16–22 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-05-22-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 22.4–29.3%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.8–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.1–11.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 5.2–9.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.4–9.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 0.8–2.7%&lt;/li&gt;&lt;li&gt;Aliança: 0.7–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-05-22-Aximage.png"
+        length="193794"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 11:18:08 +0200</pubDate>
+      <dc:date>2019-07-07T11:18:08.247601+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica, 10–19 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-05-19-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 19.3–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.7–44.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.3–10.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.5–8.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.8–8.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.4–5.5%&lt;/li&gt;&lt;li&gt;Aliança: 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-05-19-Pitagórica.png"
+        length="189069"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 10:26:37 +0200</pubDate>
+      <dc:date>2019-07-07T10:26:37.226941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CESOP–UCP, 16–19 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-05-19-CESOP–UCP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 26.0–30.1%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.8–41.2%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.8–10.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 5.9–8.3%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6.9–9.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.3–3.9%&lt;/li&gt;&lt;li&gt;Aliança: 0.6–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-05-19-CESOP–UCP.png"
+        length="171934"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 11:47:45 +0200</pubDate>
+      <dc:date>2019-07-07T11:47:45.400462+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 7–12 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-05-12-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.7–39.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.2–11.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 6.3–10.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6.3–10.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.2–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-05-12-ICSISCTE.png"
+        length="178074"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 11:38:58 +0200</pubDate>
+      <dc:date>2019-07-07T11:38:58.408804+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica, 3–13 April 2019 – Seat Projections for the Parties</title>
@@ -174,10 +214,10 @@
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-02-10-Aximage.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.2–28.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.6–40.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.9–11.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 7.2–11.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.6–8.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.5–4.1%&lt;/li&gt;&lt;li&gt;Aliança: 0.9–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-02-10-Aximage.png"
-        length="196212"
+        length="196209"
         type="image/png"/>
-      <pubDate>Tue, 12 Mar 2019 07:56:52 +0100</pubDate>
-      <dc:date>2019-03-12T07:56:52.296436+01:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 12:08:29 +0200</pubDate>
+      <dc:date>2019-07-07T12:08:29.852738+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Expresso and SIC Notícias, 2–9 January 2019 – Seat Projections for the Parties</title>
@@ -469,6 +509,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-07-01T06:56:35.796051+02:00</dc:date>
+    <dc:date>2019-07-07T12:08:29.852738+02:00</dc:date>
   </channel>
 </rss>
