@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 07 Jul 2019 12:08:29 +0200</pubDate>
+    <pubDate>Sun, 07 Jul 2019 16:17:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 58–79 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 97–121 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 14–26 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 7–20 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 8–20 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3–10 seats&lt;/li&gt;&lt;li&gt;Aliança: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage-seats.png"
+        length="183789"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 15:14:46 +0200</pubDate>
+      <dc:date>2019-07-07T15:14:46.739766+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage-coalitions-seats.png"
+        length="177725"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jul 2019 15:14:46 +0200</pubDate>
+      <dc:date>2019-07-07T15:14:46.739766+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-19-Aximage.png"
         length="198422"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 06:56:35 +0200</pubDate>
-      <dc:date>2019-07-01T06:56:35.796051+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 15:14:46 +0200</pubDate>
+      <dc:date>2019-07-07T15:14:46.739766+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 2–6 June 2019 – Voting Intentions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-05-22-Aximage.png"
         length="193794"
         type="image/png"/>
-      <pubDate>Sun, 07 Jul 2019 11:18:08 +0200</pubDate>
-      <dc:date>2019-07-07T11:18:08.247601+02:00</dc:date>
+      <pubDate>Sun, 07 Jul 2019 16:17:40 +0200</pubDate>
+      <dc:date>2019-07-07T16:17:40.671294+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica, 10–19 May 2019 – Voting Intentions</title>
@@ -509,6 +529,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-07-07T12:08:29.852738+02:00</dc:date>
+    <dc:date>2019-07-07T16:17:40.671294+02:00</dc:date>
   </channel>
 </rss>
