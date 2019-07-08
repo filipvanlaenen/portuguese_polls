@@ -71,10 +71,10 @@ Last result: **1** seats (General Election of 4 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–8 | 1–8 | 1–9 | 0–12 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6 | 4–8 | 4–9 | 3–10 | 2–13 |
-| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 7 | 6–9 | 5–10 | 4–11 | 4–13 |
+| [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 7 | 6–9 | 5–9 | 4–11 | 4–13 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
-| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 5 | 3–6 | 3–7 | 2–8 | 2–10 |
-| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 3 | 2–4 | 2–4 | 2–5 | 2–6 |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 4 | 3–6 | 3–7 | 2–8 | 2–10 |
+| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 3 | 2–4 | 2–4 | 2–4 | 2–6 |
 | [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2 | 1–3 | 1–3 | 0–3 | 0–4 |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 3 | 2–6 | 2–6 | 1–6 | 1–7 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 2 | 2–4 | 1–4 | 1–4 | 1–6 |
@@ -111,17 +111,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% |  |
-| 1 | 8% | 99.2% | Last Result |
-| 2 | 13% | 91% |  |
-| 3 | 16% | 78% |  |
-| 4 | 16% | 62% | Median |
-| 5 | 3% | 46% |  |
+| 0 | 0.7% | 100% |  |
+| 1 | 7% | 99.3% | Last Result |
+| 2 | 13% | 92% |  |
+| 3 | 16% | 79% |  |
+| 4 | 18% | 63% | Median |
+| 5 | 3% | 45% |  |
 | 6 | 26% | 42% |  |
 | 7 | 5% | 16% |  |
 | 8 | 6% | 11% |  |
 | 9 | 3% | 5% |  |
-| 10 | 0.8% | 2% |  |
+| 10 | 0.7% | 2% |  |
 | 11 | 0.3% | 1.0% |  |
 | 12 | 0.3% | 0.7% |  |
 | 13 | 0.3% | 0.5% |  |
