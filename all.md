@@ -8,9 +8,9 @@ The table below lists all polls registered and analyzed so far.
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20–27% <br> 58–79 | 5–9% <br> 7–20 | 32–39% <br> 97–121 | 7–11% <br> 14–26 | 5–9% <br> 8–20 | 3–6% <br> 3–10 | 0–2% <br> 0 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 22–27% <br> 61–78 | 5–8% <br> 6–16 | 34–40% <br> 103–120 | 7–11% <br> 15–24 | 5–8% <br> 7–17 | 4–6% <br> 4–11 | 1–3% <br> 0–2 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 22–29% <br> 64–85 | 5–9% <br> 7–20 | 33–40% <br> 97–119 | 7–12% <br> 13–25 | 5–10% <br> 9–20 | 1–3% <br> 0–3 | 1–3% <br> 0–2 |
-| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 19–26% <br> 54–75 | 4–8% <br> 6–18 | 37–44% <br> 109–134 | 6–11% <br> 10–24 | 5–9% <br> 6–19 | 2–5% <br> 2–8 | 1–3% <br> 0–2 |
-| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 26–30% <br> 70–82 | 6–8% <br> 8–15 | 37–41% <br> 101–115 | 8–10% <br> 13–21 | 7–9% <br> 12–19 | 2–4% <br> 2–5 | 1–2% <br> 0 |
-| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 25–31% <br> 68–88 | 6–10% <br> 10–21 | 33–39% <br> 90–112 | 7–11% <br> 13–24 | 6–10% <br> 10–21 | 1–3% <br> 0–3 | N/A <br> N/A |
+| [10–19 May 2019](2019-05-19-Pitagórica.html) | Pitagórica | 19–26% <br> 54–76 | 4–8% <br> 6–18 | 37–44% <br> 109–134 | 6–11% <br> 10–24 | 5–9% <br> 6–19 | 2–5% <br> 2–8 | 1–3% <br> 0–2 |
+| [16–19 May 2019](2019-05-19-CESOP–UCP.html) | CESOP–UCP | 26–30% <br> 70–82 | 6–8% <br> 8–14 | 37–41% <br> 101–114 | 8–10% <br> 14–20 | 7–9% <br> 13–18 | 2–4% <br> 2–4 | 1–2% <br> 0 |
+| [7–12 May 2019](2019-05-12-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 25–31% <br> 69–89 | 6–10% <br> 10–21 | 33–39% <br> 90–111 | 7–11% <br> 12–24 | 6–10% <br> 10–21 | 1–3% <br> 0–3 | N/A <br> N/A |
 | [3–13 April 2019](2019-04-13-Pitagórica.html) | Pitagórica | 22–29% <br> 63–86 | 5–9% <br> 6–19 | 33–41% <br> 98–122 | 6–11% <br> 10–24 | 5–9% <br> 6–18 | 2–4% <br> 1–6 | 1–3% <br> 0–2 |
 | [7–11 April 2019](2019-04-11-Eurosondagem.html) | Eurosondagem <br> Expresso and SIC Notícias | 22–28% <br> 63–78 | 7–10% <br> 11–23 | 34–40% <br> 98–115 | 6–10% <br> 10–18 | 6–9% <br> 9–18 | 2–4% <br> 1–4 | 3–5% <br> 2–6 |
 | [30 March–1 April 2019](2019-04-01-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 24–31% <br> 68–92 | 6–11% <br> 10–25 | 31–38% <br> 89–114 | 6–11% <br> 11–24 | 5–9% <br> 8–20 | N/A <br> N/A | N/A <br> N/A |
