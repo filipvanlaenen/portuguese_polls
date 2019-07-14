@@ -73,8 +73,8 @@ Last result: **17** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 10–18 | 8–19 | 8–20 | 6–21 |
-| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 14 | 9–15 | 8–17 | 8–19 | 7–19 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–19 | 13–20 | 11–21 | 8–23 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 14 | 10–17 | 9–17 | 8–18 | 7–20 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–19 | 13–20 | 12–21 | 8–23 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 10–18 | 8–19 | 8–20 | 7–21 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 13 | 8–14 | 7–16 | 7–17 | 6–18 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 16 | 11–18 | 9–19 | 9–20 | 7–21 |
@@ -118,21 +118,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.3% | 100% |  |
 | 6 | 1.1% | 99.7% |  |
-| 7 | 1.0% | 98.6% |  |
+| 7 | 1.1% | 98.6% |  |
 | 8 | 3% | 98% |  |
-| 9 | 4% | 94% |  |
-| 10 | 3% | 90% |  |
-| 11 | 2% | 87% |  |
+| 9 | 3% | 95% |  |
+| 10 | 4% | 91% |  |
+| 11 | 3% | 88% |  |
 | 12 | 3% | 85% |  |
-| 13 | 9% | 82% |  |
-| 14 | 29% | 73% | Median |
-| 15 | 7% | 44% |  |
+| 13 | 10% | 82% |  |
+| 14 | 28% | 71% | Median |
+| 15 | 6% | 44% |  |
 | 16 | 6% | 37% |  |
-| 17 | 16% | 31% | Last Result |
-| 18 | 7% | 14% |  |
-| 19 | 4% | 7% |  |
+| 17 | 18% | 31% | Last Result |
+| 18 | 7% | 13% |  |
+| 19 | 3% | 6% |  |
 | 20 | 2% | 3% |  |
-| 21 | 0.6% | 1.1% |  |
+| 21 | 0.8% | 1.2% |  |
 | 22 | 0.2% | 0.5% |  |
 | 23 | 0.2% | 0.3% |  |
 | 24 | 0.1% | 0.1% |  |

@@ -81,9 +81,9 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 111 | 104–122 | 102–126 | 101–129 | 97–134 |
-| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 112 | 106–117 | 104–119 | 103–121 | 100–125 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 112 | 104–119 | 102–120 | 102–122 | 99–126 |
+| N/A | [Poll Average](average.html) | 111 | 104–122 | 102–126 | 100–129 | 97–134 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 112 | 105–117 | 104–119 | 103–121 | 100–125 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 112 | 105–119 | 103–120 | 102–122 | 99–126 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 109 | 101–116 | 99–118 | 97–121 | 93–125 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 111 | 105–116 | 104–118 | 103–120 | 100–125 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 108 | 101–116 | 98–117 | 97–119 | 92–124 |
@@ -135,32 +135,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0% | 99.9% |  |
 | 94 | 0% | 99.9% |  |
 | 95 | 0.1% | 99.8% |  |
-| 96 | 0.2% | 99.8% |  |
+| 96 | 0.2% | 99.7% |  |
 | 97 | 0.2% | 99.6% |  |
 | 98 | 0.4% | 99.3% |  |
-| 99 | 0.5% | 98.9% |  |
-| 100 | 0.9% | 98% |  |
-| 101 | 1.0% | 98% |  |
+| 99 | 0.5% | 99.0% |  |
+| 100 | 1.0% | 98% |  |
+| 101 | 1.0% | 97% |  |
 | 102 | 2% | 97% |  |
 | 103 | 2% | 95% |  |
 | 104 | 3% | 92% |  |
 | 105 | 4% | 89% |  |
 | 106 | 5% | 85% |  |
-| 107 | 5% | 80% |  |
+| 107 | 6% | 80% |  |
 | 108 | 5% | 75% |  |
 | 109 | 7% | 70% |  |
-| 110 | 8% | 63% |  |
-| 111 | 6% | 55% | Median |
-| 112 | 5% | 49% |  |
-| 113 | 6% | 43% |  |
-| 114 | 6% | 38% |  |
+| 110 | 7% | 63% |  |
+| 111 | 6% | 56% | Median |
+| 112 | 8% | 50% |  |
+| 113 | 6% | 42% |  |
+| 114 | 5% | 36% |  |
 | 115 | 5% | 31% |  |
 | 116 | 3% | 26% | Majority |
 | 117 | 3% | 23% |  |
 | 118 | 3% | 20% |  |
 | 119 | 3% | 17% |  |
 | 120 | 2% | 14% |  |
-| 121 | 1.3% | 12% |  |
+| 121 | 1.5% | 12% |  |
 | 122 | 2% | 11% |  |
 | 123 | 2% | 9% |  |
 | 124 | 1.1% | 8% |  |

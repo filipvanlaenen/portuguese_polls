@@ -71,8 +71,8 @@ Last result: **1** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–7 | 3–8 | 2–9 | 2–11 |
-| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 6 | 4–7 | 4–8 | 4–9 | 3–9 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 4–6 | 3–8 | 3–8 | 2–9 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 6 | 4–7 | 4–8 | 4–9 | 3–10 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6 | 4–6 | 3–7 | 3–8 | 3–9 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6 | 4–8 | 4–9 | 3–10 | 2–13 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 7 | 6–9 | 5–9 | 4–11 | 4–13 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 1 | 0–2 | 0–3 | 0–3 | 0–4 |
@@ -116,9 +116,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
 | 2 | 4% | 100% |  |
-| 3 | 16% | 96% |  |
-| 4 | 25% | 80% |  |
-| 5 | 6% | 55% | Median |
+| 3 | 15% | 96% |  |
+| 4 | 24% | 80% |  |
+| 5 | 7% | 57% | Median |
 | 6 | 39% | 49% |  |
 | 7 | 3% | 10% |  |
 | 8 | 4% | 7% |  |
