@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 14 Jul 2019 17:55:24 +0200</pubDate>
+    <pubDate>Sun, 14 Jul 2019 19:48:52 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 60–77 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 103–121 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 15–24 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 7–18 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 8–18 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 4–9 seats&lt;/li&gt;&lt;li&gt;Aliança: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem-seats.png"
+        length="173009"
+        type="image/png"/>
+      <pubDate>Sun, 14 Jul 2019 19:32:45 +0200</pubDate>
+      <dc:date>2019-07-14T19:32:45.5284+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem-coalitions-seats.png"
+        length="162516"
+        type="image/png"/>
+      <pubDate>Sun, 14 Jul 2019 19:32:45 +0200</pubDate>
+      <dc:date>2019-07-14T19:32:45.5284+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-11-Eurosondagem.png"
         length="185958"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 17:55:24 +0200</pubDate>
-      <dc:date>2019-07-14T17:55:24.044947+02:00</dc:date>
+      <pubDate>Sun, 14 Jul 2019 19:32:45 +0200</pubDate>
+      <dc:date>2019-07-14T19:32:45.5284+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 15–27 June 2019 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-06-27-ICSISCTE.png"
         length="187583"
         type="image/png"/>
-      <pubDate>Sun, 14 Jul 2019 17:38:28 +0200</pubDate>
-      <dc:date>2019-07-14T17:38:28.909209+02:00</dc:date>
+      <pubDate>Sun, 14 Jul 2019 19:48:52 +0200</pubDate>
+      <dc:date>2019-07-14T19:48:52.412986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 13–19 June 2019 – Seat Projections for the Parties</title>
@@ -649,6 +669,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-07-14T17:55:24.044947+02:00</dc:date>
+    <dc:date>2019-07-14T19:48:52.412986+02:00</dc:date>
   </channel>
 </rss>
