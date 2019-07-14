@@ -10,7 +10,8 @@ Last result: **10.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.8–11.2% | 7.3–11.9% | 7.0–12.4% | 6.3–13.4% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.7–11.2% | 7.3–11.9% | 6.9–12.4% | 6.3–13.4% |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8.9% | 7.6–10.6% | 7.2–11.1% | 6.9–11.5% | 6.3–12.3% |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 9.1% | 8.0–10.4% | 7.8–10.8% | 7.5–11.1% | 7.0–11.7% |
@@ -54,9 +55,9 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0.1% | 100% |  |
 | 5.5–6.5% | 1.0% | 99.9% |  |
 | 6.5–7.5% | 6% | 98.9% |  |
-| 7.5–8.5% | 21% | 93% |  |
-| 8.5–9.5% | 33% | 72% | Median |
-| 9.5–10.5% | 21% | 39% | Last Result |
+| 7.5–8.5% | 22% | 93% |  |
+| 8.5–9.5% | 33% | 71% | Median |
+| 9.5–10.5% | 20% | 38% | Last Result |
 | 10.5–11.5% | 11% | 18% |  |
 | 11.5–12.5% | 5% | 7% |  |
 | 12.5–13.5% | 2% | 2% |  |
@@ -72,7 +73,8 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–25 | 14–26 | 13–28 | 10–29 |
+| N/A | [Poll Average](average.html) | 18 | 16–24 | 14–28 | 13–28 | 10–29 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 18 | 17–23 | 16–24 | 15–24 | 13–25 |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 24 | 20–28 | 19–28 | 18–29 | 17–33 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 19 | 16–24 | 15–24 | 14–26 | 10–28 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 19 | 17–23 | 16–24 | 15–24 | 13–26 |
@@ -121,25 +123,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.6% | 98.6% |  |
 | 13 | 0.9% | 98% |  |
 | 14 | 2% | 97% |  |
-| 15 | 4% | 95% |  |
-| 16 | 6% | 91% |  |
-| 17 | 18% | 85% |  |
-| 18 | 20% | 67% | Median |
-| 19 | 8% | 48% | Last Result |
-| 20 | 9% | 40% |  |
-| 21 | 6% | 31% |  |
-| 22 | 4% | 25% |  |
-| 23 | 4% | 21% |  |
-| 24 | 7% | 17% |  |
-| 25 | 4% | 10% |  |
-| 26 | 2% | 7% |  |
-| 27 | 1.1% | 5% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.6% | 0.9% |  |
+| 15 | 5% | 95% |  |
+| 16 | 6% | 90% |  |
+| 17 | 18% | 84% |  |
+| 18 | 21% | 67% | Median |
+| 19 | 7% | 46% | Last Result |
+| 20 | 9% | 39% |  |
+| 21 | 5% | 30% |  |
+| 22 | 5% | 25% |  |
+| 23 | 3% | 20% |  |
+| 24 | 8% | 17% |  |
+| 25 | 2% | 10% |  |
+| 26 | 1.2% | 8% |  |
+| 27 | 1.2% | 6% |  |
+| 28 | 4% | 5% |  |
+| 29 | 0.5% | 0.8% |  |
 | 30 | 0.1% | 0.3% |  |
-| 31 | 0% | 0.2% |  |
+| 31 | 0.1% | 0.2% |  |
 | 32 | 0% | 0.2% |  |
-| 33 | 0% | 0.1% |  |
+| 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0.1% |  |
 | 35 | 0% | 0.1% |  |
 | 36 | 0% | 0% |  |

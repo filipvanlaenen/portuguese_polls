@@ -10,7 +10,8 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 4.8–7.6% | 4.5–8.0% | 4.2–8.3% | 3.7–9.0% |
+| N/A | [Poll Average](average.html) | 6.4% | 4.9–7.7% | 4.5–8.0% | 4.2–8.3% | 3.7–9.0% |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.1% | 4.7–8.7% |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 5.0% | 4.1–6.1% | 3.9–6.4% | 3.7–6.7% | 3.3–7.3% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.6% | 5.5–8.1% | 5.2–8.5% | 4.9–8.9% | 4.4–9.6% |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 6.1% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -54,11 +55,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.3% | 100% |  |
 | 3.5–4.5% | 6% | 99.7% |  |
-| 4.5–5.5% | 20% | 94% |  |
-| 5.5–6.5% | 33% | 74% | Median |
-| 6.5–7.5% | 30% | 41% |  |
-| 7.5–8.5% | 10% | 11% |  |
-| 8.5–9.5% | 1.3% | 1.4% |  |
+| 4.5–5.5% | 18% | 94% |  |
+| 5.5–6.5% | 32% | 76% | Median |
+| 6.5–7.5% | 32% | 45% |  |
+| 7.5–8.5% | 11% | 12% |  |
+| 8.5–9.5% | 1.4% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -97,8 +98,9 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 7–14 | 6–17 | 6–18 | 4–20 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 6–10 | 4–10 | 4–11 | 3–13 |
+| N/A | [Poll Average](average.html) | 10 | 7–15 | 6–17 | 6–18 | 4–20 |
+| [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 11 | 8–15 | 8–16 | 7–18 | 6–19 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 6–9 | 4–10 | 4–11 | 3–13 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 11 | 8–18 | 8–19 | 7–20 | 6–22 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 10 | 8–13 | 7–13 | 6–16 | 6–18 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 12 | 9–18 | 8–19 | 7–20 | 6–22 |
@@ -141,24 +143,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 0.1% | 99.9% |  |
-| 4 | 1.1% | 99.8% |  |
+| 3 | 0.2% | 99.9% |  |
+| 4 | 1.1% | 99.7% |  |
 | 5 | 0.5% | 98.7% |  |
-| 6 | 7% | 98% |  |
-| 7 | 10% | 92% |  |
-| 8 | 19% | 82% |  |
-| 9 | 7% | 63% |  |
-| 10 | 16% | 56% | Median |
-| 11 | 16% | 41% |  |
-| 12 | 8% | 25% |  |
-| 13 | 7% | 18% |  |
-| 14 | 2% | 11% |  |
-| 15 | 2% | 8% |  |
-| 16 | 1.0% | 6% |  |
-| 17 | 1.5% | 5% |  |
-| 18 | 1.3% | 4% | Last Result |
-| 19 | 1.2% | 2% |  |
-| 20 | 0.7% | 1.0% |  |
+| 6 | 6% | 98% |  |
+| 7 | 9% | 93% |  |
+| 8 | 16% | 84% |  |
+| 9 | 7% | 68% |  |
+| 10 | 17% | 61% | Median |
+| 11 | 15% | 44% |  |
+| 12 | 9% | 29% |  |
+| 13 | 8% | 20% |  |
+| 14 | 3% | 13% |  |
+| 15 | 3% | 10% |  |
+| 16 | 1.2% | 7% |  |
+| 17 | 2% | 6% |  |
+| 18 | 2% | 4% | Last Result |
+| 19 | 1.4% | 2% |  |
+| 20 | 0.8% | 1.0% |  |
 | 21 | 0.1% | 0.3% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0.1% |  |
