@@ -74,7 +74,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 10–18 | 8–19 | 8–20 | 6–21 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 14 | 10–17 | 9–17 | 8–18 | 7–20 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–19 | 13–20 | 12–21 | 8–23 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–20 | 13–20 | 12–21 | 9–23 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 10–18 | 8–19 | 8–20 | 7–21 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 13 | 8–14 | 7–16 | 7–17 | 6–18 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 16 | 11–18 | 9–19 | 9–20 | 7–21 |
@@ -124,17 +124,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 4% | 91% |  |
 | 11 | 3% | 88% |  |
 | 12 | 3% | 85% |  |
-| 13 | 10% | 82% |  |
-| 14 | 28% | 71% | Median |
-| 15 | 6% | 44% |  |
-| 16 | 6% | 37% |  |
-| 17 | 18% | 31% | Last Result |
-| 18 | 7% | 13% |  |
-| 19 | 3% | 6% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.8% | 1.2% |  |
-| 22 | 0.2% | 0.5% |  |
-| 23 | 0.2% | 0.3% |  |
+| 13 | 11% | 82% |  |
+| 14 | 29% | 71% | Median |
+| 15 | 6% | 42% |  |
+| 16 | 6% | 36% |  |
+| 17 | 16% | 30% | Last Result |
+| 18 | 7% | 14% |  |
+| 19 | 4% | 8% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.7% | 1.1% |  |
+| 22 | 0.2% | 0.4% |  |
+| 23 | 0.1% | 0.2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
