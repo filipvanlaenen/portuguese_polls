@@ -75,7 +75,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–25 | 15–27 | 13–28 | 10–29 |
-| [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 17–25 | 15–27 | 14–28 | 11–29 |
+| [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 17–25 | 16–26 | 15–27 | 12–29 |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 18 | 17–23 | 16–24 | 15–24 | 13–26 |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 24 | 20–28 | 19–28 | 18–29 | 17–32 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 19 | 16–24 | 15–24 | 14–26 | 10–28 |
@@ -122,23 +122,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0.1% | 100% |  |
 | 10 | 0.8% | 99.8% |  |
 | 11 | 0.4% | 99.1% |  |
-| 12 | 0.6% | 98.6% |  |
+| 12 | 0.6% | 98.7% |  |
 | 13 | 0.8% | 98% |  |
 | 14 | 2% | 97% |  |
 | 15 | 5% | 95% |  |
 | 16 | 6% | 91% |  |
-| 17 | 16% | 85% |  |
-| 18 | 19% | 69% | Median |
-| 19 | 7% | 50% | Last Result |
-| 20 | 10% | 43% |  |
-| 21 | 5% | 33% |  |
-| 22 | 4% | 28% |  |
-| 23 | 4% | 24% |  |
-| 24 | 8% | 20% |  |
-| 25 | 4% | 12% |  |
+| 17 | 17% | 85% |  |
+| 18 | 19% | 68% | Median |
+| 19 | 6% | 49% | Last Result |
+| 20 | 10% | 42% |  |
+| 21 | 5% | 32% |  |
+| 22 | 4% | 27% |  |
+| 23 | 4% | 22% |  |
+| 24 | 7% | 18% |  |
+| 25 | 4% | 11% |  |
 | 26 | 2% | 7% |  |
-| 27 | 2% | 6% |  |
-| 28 | 3% | 4% |  |
+| 27 | 2% | 5% |  |
+| 28 | 2% | 4% |  |
 | 29 | 0.8% | 1.1% |  |
 | 30 | 0.1% | 0.3% |  |
 | 31 | 0.1% | 0.2% |  |
