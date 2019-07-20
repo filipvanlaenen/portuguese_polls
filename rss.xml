@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sat, 20 Jul 2019 12:14:12 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 14:56:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 58–81 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 102–126 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 15–27 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4–12 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 7–20 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage-seats.png"
+        length="173499"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 14:56:41 +0200</pubDate>
+      <dc:date>2019-07-20T14:56:41.289909+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage-coalitions-seats.png"
+        length="175432"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 14:56:41 +0200</pubDate>
+      <dc:date>2019-07-20T14:56:41.289909+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Aximage for Correio da Manhã and Negócios, 12–15 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-07-15-Aximage.png"
         length="183157"
         type="image/png"/>
-      <pubDate>Sat, 20 Jul 2019 12:14:12 +0200</pubDate>
-      <dc:date>2019-07-20T12:14:12.155946+02:00</dc:date>
+      <pubDate>Sat, 20 Jul 2019 14:56:41 +0200</pubDate>
+      <dc:date>2019-07-20T14:56:41.289909+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 7–11 July 2019 – Seat Projections for the Parties</title>
@@ -699,6 +719,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-07-20T12:14:12.155946+02:00</dc:date>
+    <dc:date>2019-07-20T14:56:41.289909+02:00</dc:date>
   </channel>
 </rss>
