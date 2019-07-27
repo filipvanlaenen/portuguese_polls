@@ -10,8 +10,9 @@ Last result: **10.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 7.8–11.3% | 7.4–11.9% | 7.0–12.4% | 6.3–13.4% |
+| N/A | [Poll Average](average.html) | 9.5% | 8.2–11.5% | 7.9–12.1% | 7.6–12.6% | 7.0–13.5% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 9.3% | 8.0–11.0% | 7.6–11.5% | 7.2–11.9% | 6.6–12.8% |
+| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9.2% | 8.0–10.7% | 7.7–11.1% | 7.4–11.5% | 6.9–12.2% |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 8.9% | 7.6–10.6% | 7.2–11.1% | 6.9–11.5% | 6.3–12.3% |
@@ -54,16 +55,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.9% | 100% |  |
-| 6.5–7.5% | 6% | 99.1% |  |
-| 7.5–8.5% | 20% | 94% |  |
-| 8.5–9.5% | 33% | 73% | Median |
-| 9.5–10.5% | 21% | 40% | Last Result |
-| 10.5–11.5% | 12% | 19% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.4% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 2% | 99.9% |  |
+| 7.5–8.5% | 17% | 98% |  |
+| 8.5–9.5% | 34% | 81% | Median |
+| 9.5–10.5% | 24% | 47% | Last Result |
+| 10.5–11.5% | 14% | 23% |  |
+| 11.5–12.5% | 7% | 9% |  |
+| 12.5–13.5% | 2% | 3% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -74,8 +76,9 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–25 | 15–27 | 13–28 | 10–29 |
+| N/A | [Poll Average](average.html) | 19 | 16–25 | 15–27 | 15–28 | 12–29 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 20 | 17–25 | 16–26 | 15–27 | 12–29 |
+| [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 18 | 17–23 | 16–24 | 15–24 | 13–26 |
 | [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 24 | 20–28 | 19–28 | 18–29 | 17–32 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 19 | 16–24 | 15–24 | 14–26 | 10–28 |
@@ -119,33 +122,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.1% | 100% |  |
-| 10 | 0.8% | 99.8% |  |
-| 11 | 0.4% | 99.1% |  |
-| 12 | 0.6% | 98.7% |  |
-| 13 | 0.8% | 98% |  |
-| 14 | 2% | 97% |  |
-| 15 | 5% | 95% |  |
-| 16 | 6% | 91% |  |
-| 17 | 17% | 85% |  |
-| 18 | 19% | 68% | Median |
-| 19 | 6% | 49% | Last Result |
-| 20 | 10% | 42% |  |
-| 21 | 5% | 32% |  |
-| 22 | 4% | 27% |  |
-| 23 | 4% | 22% |  |
-| 24 | 7% | 18% |  |
-| 25 | 4% | 11% |  |
-| 26 | 2% | 7% |  |
-| 27 | 2% | 5% |  |
-| 28 | 2% | 4% |  |
-| 29 | 0.8% | 1.1% |  |
-| 30 | 0.1% | 0.3% |  |
-| 31 | 0.1% | 0.2% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.1% | 99.9% |  |
+| 12 | 0.3% | 99.8% |  |
+| 13 | 0.5% | 99.5% |  |
+| 14 | 1.2% | 98.9% |  |
+| 15 | 4% | 98% |  |
+| 16 | 4% | 94% |  |
+| 17 | 17% | 90% |  |
+| 18 | 19% | 73% |  |
+| 19 | 6% | 54% | Last Result, Median |
+| 20 | 11% | 48% |  |
+| 21 | 6% | 37% |  |
+| 22 | 5% | 31% |  |
+| 23 | 5% | 26% |  |
+| 24 | 8% | 22% |  |
+| 25 | 5% | 14% |  |
+| 26 | 2% | 9% |  |
+| 27 | 2% | 6% |  |
+| 28 | 3% | 4% |  |
+| 29 | 0.9% | 1.4% |  |
+| 30 | 0.1% | 0.4% |  |
+| 31 | 0.1% | 0.3% |  |
 | 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0.1% |  |
 | 34 | 0% | 0.1% |  |
 | 35 | 0% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 36 | 0% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 
