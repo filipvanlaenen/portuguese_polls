@@ -10,7 +10,8 @@ Last result: **8.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.1% | 5.5–8.6% | 5.1–9.0% | 4.8–9.3% | 4.3–10.1% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.5–8.4% | 5.1–8.9% | 4.8–9.3% | 4.2–10.1% |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.7% | 5.9–7.6% | 5.7–7.8% | 5.5–8.1% | 5.2–8.5% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% | 3.8–8.1% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.8% | 5.7–8.3% | 5.3–8.7% | 5.1–9.1% | 4.6–9.9% |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.8% | 5.7–8.0% | 5.4–8.4% | 5.2–8.7% | 4.8–9.4% |
@@ -56,12 +57,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.2% | 100% |  |
-| 4.5–5.5% | 9% | 98.8% |  |
-| 5.5–6.5% | 23% | 90% |  |
-| 6.5–7.5% | 30% | 67% | Median |
-| 7.5–8.5% | 26% | 37% | Last Result |
-| 8.5–9.5% | 9% | 11% |  |
+| 3.5–4.5% | 1.4% | 100% |  |
+| 4.5–5.5% | 10% | 98.5% |  |
+| 5.5–6.5% | 28% | 89% |  |
+| 6.5–7.5% | 34% | 60% | Median |
+| 7.5–8.5% | 18% | 26% | Last Result |
+| 8.5–9.5% | 7% | 8% |  |
 | 9.5–10.5% | 1.4% | 2% |  |
 | 10.5–11.5% | 0.2% | 0.2% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -75,7 +76,8 @@ Last result: **17** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 9–18 | 7–19 | 6–20 | 5–21 |
+| N/A | [Poll Average](average.html) | 13 | 8–17 | 7–19 | 6–20 | 5–21 |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 9–14 | 8–15 | 7–17 | 6–17 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 9 | 7–13 | 5–13 | 5–13 | 4–17 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 9–18 | 8–19 | 7–20 | 6–21 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 8–16 | 7–17 | 6–18 | 6–19 |
@@ -123,24 +125,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.1% | 100% |  |
-| 5 | 1.1% | 99.9% |  |
-| 6 | 1.5% | 98.8% |  |
-| 7 | 3% | 97% |  |
-| 8 | 4% | 94% |  |
-| 9 | 8% | 90% |  |
-| 10 | 4% | 82% |  |
-| 11 | 3% | 78% |  |
-| 12 | 4% | 75% |  |
-| 13 | 14% | 72% |  |
-| 14 | 24% | 58% | Median |
-| 15 | 5% | 34% |  |
-| 16 | 5% | 29% |  |
-| 17 | 14% | 24% | Last Result |
-| 18 | 5% | 11% |  |
+| 5 | 1.3% | 99.9% |  |
+| 6 | 1.1% | 98.6% |  |
+| 7 | 4% | 97% |  |
+| 8 | 4% | 93% |  |
+| 9 | 10% | 90% |  |
+| 10 | 5% | 80% |  |
+| 11 | 4% | 75% |  |
+| 12 | 4% | 71% |  |
+| 13 | 18% | 66% | Median |
+| 14 | 23% | 48% |  |
+| 15 | 3% | 24% |  |
+| 16 | 3% | 21% |  |
+| 17 | 8% | 18% | Last Result |
+| 18 | 4% | 10% |  |
 | 19 | 3% | 6% |  |
 | 20 | 2% | 3% |  |
-| 21 | 0.4% | 0.8% |  |
-| 22 | 0.2% | 0.3% |  |
+| 21 | 0.5% | 0.8% |  |
+| 22 | 0.2% | 0.4% |  |
 | 23 | 0.1% | 0.2% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
