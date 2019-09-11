@@ -88,7 +88,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 113 | 104–129 | 101–132 | 99–134 | 97–137 |
-| [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 113 | 108–120 | 106–123 | 105–125 | 102–126 |
+| [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 114 | 108–119 | 106–123 | 105–125 | 102–127 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 129 | 125–134 | 124–136 | 123–137 | 120–139 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 106 | 99–113 | 98–115 | 97–116 | 94–120 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 113 | 105–121 | 103–124 | 102–126 | 99–130 |
@@ -157,26 +157,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 104 | 3% | 91% |  |
 | 105 | 3% | 88% |  |
 | 106 | 3% | 85% |  |
-| 107 | 3% | 82% |  |
+| 107 | 4% | 82% |  |
 | 108 | 4% | 79% |  |
 | 109 | 4% | 75% |  |
-| 110 | 5% | 72% |  |
-| 111 | 4% | 66% |  |
-| 112 | 7% | 62% |  |
-| 113 | 7% | 55% | Median |
-| 114 | 5% | 48% |  |
-| 115 | 5% | 43% |  |
-| 116 | 4% | 38% | Majority |
-| 117 | 3% | 34% |  |
-| 118 | 2% | 31% |  |
+| 110 | 5% | 71% |  |
+| 111 | 5% | 66% |  |
+| 112 | 6% | 61% |  |
+| 113 | 6% | 55% | Median |
+| 114 | 5% | 49% |  |
+| 115 | 5% | 44% |  |
+| 116 | 4% | 39% | Majority |
+| 117 | 3% | 35% |  |
+| 118 | 3% | 32% |  |
 | 119 | 2% | 29% |  |
 | 120 | 2% | 27% |  |
 | 121 | 2% | 25% |  |
 | 122 | 1.0% | 24% |  |
-| 123 | 1.1% | 23% |  |
-| 124 | 2% | 22% |  |
+| 123 | 1.0% | 22% |  |
+| 124 | 1.4% | 22% |  |
 | 125 | 2% | 20% |  |
-| 126 | 1.4% | 18% |  |
+| 126 | 1.4% | 19% |  |
 | 127 | 2% | 17% |  |
 | 128 | 3% | 16% |  |
 | 129 | 4% | 13% |  |
