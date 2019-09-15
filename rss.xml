@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Thu, 12 Sep 2019 18:59:06 +0200</pubDate>
+    <pubDate>Sun, 15 Sep 2019 11:31:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.5–25.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.2–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 8.3–10.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.6–6.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6.0–8.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.png"
+        length="161067"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 10:18:30 +0200</pubDate>
+      <dc:date>2019-09-15T10:18:30.700447+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.8–26.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 34.6–41.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.9–12.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.8–8.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6.9–10.8%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.9–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus.png"
+        length="179668"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 10:40:21 +0200</pubDate>
+      <dc:date>2019-09-15T10:40:21.972586+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 1–8 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 18.2–23.3%&lt;/li&gt;&lt;li&gt;Partido Socialista: 35.4–41.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 8.4–12.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3.4–6.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.1–7.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.7–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage.png"
+        length="173407"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 11:04:00 +0200</pubDate>
+      <dc:date>2019-09-15T11:04:00.073739+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 38.6–45.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.2–11.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3.7–6.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.5–7.9%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Aliança: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.png"
+        length="186178"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 11:31:44 +0200</pubDate>
+      <dc:date>2019-09-15T11:31:44.01328+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 1–5 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-Eurosondagem.html#seats</link>
@@ -839,6 +879,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-09-12T18:59:06.810384+02:00</dc:date>
+    <dc:date>2019-09-15T11:31:44.01328+02:00</dc:date>
   </channel>
 </rss>
