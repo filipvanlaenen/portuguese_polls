@@ -93,11 +93,11 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 62 | 55–71 | 53–73 | 53–74 | 50–76 |
+| N/A | [Poll Average](average.html) | 62 | 55–70 | 53–72 | 53–74 | 50–76 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 67 | 63–71 | 61–72 | 60–74 | 59–75 |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 67 | 58–73 | 56–74 | 56–75 | 54–77 |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 59 | 56–68 | 55–69 | 54–70 | 51–72 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 64 | 58–71 | 57–73 | 55–75 | 53–78 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 65 | 59–73 | 57–74 | 56–75 | 55–78 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 60 | 56–68 | 55–69 | 54–70 | 52–74 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 63 | 58–71 | 57–73 | 55–75 | 53–79 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 68 | 61–73 | 59–74 | 59–75 | 56–78 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 56 | 53–60 | 53–61 | 52–62 | 50–64 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 57 | 52–64 | 51–66 | 50–68 | 49–70 |
@@ -155,29 +155,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 3% | 94% |  |
 | 55 | 4% | 91% |  |
 | 56 | 6% | 87% |  |
-| 57 | 5% | 80% |  |
-| 58 | 6% | 76% |  |
-| 59 | 7% | 70% |  |
-| 60 | 7% | 63% |  |
-| 61 | 6% | 56% |  |
-| 62 | 4% | 50% | Median |
-| 63 | 5% | 46% |  |
-| 64 | 4% | 41% |  |
-| 65 | 3% | 38% |  |
-| 66 | 4% | 35% |  |
-| 67 | 9% | 30% |  |
+| 57 | 5% | 81% |  |
+| 58 | 5% | 76% |  |
+| 59 | 6% | 72% |  |
+| 60 | 8% | 65% |  |
+| 61 | 5% | 58% |  |
+| 62 | 4% | 52% | Median |
+| 63 | 5% | 48% |  |
+| 64 | 4% | 43% |  |
+| 65 | 4% | 38% |  |
+| 66 | 5% | 34% |  |
+| 67 | 8% | 29% |  |
 | 68 | 5% | 21% |  |
-| 69 | 4% | 17% |  |
-| 70 | 2% | 13% |  |
-| 71 | 2% | 10% |  |
-| 72 | 2% | 8% |  |
-| 73 | 2% | 5% |  |
-| 74 | 2% | 3% |  |
-| 75 | 0.8% | 2% |  |
-| 76 | 0.4% | 0.8% |  |
-| 77 | 0.2% | 0.4% |  |
-| 78 | 0.1% | 0.2% |  |
-| 79 | 0% | 0.1% |  |
+| 69 | 5% | 16% |  |
+| 70 | 2% | 11% |  |
+| 71 | 2% | 9% |  |
+| 72 | 2% | 6% |  |
+| 73 | 2% | 4% |  |
+| 74 | 1.2% | 3% |  |
+| 75 | 0.7% | 2% |  |
+| 76 | 0.3% | 0.8% |  |
+| 77 | 0.2% | 0.5% |  |
+| 78 | 0.1% | 0.3% |  |
+| 79 | 0.1% | 0.2% |  |
 | 80 | 0% | 0.1% |  |
 | 81 | 0% | 0% |  |
 | 82 | 0% | 0% |  |

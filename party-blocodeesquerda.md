@@ -87,9 +87,9 @@ Last result: **19** seats (General Election of 4 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–35 | 17–38 | 16–40 | 14–43 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 19 | 17–24 | 16–25 | 15–26 | 13–28 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 24 | 20–27 | 19–28 | 18–28 | 17–31 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 19 | 16–23 | 15–24 | 14–24 | 12–26 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 18 | 16–23 | 15–24 | 14–24 | 11–26 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 18 | 17–23 | 16–24 | 15–24 | 13–26 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–25 | 18–25 | 18–25 | 17–27 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 38 | 29–41 | 28–42 | 28–44 | 26–48 |
@@ -138,22 +138,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0% | 100% |  |
+| 10 | 0.1% | 100% |  |
 | 11 | 0% | 99.9% |  |
-| 12 | 0% | 99.9% |  |
-| 13 | 0.1% | 99.9% |  |
-| 14 | 0.5% | 99.8% |  |
-| 15 | 1.0% | 99.3% |  |
-| 16 | 1.2% | 98% |  |
+| 12 | 0.1% | 99.9% |  |
+| 13 | 0.1% | 99.8% |  |
+| 14 | 0.5% | 99.7% |  |
+| 15 | 0.8% | 99.2% |  |
+| 16 | 1.1% | 98% |  |
 | 17 | 5% | 97% |  |
 | 18 | 10% | 92% |  |
-| 19 | 10% | 82% | Last Result |
-| 20 | 15% | 73% |  |
-| 21 | 9% | 58% | Median |
-| 22 | 6% | 49% |  |
-| 23 | 6% | 43% |  |
+| 19 | 8% | 82% | Last Result |
+| 20 | 15% | 74% |  |
+| 21 | 10% | 59% | Median |
+| 22 | 6% | 50% |  |
+| 23 | 6% | 44% |  |
 | 24 | 9% | 37% |  |
-| 25 | 6% | 27% |  |
+| 25 | 6% | 28% |  |
 | 26 | 2% | 22% |  |
 | 27 | 2% | 20% |  |
 | 28 | 3% | 18% |  |
