@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 15 Sep 2019 15:33:40 +0200</pubDate>
+    <pubDate>Sun, 15 Sep 2019 19:32:02 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 60–74 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 107–121 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 17–24 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 6–11 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 10–18 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 4–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem-seats.png"
+        length="152634"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 17:00:59 +0200</pubDate>
+      <dc:date>2019-09-15T17:00:59.666465+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem-coalitions-seats.png"
+        length="143507"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 17:00:59 +0200</pubDate>
+      <dc:date>2019-09-15T17:00:59.666465+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.png"
         length="161067"
         type="image/png"/>
-      <pubDate>Sun, 15 Sep 2019 12:33:43 +0200</pubDate>
-      <dc:date>2019-09-15T12:33:43.849294+02:00</dc:date>
+      <pubDate>Sun, 15 Sep 2019 17:00:59 +0200</pubDate>
+      <dc:date>2019-09-15T17:00:59.666465+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 56–75 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 100–120 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 15–26 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 6–17 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 13–22 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 5–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus-seats.png"
+        length="167953"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 18:20:41 +0200</pubDate>
+      <dc:date>2019-09-15T18:20:41.272713+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus-coalitions-seats.png"
+        length="165084"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 18:20:41 +0200</pubDate>
+      <dc:date>2019-09-15T18:20:41.272713+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 2–11 September 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-11-Intercampus.png"
         length="179668"
         type="image/png"/>
-      <pubDate>Sun, 15 Sep 2019 13:40:48 +0200</pubDate>
-      <dc:date>2019-09-15T13:40:48.951126+02:00</dc:date>
+      <pubDate>Sun, 15 Sep 2019 18:20:41 +0200</pubDate>
+      <dc:date>2019-09-15T18:20:41.272713+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 1–8 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 54–70 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 111–131 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 18–28 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4–11 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–14 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 6–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage-seats.png"
+        length="156583"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 19:32:02 +0200</pubDate>
+      <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage, 1–8 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage-coalitions-seats.png"
+        length="155554"
+        type="image/png"/>
+      <pubDate>Sun, 15 Sep 2019 19:32:02 +0200</pubDate>
+      <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage, 1–8 September 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-08-Aximage.png"
         length="173407"
         type="image/png"/>
-      <pubDate>Sun, 15 Sep 2019 14:34:34 +0200</pubDate>
-      <dc:date>2019-09-15T14:34:34.244048+02:00</dc:date>
+      <pubDate>Sun, 15 Sep 2019 19:32:02 +0200</pubDate>
+      <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Voting Intentions</title>
@@ -879,6 +939,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-09-15T15:33:40.115945+02:00</dc:date>
+    <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
   </channel>
 </rss>
