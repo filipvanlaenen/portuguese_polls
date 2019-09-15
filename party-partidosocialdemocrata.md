@@ -95,8 +95,8 @@ Last result: **89** seats (General Election of 4 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 62 | 55–70 | 53–72 | 53–74 | 50–76 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 67 | 63–71 | 61–72 | 60–74 | 59–75 |
-| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 65 | 59–73 | 57–74 | 56–75 | 55–78 |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 60 | 56–68 | 55–69 | 54–70 | 52–74 |
+| [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 66 | 59–73 | 57–74 | 56–75 | 55–78 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 60 | 56–68 | 55–69 | 54–70 | 51–73 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 63 | 58–71 | 57–73 | 55–75 | 53–79 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 68 | 61–73 | 59–74 | 59–75 | 56–78 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 56 | 53–60 | 53–61 | 52–62 | 50–64 |
@@ -150,19 +150,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 49 | 0.1% | 99.9% |  |
 | 50 | 0.5% | 99.8% |  |
 | 51 | 0.7% | 99.4% |  |
-| 52 | 1.0% | 98.7% |  |
+| 52 | 1.0% | 98.6% |  |
 | 53 | 3% | 98% |  |
-| 54 | 3% | 94% |  |
+| 54 | 4% | 94% |  |
 | 55 | 4% | 91% |  |
-| 56 | 6% | 87% |  |
-| 57 | 5% | 81% |  |
+| 56 | 6% | 86% |  |
+| 57 | 4% | 81% |  |
 | 58 | 5% | 76% |  |
-| 59 | 6% | 72% |  |
+| 59 | 7% | 72% |  |
 | 60 | 8% | 65% |  |
-| 61 | 5% | 58% |  |
+| 61 | 5% | 57% |  |
 | 62 | 4% | 52% | Median |
 | 63 | 5% | 48% |  |
-| 64 | 4% | 43% |  |
+| 64 | 4% | 42% |  |
 | 65 | 4% | 38% |  |
 | 66 | 5% | 34% |  |
 | 67 | 8% | 29% |  |
@@ -170,7 +170,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 5% | 16% |  |
 | 70 | 2% | 11% |  |
 | 71 | 2% | 9% |  |
-| 72 | 2% | 6% |  |
+| 72 | 2% | 7% |  |
 | 73 | 2% | 4% |  |
 | 74 | 1.2% | 3% |  |
 | 75 | 0.7% | 2% |  |

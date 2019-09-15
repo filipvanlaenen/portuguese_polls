@@ -86,7 +86,7 @@ Last result: **1** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 6 | 4–15 | 3–17 | 3–18 | 2–21 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 5–8 | 4–8 | 4–9 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 6–10 | 6–12 | 5–13 | 4–14 |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 8 | 6–9 | 6–11 | 5–12 | 4–14 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 7 | 6–9 | 6–11 | 6–12 | 4–15 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 6 | 4–7 | 3–8 | 3–8 | 2–9 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 6 | 4–8 | 4–8 | 4–9 | 3–11 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
@@ -141,13 +141,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 8% | 99.2% |  |
 | 4 | 15% | 92% |  |
 | 5 | 4% | 77% |  |
-| 6 | 38% | 73% | Median |
-| 7 | 5% | 35% |  |
-| 8 | 7% | 30% |  |
-| 9 | 6% | 23% |  |
-| 10 | 1.0% | 17% |  |
+| 6 | 39% | 73% | Median |
+| 7 | 5% | 34% |  |
+| 8 | 7% | 29% |  |
+| 9 | 6% | 22% |  |
+| 10 | 1.1% | 17% |  |
 | 11 | 0.7% | 16% |  |
-| 12 | 0.8% | 15% |  |
+| 12 | 0.7% | 15% |  |
 | 13 | 1.1% | 14% |  |
 | 14 | 2% | 13% |  |
 | 15 | 2% | 11% |  |

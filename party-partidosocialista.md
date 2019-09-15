@@ -91,10 +91,10 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 115 | 105–130 | 102–132 | 100–134 | 97–137 |
+| N/A | [Poll Average](average.html) | 116 | 105–130 | 102–132 | 100–134 | 97–137 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 114 | 110–118 | 109–120 | 107–121 | 105–124 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 110 | 103–116 | 101–118 | 100–120 | 97–123 |
-| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 121 | 114–128 | 112–130 | 112–131 | 108–134 |
+| [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 121 | 114–128 | 112–130 | 111–131 | 108–134 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 125 | 116–132 | 115–133 | 114–135 | 110–138 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 113 | 108–120 | 106–122 | 105–124 | 102–127 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 129 | 125–134 | 124–136 | 123–137 | 120–139 |
@@ -161,9 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 100 | 0.8% | 98% |  |
 | 101 | 1.1% | 97% |  |
 | 102 | 1.4% | 96% |  |
-| 103 | 2% | 95% |  |
-| 104 | 2% | 93% |  |
-| 105 | 2% | 91% |  |
+| 103 | 2% | 94% |  |
+| 104 | 2% | 92% |  |
+| 105 | 2% | 90% |  |
 | 106 | 2% | 88% |  |
 | 107 | 3% | 86% |  |
 | 108 | 3% | 83% |  |
@@ -172,15 +172,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 111 | 4% | 74% |  |
 | 112 | 5% | 70% |  |
 | 113 | 5% | 65% |  |
-| 114 | 5% | 60% |  |
-| 115 | 5% | 55% | Median |
-| 116 | 4% | 50% | Majority |
+| 114 | 4% | 60% |  |
+| 115 | 5% | 55% |  |
+| 116 | 4% | 50% | Median, Majority |
 | 117 | 3% | 46% |  |
 | 118 | 3% | 43% |  |
 | 119 | 3% | 40% |  |
-| 120 | 2% | 36% |  |
+| 120 | 3% | 37% |  |
 | 121 | 2% | 34% |  |
-| 122 | 2% | 32% |  |
+| 122 | 3% | 32% |  |
 | 123 | 2% | 29% |  |
 | 124 | 2% | 27% |  |
 | 125 | 3% | 25% |  |
@@ -191,7 +191,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 130 | 2% | 10% |  |
 | 131 | 2% | 8% |  |
 | 132 | 2% | 6% |  |
-| 133 | 2% | 4% |  |
+| 133 | 1.5% | 4% |  |
 | 134 | 0.8% | 3% |  |
 | 135 | 0.8% | 2% |  |
 | 136 | 0.4% | 1.0% |  |
