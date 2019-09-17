@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 15 Sep 2019 19:32:02 +0200</pubDate>
+    <pubDate>Tue, 17 Sep 2019 20:04:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 9–12 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 55–76 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 103–127 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 16–28 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 5–15 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 9–21 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2–6 seats&lt;/li&gt;&lt;li&gt;Aliança: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica-seats.png"
+        length="177052"
+        type="image/png"/>
+      <pubDate>Tue, 17 Sep 2019 20:04:17 +0200</pubDate>
+      <dc:date>2019-09-17T20:04:17.731757+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 9–12 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica-coalitions-seats.png"
+        length="173214"
+        type="image/png"/>
+      <pubDate>Tue, 17 Sep 2019 20:04:17 +0200</pubDate>
+      <dc:date>2019-09-17T20:04:17.731757+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 9–12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.1–26.8%&lt;/li&gt;&lt;li&gt;Partido Socialista: 35.4–43.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.9–12.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.1–7.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.9–10.2%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.0–4.9%&lt;/li&gt;&lt;li&gt;Aliança: 0.8–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Pitagórica.png"
+        length="193246"
+        type="image/png"/>
+      <pubDate>Tue, 17 Sep 2019 20:04:17 +0200</pubDate>
+      <dc:date>2019-09-17T20:04:17.731757+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 7–12 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-12-Eurosondagem.html#seats</link>
@@ -100,14 +130,34 @@
       <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 55–75 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 113–135 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 14–24 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4–11 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–16 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3–8 seats&lt;/li&gt;&lt;li&gt;Aliança: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris-seats.png"
+        length="169056"
+        type="image/png"/>
+      <pubDate>Mon, 16 Sep 2019 21:33:18 +0200</pubDate>
+      <dc:date>2019-09-16T21:33:18.900803+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris-coalitions-seats.png"
+        length="169909"
+        type="image/png"/>
+      <pubDate>Mon, 16 Sep 2019 21:33:18 +0200</pubDate>
+      <dc:date>2019-09-16T21:33:18.900803+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 24 August–5 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 38.6–45.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.2–11.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3.7–6.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.5–7.9%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.8–5.6%&lt;/li&gt;&lt;li&gt;Aliança: 0.1–0.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-05-GfKMetris.png"
         length="186178"
         type="image/png"/>
-      <pubDate>Sun, 15 Sep 2019 15:33:40 +0200</pubDate>
-      <dc:date>2019-09-15T15:33:40.115945+02:00</dc:date>
+      <pubDate>Mon, 16 Sep 2019 21:33:18 +0200</pubDate>
+      <dc:date>2019-09-16T21:33:18.900803+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Associação Mutualista Montepio, 1–5 September 2019 – Seat Projections for the Parties</title>
@@ -939,6 +989,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-09-15T19:32:02.013452+02:00</dc:date>
+    <dc:date>2019-09-17T20:04:17.731757+02:00</dc:date>
   </channel>
 </rss>
