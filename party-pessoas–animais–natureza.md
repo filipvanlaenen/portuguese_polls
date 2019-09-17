@@ -10,7 +10,8 @@ Last result: **1.4%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.3–7.5% | 3.0–8.3% | 2.8–8.9% | 2.5–9.8% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.2–7.5% | 2.9–8.3% | 2.6–8.9% | 2.1–9.8% |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3.1% | 2.4–4.3% | 2.2–4.6% | 2.0–4.9% | 1.7–5.5% |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 4.5% | 3.9–5.1% | 3.8–5.3% | 3.7–5.5% | 3.4–5.8% |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.2% | 4.4–6.4% | 4.1–6.7% | 3.9–7.0% | 3.5–7.6% |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
@@ -62,10 +63,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% | Last Result |
-| 1.5–2.5% | 0.6% | 100% |  |
-| 2.5–3.5% | 16% | 99.4% |  |
-| 3.5–4.5% | 33% | 83% |  |
-| 4.5–5.5% | 27% | 50% | Median |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 14% | 98% |  |
+| 3.5–4.5% | 33% | 84% |  |
+| 4.5–5.5% | 27% | 51% | Median |
 | 5.5–6.5% | 9% | 24% |  |
 | 6.5–7.5% | 5% | 15% |  |
 | 7.5–8.5% | 6% | 10% |  |
@@ -83,7 +84,8 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–15 | 3–17 | 3–18 | 2–21 |
+| N/A | [Poll Average](average.html) | 6 | 4–15 | 3–17 | 2–18 | 2–21 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–6 | 1–8 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 6 | 6–7 | 5–8 | 4–8 | 4–9 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 6–10 | 6–12 | 5–13 | 4–14 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 7 | 6–9 | 6–11 | 6–12 | 4–15 |
@@ -136,12 +138,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0% | 100% | Last Result |
-| 2 | 0.8% | 100% |  |
-| 3 | 8% | 99.2% |  |
-| 4 | 15% | 92% |  |
-| 5 | 4% | 77% |  |
-| 6 | 39% | 73% | Median |
+| 1 | 0.2% | 100% | Last Result |
+| 2 | 3% | 99.8% |  |
+| 3 | 7% | 97% |  |
+| 4 | 12% | 90% |  |
+| 5 | 4% | 78% |  |
+| 6 | 40% | 74% | Median |
 | 7 | 5% | 34% |  |
 | 8 | 7% | 29% |  |
 | 9 | 6% | 22% |  |
