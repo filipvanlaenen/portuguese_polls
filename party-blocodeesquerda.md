@@ -10,8 +10,8 @@ Last result: **10.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.4–11.0% | 8.0–11.4% | 7.7–11.8% | 7.1–12.5% |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8.8% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.5% | 8.2–10.9% | 7.7–11.3% | 7.4–11.7% | 6.7–12.5% |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8.8% | 7.5–10.5% | 7.1–11.0% | 6.8–11.4% | 6.2–12.2% |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.1% | 8.7–11.8% | 8.3–12.3% | 7.9–12.8% | 7.3–13.6% |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 9.5% | 8.7–10.4% | 8.5–10.7% | 8.3–10.9% | 8.0–11.3% |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.7% | 8.5–11.2% | 8.2–11.6% | 7.9–12.0% | 7.3–12.7% |
@@ -64,14 +64,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 11% | 98% |  |
-| 8.5–9.5% | 33% | 87% |  |
-| 9.5–10.5% | 35% | 54% | Last Result, Median |
-| 10.5–11.5% | 15% | 19% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 3% | 99.7% |  |
+| 7.5–8.5% | 14% | 96% |  |
+| 8.5–9.5% | 33% | 82% |  |
+| 9.5–10.5% | 32% | 49% | Last Result, Median |
+| 10.5–11.5% | 13% | 17% |  |
 | 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -83,8 +83,8 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–26 | 15–28 | 13–28 |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 15–25 | 14–27 | 11–28 |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 14–20 | 13–23 | 12–24 | 10–26 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–26 | 17–28 | 16–28 | 14–29 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
@@ -138,30 +138,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0.1% | 99.9% |  |
-| 12 | 0.1% | 99.8% |  |
-| 13 | 0.2% | 99.7% |  |
-| 14 | 0.8% | 99.5% |  |
-| 15 | 1.3% | 98.7% |  |
-| 16 | 2% | 97% |  |
-| 17 | 10% | 95% |  |
-| 18 | 13% | 86% |  |
-| 19 | 11% | 73% | Last Result |
-| 20 | 19% | 62% | Median |
-| 21 | 10% | 43% |  |
-| 22 | 6% | 33% |  |
-| 23 | 7% | 27% |  |
-| 24 | 10% | 20% |  |
-| 25 | 5% | 10% |  |
-| 26 | 2% | 6% |  |
-| 27 | 1.3% | 4% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.3% | 0.5% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 0.4% | 99.9% |  |
+| 11 | 0.2% | 99.5% |  |
+| 12 | 0.3% | 99.3% |  |
+| 13 | 1.1% | 99.0% |  |
+| 14 | 2% | 98% |  |
+| 15 | 3% | 96% |  |
+| 16 | 3% | 93% |  |
+| 17 | 12% | 91% |  |
+| 18 | 15% | 78% |  |
+| 19 | 10% | 63% | Last Result |
+| 20 | 17% | 53% | Median |
+| 21 | 9% | 36% |  |
+| 22 | 5% | 28% |  |
+| 23 | 6% | 23% |  |
+| 24 | 8% | 17% |  |
+| 25 | 4% | 9% |  |
+| 26 | 1.5% | 5% |  |
+| 27 | 1.0% | 3% |  |
+| 28 | 2% | 2% |  |
+| 29 | 0.2% | 0.4% |  |
 | 30 | 0.1% | 0.2% |  |
 | 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0.1% |  |
-| 33 | 0% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 33 | 0% | 0% |  |
 
 
