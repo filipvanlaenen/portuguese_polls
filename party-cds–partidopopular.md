@@ -10,7 +10,9 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.2–6.6% | 3.9–7.1% | 3.7–7.4% | 3.3–8.2% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.1–6.5% | 3.8–7.0% | 3.6–7.4% | 3.1–8.1% |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4.7% | 3.7–6.0% | 3.5–6.3% | 3.2–6.7% | 2.9–7.3% |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.5% | 4.5–6.9% | 4.2–7.3% | 3.9–7.6% | 3.5–8.4% |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.2% | 4.2–6.5% | 3.9–6.9% | 3.7–7.3% | 3.2–8.0% |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.6% | 4.6–7.0% | 4.3–7.4% | 4.1–7.8% | 3.6–8.5% |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 5.5% | 4.9–6.2% | 4.7–6.4% | 4.6–6.6% | 4.3–7.0% |
@@ -64,11 +66,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 17% | 98.6% |  |
-| 4.5–5.5% | 40% | 81% | Median |
-| 5.5–6.5% | 30% | 41% |  |
-| 6.5–7.5% | 9% | 11% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 20% | 98% |  |
+| 4.5–5.5% | 39% | 77% | Median |
+| 5.5–6.5% | 28% | 38% |  |
+| 6.5–7.5% | 8% | 10% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -109,7 +111,9 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–11 | 5–12 | 4–13 | 3–17 |
+| N/A | [Poll Average](average.html) | 8 | 6–11 | 4–12 | 3–13 | 2–17 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–9 | 3–10 | 2–10 | 2–12 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 6–10 | 6–11 | 6–13 | 4–15 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 5–10 | 4–11 | 4–12 | 2–14 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 6–12 | 6–13 | 5–15 | 4–18 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
@@ -164,21 +168,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 0.4% | 99.7% |  |
-| 4 | 3% | 99.4% |  |
-| 5 | 2% | 96% |  |
-| 6 | 21% | 94% |  |
-| 7 | 17% | 73% |  |
-| 8 | 29% | 56% | Median |
-| 9 | 6% | 27% |  |
-| 10 | 8% | 20% |  |
-| 11 | 6% | 12% |  |
-| 12 | 3% | 6% |  |
-| 13 | 0.9% | 3% |  |
-| 14 | 0.7% | 2% |  |
-| 15 | 0.5% | 1.5% |  |
-| 16 | 0.4% | 1.0% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 2% | 99.1% |  |
+| 4 | 4% | 97% |  |
+| 5 | 2% | 93% |  |
+| 6 | 22% | 91% |  |
+| 7 | 17% | 69% |  |
+| 8 | 27% | 52% | Median |
+| 9 | 6% | 25% |  |
+| 10 | 8% | 19% |  |
+| 11 | 5% | 11% |  |
+| 12 | 2% | 5% |  |
+| 13 | 0.8% | 3% |  |
+| 14 | 0.6% | 2% |  |
+| 15 | 0.5% | 1.4% |  |
+| 16 | 0.4% | 0.9% |  |
 | 17 | 0.2% | 0.6% |  |
 | 18 | 0.2% | 0.3% | Last Result |
 | 19 | 0.1% | 0.1% |  |
