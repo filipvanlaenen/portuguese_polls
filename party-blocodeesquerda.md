@@ -10,7 +10,8 @@ Last result: **10.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.3% | 8.1–11.8% | 7.8–12.2% | 7.1–13.1% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.3% | 8.1–11.9% | 7.8–12.3% | 7.1–13.3% |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.5% | 9.0–12.3% | 8.6–12.8% | 8.3–13.2% | 7.6–14.1% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.3% | 8.9–12.1% | 8.5–12.6% | 8.1–13.0% | 7.5–13.9% |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9.7% | 8.3–11.4% | 7.9–11.9% | 7.5–12.3% | 6.9–13.2% |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8.8% | 7.5–10.5% | 7.1–11.0% | 6.8–11.4% | 6.2–12.2% |
@@ -67,13 +68,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 1.4% | 99.9% |  |
-| 7.5–8.5% | 10% | 98.5% |  |
+| 7.5–8.5% | 9% | 98.5% |  |
 | 8.5–9.5% | 30% | 89% |  |
-| 9.5–10.5% | 34% | 58% | Last Result, Median |
-| 10.5–11.5% | 17% | 24% |  |
-| 11.5–12.5% | 5% | 7% |  |
-| 12.5–13.5% | 1.2% | 1.5% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 9.5–10.5% | 34% | 59% | Last Result, Median |
+| 10.5–11.5% | 18% | 25% |  |
+| 11.5–12.5% | 6% | 8% |  |
+| 12.5–13.5% | 1.5% | 2% |  |
+| 13.5–14.5% | 0.3% | 0.3% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -85,7 +86,8 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–26 | 16–27 | 13–29 |
+| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–27 | 16–28 | 14–30 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–27 | 18–27 | 17–28 | 15–32 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–25 | 17–27 | 16–27 | 13–29 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 16–23 | 15–24 | 13–24 | 11–27 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 14–22 | 12–23 | 11–24 | 10–25 |
@@ -146,26 +148,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.1% | 99.9% |  |
 | 12 | 0.1% | 99.8% |  |
 | 13 | 0.2% | 99.7% |  |
-| 14 | 0.7% | 99.5% |  |
-| 15 | 1.2% | 98.8% |  |
+| 14 | 0.7% | 99.6% |  |
+| 15 | 1.1% | 98.9% |  |
 | 16 | 2% | 98% |  |
 | 17 | 8% | 96% |  |
-| 18 | 14% | 87% |  |
+| 18 | 15% | 88% |  |
 | 19 | 11% | 73% | Last Result |
 | 20 | 17% | 63% | Median |
 | 21 | 9% | 45% |  |
-| 22 | 6% | 36% |  |
-| 23 | 8% | 30% |  |
-| 24 | 10% | 22% |  |
-| 25 | 6% | 12% |  |
-| 26 | 2% | 6% |  |
-| 27 | 2% | 5% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.3% | 0.5% |  |
-| 30 | 0.1% | 0.3% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0% | 0.1% |  |
+| 22 | 6% | 37% |  |
+| 23 | 7% | 31% |  |
+| 24 | 10% | 24% |  |
+| 25 | 6% | 14% |  |
+| 26 | 2% | 8% |  |
+| 27 | 3% | 6% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.3% | 0.9% |  |
+| 30 | 0.2% | 0.5% |  |
+| 31 | 0.2% | 0.4% |  |
+| 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0.1% |  |
-| 34 | 0% | 0% |  |
+| 34 | 0% | 0.1% |  |
+| 35 | 0% | 0.1% |  |
+| 36 | 0% | 0% |  |
 
 
