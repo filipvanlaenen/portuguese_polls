@@ -85,9 +85,9 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–26 | 16–28 | 13–29 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–25 | 17–27 | 16–28 | 13–29 |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 17–23 | 16–24 | 15–24 | 12–25 |
+| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–26 | 16–27 | 13–29 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–25 | 17–27 | 16–27 | 13–29 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 16–23 | 15–24 | 14–24 | 12–27 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 14–22 | 12–23 | 11–24 | 10–25 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–26 | 17–28 | 16–28 | 14–29 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
@@ -149,18 +149,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.7% | 99.5% |  |
 | 15 | 1.2% | 98.8% |  |
 | 16 | 2% | 98% |  |
-| 17 | 9% | 96% |  |
+| 17 | 8% | 96% |  |
 | 18 | 14% | 87% |  |
-| 19 | 10% | 73% | Last Result |
+| 19 | 11% | 73% | Last Result |
 | 20 | 17% | 63% | Median |
-| 21 | 10% | 46% |  |
+| 21 | 9% | 45% |  |
 | 22 | 6% | 36% |  |
 | 23 | 8% | 30% |  |
-| 24 | 11% | 23% |  |
+| 24 | 10% | 22% |  |
 | 25 | 6% | 12% |  |
 | 26 | 2% | 6% |  |
-| 27 | 2% | 4% |  |
-| 28 | 2% | 3% |  |
+| 27 | 2% | 5% |  |
+| 28 | 2% | 2% |  |
 | 29 | 0.3% | 0.5% |  |
 | 30 | 0.1% | 0.3% |  |
 | 31 | 0.1% | 0.2% |  |
