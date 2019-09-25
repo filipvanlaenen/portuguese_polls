@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24–31% <br> 67–88 | 3–7% <br> 2–10 | 34–42% <br> 95–117 | 8–13% <br> 16–28 | 6–10% <br> 8–20 | 2–5% <br> 2–6 | 0–2% <br> 0 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23–31% <br> 64–83 | 4–8% <br> 6–13 | 35–43% <br> 100–122 | 8–12% <br> 15–24 | 5–9% <br> 8–18 | 2–5% <br> 2–6 | 0–2% <br> 0 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23–30% <br> 62–84 | 4–7% <br> 4–12 | 37–45% <br> 103–127 | 7–11% <br> 11–24 | 5–9% <br> 6–18 | 2–6% <br> 2–7 | 1–2% <br> 0–2 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20–27% <br> 55–76 | 4–8% <br> 5–15 | 35–43% <br> 103–127 | 8–13% <br> 16–28 | 6–10% <br> 9–21 | 2–5% <br> 2–6 | 1–3% <br> 0–2 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 22–25% <br> 60–74 | 5–7% <br> 6–11 | 36–40% <br> 107–121 | 8–11% <br> 17–24 | 6–8% <br> 10–18 | 4–5% <br> 4–8 | N/A <br> N/A |
