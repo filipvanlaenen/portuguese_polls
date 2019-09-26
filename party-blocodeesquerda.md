@@ -10,7 +10,8 @@ Last result: **10.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.3% | 8.1–11.9% | 7.8–12.3% | 7.1–13.3% |
+| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.4% | 8.1–12.0% | 7.8–12.4% | 7.1–13.4% |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.7% | 9.2–12.5% | 8.8–13.0% | 8.4–13.4% | 7.8–14.3% |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.5% | 9.0–12.3% | 8.6–12.8% | 8.3–13.2% | 7.6–14.1% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10.3% | 8.9–12.1% | 8.5–12.6% | 8.1–13.0% | 7.5–13.9% |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9.7% | 8.3–11.4% | 7.9–11.9% | 7.5–12.3% | 6.9–13.2% |
@@ -68,14 +69,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 1.4% | 99.9% |  |
-| 7.5–8.5% | 9% | 98.5% |  |
-| 8.5–9.5% | 30% | 89% |  |
-| 9.5–10.5% | 34% | 59% | Last Result, Median |
-| 10.5–11.5% | 18% | 25% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 1.5% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 7.5–8.5% | 9% | 98.6% |  |
+| 8.5–9.5% | 29% | 89% |  |
+| 9.5–10.5% | 33% | 60% | Last Result, Median |
+| 10.5–11.5% | 18% | 26% |  |
+| 11.5–12.5% | 6% | 9% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.4% | 0.4% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,7 +88,8 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–25 | 17–27 | 16–28 | 14–29 |
+| N/A | [Poll Average](average.html) | 21 | 17–25 | 17–27 | 16–28 | 14–30 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–27 | 18–28 | 17–29 | 16–34 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–27 | 18–27 | 17–28 | 15–32 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–25 | 17–27 | 16–27 | 13–29 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 16–23 | 15–24 | 13–24 | 11–27 |
@@ -149,27 +152,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.1% | 99.8% |  |
 | 13 | 0.2% | 99.7% |  |
 | 14 | 0.7% | 99.6% |  |
-| 15 | 1.2% | 98.9% |  |
+| 15 | 1.1% | 98.9% |  |
 | 16 | 2% | 98% |  |
 | 17 | 8% | 96% |  |
 | 18 | 13% | 88% |  |
 | 19 | 10% | 75% | Last Result |
-| 20 | 16% | 64% | Median |
-| 21 | 10% | 48% |  |
-| 22 | 5% | 38% |  |
-| 23 | 8% | 33% |  |
-| 24 | 12% | 25% |  |
-| 25 | 6% | 13% |  |
-| 26 | 2% | 7% |  |
-| 27 | 3% | 5% |  |
+| 20 | 15% | 65% |  |
+| 21 | 11% | 50% | Median |
+| 22 | 5% | 39% |  |
+| 23 | 8% | 34% |  |
+| 24 | 11% | 26% |  |
+| 25 | 6% | 15% |  |
+| 26 | 2% | 9% |  |
+| 27 | 3% | 7% |  |
 | 28 | 2% | 3% |  |
-| 29 | 0.3% | 0.7% |  |
-| 30 | 0.1% | 0.4% |  |
-| 31 | 0.1% | 0.3% |  |
-| 32 | 0% | 0.2% |  |
-| 33 | 0% | 0.1% |  |
+| 29 | 0.4% | 0.9% |  |
+| 30 | 0.1% | 0.5% |  |
+| 31 | 0.1% | 0.4% |  |
+| 32 | 0.1% | 0.2% |  |
+| 33 | 0.1% | 0.2% |  |
 | 34 | 0% | 0.1% |  |
-| 35 | 0% | 0.1% |  |
+| 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 
 
