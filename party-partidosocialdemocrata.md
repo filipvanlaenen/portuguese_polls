@@ -99,9 +99,9 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 67 | 58–78 | 57–81 | 55–85 | 53–89 |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 78 | 71–86 | 69–88 | 67–89 | 63–95 |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 75–90 | 73–92 | 71–94 | 67–97 |
+| N/A | [Poll Average](average.html) | 67 | 58–78 | 57–82 | 55–84 | 53–90 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 78 | 71–85 | 69–88 | 67–90 | 63–94 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 75–89 | 73–92 | 71–94 | 67–97 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 78 | 70–84 | 68–86 | 67–88 | 63–93 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 75 | 68–81 | 66–84 | 64–87 | 60–90 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 74 | 67–81 | 64–82 | 62–84 | 59–88 |
@@ -175,37 +175,36 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 5% | 65% |  |
 | 65 | 4% | 60% |  |
 | 66 | 5% | 56% |  |
-| 67 | 9% | 51% | Median |
+| 67 | 8% | 51% | Median |
 | 68 | 6% | 43% |  |
 | 69 | 6% | 36% |  |
 | 70 | 3% | 31% |  |
-| 71 | 3% | 28% |  |
+| 71 | 3% | 27% |  |
 | 72 | 3% | 24% |  |
-| 73 | 2% | 21% |  |
+| 73 | 2% | 22% |  |
 | 74 | 3% | 19% |  |
-| 75 | 1.3% | 16% |  |
+| 75 | 2% | 17% |  |
 | 76 | 2% | 15% |  |
 | 77 | 2% | 13% |  |
-| 78 | 1.3% | 11% |  |
+| 78 | 2% | 11% |  |
 | 79 | 2% | 10% |  |
 | 80 | 2% | 8% |  |
-| 81 | 2% | 7% |  |
-| 82 | 1.1% | 5% |  |
-| 83 | 0.6% | 4% |  |
-| 84 | 0.4% | 3% |  |
-| 85 | 0.4% | 3% |  |
+| 81 | 1.1% | 6% |  |
+| 82 | 1.0% | 5% |  |
+| 83 | 1.2% | 4% |  |
+| 84 | 0.7% | 3% |  |
+| 85 | 0.5% | 2% |  |
 | 86 | 0.4% | 2% |  |
-| 87 | 0.4% | 2% |  |
-| 88 | 0.6% | 1.5% |  |
-| 89 | 0.4% | 0.9% | Last Result |
+| 87 | 0.4% | 1.4% |  |
+| 88 | 0.3% | 1.1% |  |
+| 89 | 0.2% | 0.7% | Last Result |
 | 90 | 0.1% | 0.5% |  |
-| 91 | 0% | 0.4% |  |
+| 91 | 0.1% | 0.4% |  |
 | 92 | 0.1% | 0.3% |  |
 | 93 | 0.1% | 0.2% |  |
-| 94 | 0% | 0.2% |  |
+| 94 | 0% | 0.1% |  |
 | 95 | 0% | 0.1% |  |
 | 96 | 0% | 0.1% |  |
-| 97 | 0.1% | 0.1% |  |
-| 98 | 0% | 0% |  |
+| 97 | 0% | 0% |  |
 
 

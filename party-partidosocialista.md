@@ -96,8 +96,8 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 115 | 104–127 | 101–130 | 99–131 | 95–135 |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 106 | 99–113 | 98–115 | 95–117 | 90–122 |
+| N/A | [Poll Average](average.html) | 115 | 104–127 | 102–130 | 99–131 | 94–135 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 106 | 99–113 | 97–115 | 94–117 | 90–121 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 103 | 95–110 | 92–112 | 90–114 | 87–118 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 105 | 100–114 | 98–116 | 95–117 | 90–121 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 110 | 103–117 | 101–119 | 99–121 | 95–126 |
@@ -163,22 +163,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.1% | 99.9% |  |
 | 92 | 0.1% | 99.8% |  |
 | 93 | 0.1% | 99.7% |  |
-| 94 | 0.1% | 99.7% |  |
-| 95 | 0.2% | 99.5% |  |
-| 96 | 0.2% | 99.3% |  |
-| 97 | 0.3% | 99.1% |  |
-| 98 | 0.6% | 98.9% |  |
-| 99 | 1.0% | 98% |  |
-| 100 | 1.2% | 97% |  |
-| 101 | 1.1% | 96% |  |
+| 94 | 0.1% | 99.6% |  |
+| 95 | 0.2% | 99.4% |  |
+| 96 | 0.2% | 99.2% |  |
+| 97 | 0.4% | 99.0% |  |
+| 98 | 0.5% | 98.7% |  |
+| 99 | 0.8% | 98% |  |
+| 100 | 0.9% | 97% |  |
+| 101 | 1.3% | 96% |  |
 | 102 | 2% | 95% |  |
-| 103 | 3% | 93% |  |
+| 103 | 2% | 94% |  |
 | 104 | 2% | 91% |  |
 | 105 | 3% | 89% |  |
 | 106 | 3% | 86% |  |
-| 107 | 2% | 83% |  |
-| 108 | 3% | 81% |  |
-| 109 | 4% | 78% |  |
+| 107 | 3% | 84% |  |
+| 108 | 4% | 81% |  |
+| 109 | 3% | 77% |  |
 | 110 | 4% | 74% |  |
 | 111 | 4% | 70% |  |
 | 112 | 4% | 66% |  |
