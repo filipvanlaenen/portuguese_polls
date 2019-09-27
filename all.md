@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.0% <br> 0 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23–31% <br> 64–89 | 3–6% <br> 2–9 | 35–42% <br> 100–124 | 8–13% <br> 15–30 | 4–7% <br> 5–14 | 2–5% <br> 2–8 | 0–2% <br> 0 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 22–29% <br> 71–90 | 4–7% <br> 2–12 | 34–41% <br> 88–113 | 9–14% <br> 22–26 | 5–9% <br> 7–17 | 2–6% <br> 5–6 | N/A <br> N/A |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23–31% <br> 66–88 | 3–6% <br> 2–10 | 35–42% <br> 101–122 | 8–13% <br> 17–28 | 4–7% <br> 5–14 | 2–5% <br> 2–6 | 0–2% <br> 0 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 22–29% <br> 61–83 | 4–7% <br> 4–12 | 34–41% <br> 98–120 | 9–14% <br> 18–30 | 5–9% <br> 7–19 | 2–6% <br> 2–8 | N/A <br> N/A |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24–31% <br> 67–90 | 3–6% <br> 2–10 | 33–40% <br> 94–117 | 8–13% <br> 17–29 | 5–9% <br> 7–19 | 2–5% <br> 2–6 | 0–1% <br> 0 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25–32% <br> 71–94 | 3–6% <br> 2–10 | 32–40% <br> 90–114 | 8–13% <br> 17–28 | 5–9% <br> 6–19 | 2–6% <br> 2–8 | 0–1% <br> 0 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24–31% <br> 67–88 | 3–7% <br> 2–10 | 34–42% <br> 95–117 | 8–13% <br> 16–27 | 6–10% <br> 8–20 | 2–5% <br> 2–6 | 0–2% <br> 0 |
