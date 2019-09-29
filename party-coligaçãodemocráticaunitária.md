@@ -10,7 +10,8 @@ Last result: **8.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.0–8.8% | 4.6–9.4% | 4.2–9.9% | 3.7–10.8% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.5–8.8% | 5.2–9.4% | 4.9–9.9% | 4.4–10.8% |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.3% | 5.2–7.8% | 4.9–8.2% | 4.6–8.6% | 4.2–9.3% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.2% | 4.2–6.5% | 3.9–6.9% | 3.7–7.3% | 3.2–8.0% |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.3% | 4.3–6.7% | 4.0–7.1% | 3.8–7.4% | 3.4–8.2% |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 6.8% | 5.7–8.3% | 5.3–8.8% | 5.1–9.1% | 4.6–9.9% |
@@ -70,13 +71,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 4% | 99.7% |  |
-| 4.5–5.5% | 14% | 95% |  |
-| 5.5–6.5% | 24% | 81% |  |
-| 6.5–7.5% | 28% | 57% | Median |
-| 7.5–8.5% | 16% | 29% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 9% | 99.0% |  |
+| 5.5–6.5% | 25% | 90% |  |
+| 6.5–7.5% | 33% | 64% | Median |
+| 7.5–8.5% | 18% | 32% | Last Result |
 | 8.5–9.5% | 9% | 13% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.7% | 0.8% |  |
@@ -92,8 +92,9 @@ Last result: **17** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 6–18 | 5–19 | 5–20 | 5–22 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 5–13 | 5–14 | 5–14 | 4–16 |
+| N/A | [Poll Average](average.html) | 14 | 8–18 | 7–19 | 6–20 | 5–22 |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 12 | 7–15 | 7–17 | 6–17 | 5–20 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 5–13 | 5–13 | 5–14 | 4–17 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 5–13 | 5–14 | 5–14 | 4–17 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 13 | 8–17 | 8–18 | 7–19 | 5–20 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 9–17 | 8–18 | 7–19 | 6–21 |
@@ -154,24 +155,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.4% | 100% |  |
-| 5 | 5% | 99.6% |  |
-| 6 | 6% | 95% |  |
-| 7 | 4% | 89% |  |
-| 8 | 6% | 85% |  |
-| 9 | 8% | 79% |  |
-| 10 | 3% | 71% |  |
-| 11 | 3% | 68% |  |
-| 12 | 3% | 64% |  |
-| 13 | 13% | 61% | Median |
-| 14 | 23% | 48% |  |
-| 15 | 3% | 25% |  |
-| 16 | 3% | 23% |  |
-| 17 | 8% | 20% | Last Result |
-| 18 | 4% | 12% |  |
+| 5 | 1.0% | 100% |  |
+| 6 | 3% | 99.0% |  |
+| 7 | 3% | 96% |  |
+| 8 | 8% | 93% |  |
+| 9 | 6% | 85% |  |
+| 10 | 3% | 79% |  |
+| 11 | 5% | 76% |  |
+| 12 | 4% | 72% |  |
+| 13 | 15% | 68% |  |
+| 14 | 25% | 53% | Median |
+| 15 | 4% | 28% |  |
+| 16 | 2% | 24% |  |
+| 17 | 9% | 21% | Last Result |
+| 18 | 4% | 13% |  |
 | 19 | 5% | 9% |  |
 | 20 | 3% | 4% |  |
-| 21 | 0.8% | 1.5% |  |
+| 21 | 0.8% | 2% |  |
 | 22 | 0.4% | 0.7% |  |
 | 23 | 0.1% | 0.3% |  |
 | 24 | 0.2% | 0.2% |  |

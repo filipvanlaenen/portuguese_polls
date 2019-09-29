@@ -10,7 +10,8 @@ Last result: **1.4%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.5% | 2.9–5.9% | 2.7–6.3% | 2.3–7.0% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.0–5.5% | 2.7–5.9% | 2.4–6.3% | 2.0–7.0% |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.0–4.9% | 1.7–5.5% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3.7% | 2.9–4.9% | 2.6–5.2% | 2.4–5.5% | 2.1–6.1% |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3.3% | 2.6–4.5% | 2.3–4.8% | 2.2–5.1% | 1.8–5.7% |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 3.7% | 2.9–4.9% | 2.6–5.2% | 2.4–5.5% | 2.1–6.1% |
@@ -71,12 +72,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% | Last Result |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 19% | 98% |  |
-| 3.5–4.5% | 42% | 80% | Median |
-| 4.5–5.5% | 29% | 38% |  |
-| 5.5–6.5% | 8% | 10% |  |
-| 6.5–7.5% | 1.4% | 2% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 22% | 96% |  |
+| 3.5–4.5% | 39% | 75% | Median |
+| 4.5–5.5% | 27% | 36% |  |
+| 5.5–6.5% | 8% | 9% |  |
+| 6.5–7.5% | 1.4% | 1.5% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -89,8 +90,9 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 3–9 | 3–9 | 2–13 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 3–8 | 2–8 | 2–9 |
+| N/A | [Poll Average](average.html) | 6 | 3–8 | 3–9 | 2–9 | 2–13 |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 2–6 | 2–6 | 1–8 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 3–7 | 2–8 | 2–9 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–6 | 1–8 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 4 | 3–6 | 3–7 | 2–8 | 2–9 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–6 | 1–8 |
@@ -151,17 +153,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% | Last Result |
-| 2 | 2% | 99.9% |  |
-| 3 | 7% | 98% |  |
-| 4 | 20% | 91% |  |
-| 5 | 4% | 71% |  |
-| 6 | 50% | 67% | Median |
-| 7 | 4% | 17% |  |
-| 8 | 7% | 13% |  |
+| 1 | 0.2% | 100% | Last Result |
+| 2 | 3% | 99.8% |  |
+| 3 | 10% | 97% |  |
+| 4 | 21% | 87% |  |
+| 5 | 5% | 66% |  |
+| 6 | 45% | 62% | Median |
+| 7 | 4% | 16% |  |
+| 8 | 6% | 12% |  |
 | 9 | 4% | 6% |  |
 | 10 | 0.8% | 2% |  |
-| 11 | 0.4% | 2% |  |
+| 11 | 0.4% | 1.5% |  |
 | 12 | 0.3% | 1.1% |  |
 | 13 | 0.5% | 0.8% |  |
 | 14 | 0.2% | 0.3% |  |
