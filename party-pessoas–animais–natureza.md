@@ -91,13 +91,13 @@ Last result: **1** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 3–8 | 3–9 | 2–9 | 2–13 |
-| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3 | 3–5 | 2–6 | 2–6 | 1–8 |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–6 | 1–7 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 3–8 | 3–8 | 2–9 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 3–6 | 3–6 | 2–9 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 4 | 3–6 | 2–8 | 2–8 | 2–9 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 5 | 3–6 | 2–6 | 2–8 | 2–9 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3 | 2–6 | 2–6 | 2–6 | 1–7 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 2–6 | 2–8 | 2–8 | 2–9 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 3–6 | 2–6 | 2–6 | 2–8 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 3–6 | 2–6 | 2–6 | 1–9 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 2–6 | 1–8 | 1–8 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 2–6 | 2–7 | 2–8 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–6 | 1–7 |
@@ -153,16 +153,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 3% | 99.8% |  |
-| 3 | 16% | 97% |  |
-| 4 | 20% | 81% |  |
-| 5 | 2% | 61% |  |
-| 6 | 43% | 59% | Median |
-| 7 | 3% | 16% |  |
-| 8 | 6% | 13% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 4% | 99.8% |  |
+| 3 | 11% | 96% |  |
+| 4 | 14% | 85% |  |
+| 5 | 5% | 71% |  |
+| 6 | 50% | 66% | Median |
+| 7 | 3% | 15% |  |
+| 8 | 5% | 12% |  |
 | 9 | 5% | 7% |  |
-| 10 | 0.8% | 2% |  |
+| 10 | 0.7% | 2% |  |
 | 11 | 0.4% | 1.5% |  |
 | 12 | 0.3% | 1.1% |  |
 | 13 | 0.5% | 0.8% |  |

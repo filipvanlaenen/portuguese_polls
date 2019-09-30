@@ -93,14 +93,14 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–26 | 17–27 | 14–32 |
-| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–26 | 18–28 | 17–29 | 15–32 |
+| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–26 | 17–28 | 14–31 |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–26 | 17–27 | 17–28 | 15–32 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–26 | 18–27 | 17–27 | 15–31 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25 | 21–28 | 20–28 | 18–32 | 17–35 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 24 | 19–26 | 18–27 | 17–31 | 15–34 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 24 | 19–27 | 18–28 | 18–29 | 17–35 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–27 | 18–28 | 17–30 | 16–31 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 17–26 | 17–28 | 17–33 | 15–35 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–24 | 17–24 | 16–26 | 15–28 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–24 | 17–26 | 17–27 | 15–29 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 17–24 | 17–24 | 14–24 | 12–29 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 14–21 | 14–22 | 14–24 | 10–24 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–26 | 17–27 | 16–28 | 13–30 |
@@ -160,29 +160,29 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 99.9% |  |
 | 13 | 0.1% | 99.9% |  |
 | 14 | 0.4% | 99.7% |  |
-| 15 | 0.8% | 99.3% |  |
-| 16 | 0.8% | 98.5% |  |
-| 17 | 5% | 98% |  |
-| 18 | 15% | 92% |  |
-| 19 | 8% | 78% | Last Result |
-| 20 | 12% | 69% |  |
-| 21 | 17% | 57% | Median |
-| 22 | 8% | 40% |  |
-| 23 | 7% | 32% |  |
-| 24 | 14% | 26% |  |
+| 15 | 0.7% | 99.3% |  |
+| 16 | 0.7% | 98.7% |  |
+| 17 | 6% | 98% |  |
+| 18 | 12% | 92% |  |
+| 19 | 8% | 80% | Last Result |
+| 20 | 12% | 71% |  |
+| 21 | 19% | 59% | Median |
+| 22 | 6% | 40% |  |
+| 23 | 6% | 34% |  |
+| 24 | 16% | 28% |  |
 | 25 | 2% | 11% |  |
-| 26 | 6% | 10% |  |
-| 27 | 1.3% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.2% | 1.3% |  |
-| 30 | 0.4% | 1.1% |  |
-| 31 | 0.2% | 0.7% |  |
-| 32 | 0.3% | 0.6% |  |
-| 33 | 0.1% | 0.3% |  |
-| 34 | 0.1% | 0.2% |  |
+| 26 | 5% | 10% |  |
+| 27 | 1.4% | 4% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.4% | 1.1% |  |
+| 30 | 0.1% | 0.7% |  |
+| 31 | 0.1% | 0.5% |  |
+| 32 | 0.1% | 0.5% |  |
+| 33 | 0% | 0.3% |  |
+| 34 | 0.1% | 0.3% |  |
 | 35 | 0.1% | 0.2% |  |
 | 36 | 0% | 0.1% |  |
-| 37 | 0% | 0.1% |  |
+| 37 | 0.1% | 0.1% |  |
 | 38 | 0% | 0% |  |
 
 
