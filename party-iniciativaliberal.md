@@ -10,28 +10,28 @@ Last result: **0.0%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.4–2.9% | 1.3–3.2% | 1.2–3.5% | 0.9–4.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.2–2.6% | 0.1–2.9% | 0.1–3.2% | 0.1–3.8% |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2.0% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% | 0.9–4.0% |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.7% | 1.1–2.6% | 1.0–2.8% | 0.9–3.1% | 0.7–3.6% |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.3% | N/A | N/A | N/A | N/A |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.7% | 1.2–2.6% | 1.0–2.8% | 0.9–3.0% | 0.7–3.5% |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.3% | 0.9–2.2% | 0.8–2.4% | 0.7–2.6% | 0.5–3.1% |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 1.2% | N/A | N/A | N/A | N/A |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.8% | N/A | N/A | N/A | N/A |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | N/A | N/A | N/A | N/A |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.8% | N/A | N/A | N/A | N/A |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.0% | N/A | N/A | N/A | N/A |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.5% | N/A | N/A | N/A | N/A |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.8% | 1.3–2.8% | 1.1–3.0% | 1.0–3.3% | 0.8–3.8% |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.8% | 0.5–1.5% | 0.4–1.8% | 0.4–1.9% | 0.2–2.3% |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.5–2.2% | 0.3–2.6% |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.5% | 0.3–1.1% | 0.2–1.3% | 0.2–1.5% | 0.1–1.8% |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.0% | N/A | N/A | N/A | N/A |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 0.0% | N/A | N/A | N/A | N/A |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 0.2% | N/A | N/A | N/A | N/A |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 0.0% | N/A | N/A | N/A | N/A |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.3% | N/A | N/A | N/A | N/A |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 0.0% | N/A | N/A | N/A | N/A |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 0.0% | N/A | N/A | N/A | N/A |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 0.0% | N/A | N/A | N/A | N/A |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0.2% | N/A | N/A | N/A | N/A |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.2% |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 0.0% | N/A | N/A | N/A | N/A |
@@ -71,13 +71,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 61% | 85% | Median |
-| 2.5–3.5% | 22% | 24% |  |
-| 3.5–4.5% | 2% | 2% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 41% | 100% | Last Result |
+| 0.5–1.5% | 17% | 59% | Median |
+| 1.5–2.5% | 31% | 43% |  |
+| 2.5–3.5% | 11% | 12% |  |
+| 3.5–4.5% | 0.9% | 1.0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -88,28 +87,28 @@ Last result: **0** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 0–2 | 0–2 | 0–2 | 0–4 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0–2 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 2 | 2 | 2 | 0–2 | 0–2 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage |  |  |  |  |  |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 0 | 0 | 0 | 0 | 0 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio |  |  |  |  |  |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI |  |  |  |  |  |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio |  |  |  |  |  |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias |  |  |  |  |  |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios |  |  |  |  |  |
@@ -151,11 +150,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 54% | 69% | Median |
-| 2 | 15% | 15% |  |
-| 3 | 0% | 0.6% |  |
-| 4 | 0.4% | 0.5% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 14% | 39% |  |
+| 2 | 25% | 25% |  |
+| 3 | 0.1% | 0.3% |  |
+| 4 | 0.2% | 0.3% |  |
 | 5 | 0% | 0.1% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
