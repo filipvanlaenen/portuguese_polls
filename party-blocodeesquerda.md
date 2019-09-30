@@ -99,7 +99,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25 | 21–28 | 20–28 | 18–32 | 17–35 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 24 | 19–27 | 18–28 | 18–29 | 17–35 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–27 | 18–28 | 17–30 | 16–31 |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 17–26 | 17–28 | 17–33 | 15–35 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 19–26 | 18–27 | 17–28 | 14–31 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–24 | 17–26 | 17–27 | 15–29 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 17–24 | 17–24 | 14–24 | 12–29 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 14–21 | 14–22 | 14–24 | 10–24 |
