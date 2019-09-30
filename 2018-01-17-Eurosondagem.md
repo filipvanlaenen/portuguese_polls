@@ -1,4 +1,4 @@
-# Opinion Poll by Eurosondagem for Expresso and SIC, 14–17 January 2018
+# Opinion Poll by Eurosondagem for Expresso and SIC Notícias, 14–17 January 2018
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -22,6 +22,8 @@
 ## Seats
 
 ![Graph with seats not yet produced](2018-01-17-Eurosondagem-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2018-01-17-Eurosondagem-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
@@ -492,7 +494,7 @@
 ### Opinion Poll
 
 + **Polling firm:** Eurosondagem
-+ **Commissioner(s):** Expresso and SIC
++ **Commissioner(s):** Expresso and SIC Notícias
 + **Fieldwork period:** 14–17 January 2018
 
 ### Calculations
