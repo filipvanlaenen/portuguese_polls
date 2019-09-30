@@ -10,11 +10,11 @@ Last result: **8.2%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.5–9.0% | 5.1–9.5% | 4.8–10.0% | 4.3–10.9% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.5–8.8% | 5.2–9.4% | 4.9–9.9% | 4.4–10.8% |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.3% | 5.2–7.8% | 4.9–8.2% | 4.6–8.6% | 4.2–9.3% |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.2% | 4.2–6.5% | 3.9–6.9% | 3.7–7.3% | 3.2–8.0% |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5.3% | 4.3–6.7% | 4.0–7.1% | 3.8–7.4% | 3.4–8.2% |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 6.8% | N/A | N/A | N/A | N/A |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 6.8% | 5.7–8.3% | 5.3–8.8% | 5.1–9.1% | 4.6–9.9% |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.8% | 5.7–8.3% | 5.3–8.8% | 5.1–9.1% | 4.6–9.9% |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.8% | 5.7–8.3% | 5.3–8.8% | 5.1–9.1% | 4.6–9.9% |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7.7% | 6.4–9.2% | 6.1–9.7% | 5.8–10.1% | 5.3–10.9% |
@@ -72,14 +72,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.1% | 100% |  |
-| 4.5–5.5% | 10% | 98.9% |  |
-| 5.5–6.5% | 25% | 89% |  |
-| 6.5–7.5% | 32% | 64% | Median |
-| 7.5–8.5% | 18% | 33% | Last Result |
-| 8.5–9.5% | 10% | 15% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.9% | 1.0% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 9% | 99.0% |  |
+| 5.5–6.5% | 25% | 90% |  |
+| 6.5–7.5% | 33% | 64% | Median |
+| 7.5–8.5% | 18% | 32% | Last Result |
+| 8.5–9.5% | 9% | 13% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.7% | 0.8% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -92,17 +92,17 @@ Last result: **17** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–19 | 11–19 | 11–20 | 7–22 |
+| N/A | [Poll Average](average.html) | 14 | 13–18 | 11–19 | 10–20 | 6–22 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 11–14 | 11–17 | 8–18 | 5–19 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 8 | 8 | 8 | 8 | 8–13 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 9 | 6–10 | 6–13 | 6–13 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 14–17 | 14–19 | 10–20 | 8–21 |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 13 | 13 | 13–14 | 13–14 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 15 | 10–17 | 10–17 | 10–17 | 10–24 |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 11 | 10–17 | 9–17 | 7–19 | 7–20 |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 15 | 9–19 | 9–19 | 9–19 | 8–19 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 19 | 19–20 | 17–20 | 9–20 | 9–20 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 13 | 13–16 | 12–16 | 6–18 | 6–19 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 9–17 | 8–17 | 7–19 | 6–21 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 7–17 | 6–20 | 5–20 | 5–23 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 17 | 14–17 | 13–18 | 9–20 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 8–15 | 8–17 | 7–17 | 6–20 |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 6–17 | 6–20 | 6–20 | 6–21 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 13–19 | 12–20 | 11–20 | 8–23 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 14 | 13–17 | 11–17 | 10–18 | 9–19 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 14–20 | 13–21 | 13–22 | 11–24 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 9 | 6–13 | 5–13 | 5–14 | 5–16 |
@@ -113,7 +113,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 9–18 | 8–19 | 7–20 | 6–21 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [7–11 July 2019](2019-07-11-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 14 | 10–17 | 9–17 | 8–18 | 7–20 |
-| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–20 | 13–20 | 10–20 | 10–24 |
+| [15–27 June 2019](2019-06-27-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 17 | 13–19 | 13–19 | 13–20 | 11–22 |
 | [13–19 June 2019](2019-06-19-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 10–18 | 8–19 | 8–20 | 7–21 |
 | [2–6 June 2019](2019-06-06-Eurosondagem.html) | Eurosondagem | 13 | 8–14 | 7–16 | 7–17 | 6–18 |
 | [16–22 May 2019](2019-05-22-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 16 | 11–18 | 9–19 | 9–20 | 7–21 |
@@ -155,26 +155,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.3% | 100% |  |
-| 6 | 0.1% | 99.7% |  |
-| 7 | 0.1% | 99.6% |  |
-| 8 | 0.3% | 99.5% |  |
-| 9 | 0.5% | 99.1% |  |
-| 10 | 0.6% | 98.6% |  |
-| 11 | 3% | 98% |  |
-| 12 | 1.0% | 95% |  |
-| 13 | 7% | 94% |  |
-| 14 | 60% | 87% | Median |
-| 15 | 2% | 27% |  |
-| 16 | 2% | 24% |  |
-| 17 | 8% | 22% | Last Result |
-| 18 | 4% | 14% |  |
-| 19 | 5% | 10% |  |
-| 20 | 3% | 5% |  |
-| 21 | 1.0% | 2% |  |
-| 22 | 0.4% | 0.8% |  |
-| 23 | 0.2% | 0.4% |  |
-| 24 | 0.2% | 0.2% |  |
+| 5 | 0.2% | 100% |  |
+| 6 | 1.1% | 99.8% |  |
+| 7 | 0.1% | 98.7% |  |
+| 8 | 0.3% | 98.6% |  |
+| 9 | 0.4% | 98% |  |
+| 10 | 0.5% | 98% |  |
+| 11 | 2% | 97% |  |
+| 12 | 0.8% | 95% |  |
+| 13 | 18% | 94% |  |
+| 14 | 48% | 76% | Median |
+| 15 | 2% | 28% |  |
+| 16 | 7% | 26% |  |
+| 17 | 7% | 19% | Last Result |
+| 18 | 4% | 12% |  |
+| 19 | 5% | 8% |  |
+| 20 | 2% | 4% |  |
+| 21 | 0.8% | 1.4% |  |
+| 22 | 0.3% | 0.6% |  |
+| 23 | 0.1% | 0.3% |  |
+| 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 
