@@ -101,21 +101,21 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 64 | 61–75 | 59–77 | 59–78 | 56–88 |
-| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 73 | 71–79 | 70–83 | 66–88 | 60–95 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 79 | 79 | 79 | 79 | 73–79 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 80 | 72–80 | 72–80 | 57–80 | 57–80 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 61 | 59–66 | 59–67 | 59–75 | 59–82 |
+| N/A | [Poll Average](average.html) | 68 | 61–77 | 60–81 | 59–84 | 55–91 |
+| [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 73 | 70–84 | 69–86 | 66–91 | 60–95 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 80 | 68–85 | 67–85 | 65–85 | 64–93 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 72 | 71–83 | 67–83 | 63–85 | 63–88 |
+| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 76 | 64–81 | 61–82 | 59–82 | 55–85 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 74 | 67–82 | 67–85 | 67–90 | 64–93 |
-| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 75 | 74–86 | 72–92 | 68–94 | 67–96 |
-| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 75 | 75–76 | 75–83 | 71–85 | 66–91 |
+| [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 81 | 74–86 | 73–91 | 69–94 | 65–97 |
+| [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 75 | 73–82 | 66–84 | 66–91 | 63–94 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 79 | 69–83 | 67–83 | 63–85 | 60–89 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 76 | 67–79 | 66–80 | 63–81 | 60–86 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 64 | 58–71 | 57–73 | 56–76 | 54–78 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 67 | 63–71 | 61–72 | 60–74 | 59–75 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 66 | 59–73 | 57–74 | 56–75 | 55–78 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 60 | 56–68 | 55–69 | 54–70 | 51–73 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 61 | 61 | 61 | 61–65 | 57–65 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 61 | 61–70 | 60–71 | 59–72 | 58–74 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 68 | 61–73 | 59–74 | 59–75 | 56–78 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 57 | 52–64 | 51–66 | 50–68 | 49–70 |
@@ -164,48 +164,49 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 54 | 0.1% | 100% |  |
-| 55 | 0.2% | 99.9% |  |
-| 56 | 0.5% | 99.7% |  |
-| 57 | 0.5% | 99.2% |  |
-| 58 | 0.4% | 98.7% |  |
-| 59 | 7% | 98% |  |
-| 60 | 1.5% | 92% |  |
-| 61 | 33% | 90% |  |
-| 62 | 2% | 57% |  |
-| 63 | 3% | 55% |  |
-| 64 | 3% | 52% | Median |
-| 65 | 3% | 50% |  |
-| 66 | 4% | 46% |  |
-| 67 | 7% | 43% |  |
-| 68 | 5% | 36% |  |
-| 69 | 4% | 31% |  |
-| 70 | 2% | 28% |  |
-| 71 | 9% | 26% |  |
-| 72 | 1.5% | 17% |  |
-| 73 | 4% | 15% |  |
-| 74 | 1.5% | 12% |  |
-| 75 | 1.2% | 10% |  |
-| 76 | 0.4% | 9% |  |
-| 77 | 6% | 9% |  |
-| 78 | 0.5% | 3% |  |
-| 79 | 0.2% | 2% |  |
-| 80 | 0.1% | 2% |  |
-| 81 | 0.4% | 2% |  |
-| 82 | 0.3% | 1.5% |  |
-| 83 | 0.1% | 1.1% |  |
-| 84 | 0.1% | 1.0% |  |
-| 85 | 0.1% | 0.9% |  |
-| 86 | 0.2% | 0.8% |  |
-| 87 | 0% | 0.6% |  |
-| 88 | 0.1% | 0.6% |  |
-| 89 | 0% | 0.4% | Last Result |
-| 90 | 0.1% | 0.4% |  |
-| 91 | 0% | 0.3% |  |
+| 53 | 0% | 100% |  |
+| 54 | 0.1% | 99.9% |  |
+| 55 | 0.3% | 99.8% |  |
+| 56 | 0.5% | 99.5% |  |
+| 57 | 0.5% | 99.0% |  |
+| 58 | 0.5% | 98% |  |
+| 59 | 2% | 98% |  |
+| 60 | 2% | 96% |  |
+| 61 | 13% | 94% |  |
+| 62 | 2% | 81% |  |
+| 63 | 3% | 79% |  |
+| 64 | 3% | 76% |  |
+| 65 | 3% | 73% |  |
+| 66 | 6% | 70% |  |
+| 67 | 9% | 64% |  |
+| 68 | 5% | 55% | Median |
+| 69 | 4% | 49% |  |
+| 70 | 6% | 45% |  |
+| 71 | 9% | 39% |  |
+| 72 | 2% | 30% |  |
+| 73 | 4% | 28% |  |
+| 74 | 4% | 25% |  |
+| 75 | 1.2% | 20% |  |
+| 76 | 5% | 19% |  |
+| 77 | 5% | 14% |  |
+| 78 | 1.4% | 9% |  |
+| 79 | 0.8% | 8% |  |
+| 80 | 1.4% | 7% |  |
+| 81 | 2% | 6% |  |
+| 82 | 0.8% | 4% |  |
+| 83 | 0.2% | 3% |  |
+| 84 | 1.4% | 3% |  |
+| 85 | 0.3% | 1.5% |  |
+| 86 | 0.1% | 1.2% |  |
+| 87 | 0.1% | 1.0% |  |
+| 88 | 0.1% | 0.9% |  |
+| 89 | 0% | 0.8% | Last Result |
+| 90 | 0.1% | 0.8% |  |
+| 91 | 0.4% | 0.7% |  |
 | 92 | 0% | 0.3% |  |
 | 93 | 0% | 0.3% |  |
 | 94 | 0.1% | 0.3% |  |
-| 95 | 0.1% | 0.1% |  |
+| 95 | 0.2% | 0.2% |  |
 | 96 | 0% | 0% |  |
 
 
