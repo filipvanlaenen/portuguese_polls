@@ -100,7 +100,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20 | 18–24 | 17–24 | 16–24 | 14–26 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–26 | 17–27 | 17–28 | 15–32 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–24 | 17–26 | 16–28 | 14–30 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25 | 21–28 | 20–28 | 18–32 | 17–35 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24 | 18–28 | 17–29 | 17–29 | 17–35 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 24 | 19–27 | 18–28 | 18–29 | 17–35 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–27 | 18–28 | 18–30 | 17–34 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 19–26 | 18–27 | 17–28 | 14–31 |
@@ -111,7 +111,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 24 | 20–27 | 19–28 | 18–28 | 17–31 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 21 | 18–24 | 17–24 | 15–24 | 13–28 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 21 | 17–24 | 17–24 | 15–24 | 13–28 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 18 | 17–23 | 16–24 | 15–24 | 13–26 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–24 | 18–25 | 18–26 | 17–28 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 38 | 29–41 | 28–42 | 28–44 | 26–48 |
@@ -163,22 +163,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.2% | 100% |  |
 | 11 | 0.1% | 99.8% |  |
 | 12 | 0.1% | 99.7% |  |
-| 13 | 0.2% | 99.6% |  |
-| 14 | 0.8% | 99.4% |  |
+| 13 | 0.3% | 99.6% |  |
+| 14 | 0.7% | 99.3% |  |
 | 15 | 2% | 98.6% |  |
 | 16 | 2% | 97% |  |
-| 17 | 7% | 95% |  |
-| 18 | 13% | 88% |  |
-| 19 | 9% | 75% | Last Result |
-| 20 | 12% | 67% |  |
-| 21 | 20% | 55% | Median |
-| 22 | 6% | 35% |  |
+| 17 | 8% | 95% |  |
+| 18 | 14% | 87% |  |
+| 19 | 9% | 73% | Last Result |
+| 20 | 12% | 63% |  |
+| 21 | 15% | 51% | Median |
+| 22 | 7% | 36% |  |
 | 23 | 5% | 29% |  |
-| 24 | 16% | 25% |  |
+| 24 | 15% | 24% |  |
 | 25 | 2% | 9% |  |
 | 26 | 4% | 7% |  |
 | 27 | 1.1% | 3% |  |
-| 28 | 1.3% | 2% |  |
+| 28 | 1.2% | 2% |  |
 | 29 | 0.3% | 0.7% |  |
 | 30 | 0.1% | 0.5% |  |
 | 31 | 0.1% | 0.4% |  |

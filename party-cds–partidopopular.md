@@ -124,7 +124,7 @@ Last result: **18** seats (General Election of 4 October 2015)
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 4–10 | 2–10 | 2–10 | 2–12 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 2–6 | 2–7 | 2–7 | 2–9 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 2–7 | 2–7 | 2–8 | 2–10 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 2–6 | 2–6 | 2–7 | 2–7 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 2–6 | 2–6 | 2–7 | 2–7 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 7 | 6–10 | 6–11 | 4–12 | 3–15 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–7 | 2–8 | 2–10 | 2–12 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–9 | 2–10 | 2–10 | 2–11 |
@@ -135,7 +135,7 @@ Last result: **18** seats (General Election of 4 October 2015)
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 8 | 7–10 | 7–10 | 6–11 | 6–12 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 10 | 8–13 | 7–15 | 6–17 | 6–18 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 7 | 5–8 | 4–10 | 4–11 | 3–12 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 6 | 4–7 | 4–9 | 4–10 | 2–11 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 6 | 4–7 | 4–9 | 4–10 | 2–12 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 10 | 7–12 | 7–13 | 6–15 | 6–18 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 7 | 5–8 | 5–11 | 4–11 | 4–11 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 3 | 2–6 | 2–6 | 2–6 | 0–8 |
@@ -188,14 +188,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.9% | 98.7% |  |
 | 4 | 5% | 98% |  |
 | 5 | 0.7% | 93% |  |
-| 6 | 27% | 93% |  |
-| 7 | 23% | 65% | Median |
+| 6 | 25% | 93% |  |
+| 7 | 26% | 68% | Median |
 | 8 | 17% | 42% |  |
-| 9 | 5% | 25% |  |
+| 9 | 4% | 25% |  |
 | 10 | 9% | 20% |  |
 | 11 | 5% | 11% |  |
 | 12 | 3% | 6% |  |
-| 13 | 0.9% | 3% |  |
+| 13 | 1.0% | 3% |  |
 | 14 | 0.7% | 2% |  |
 | 15 | 0.5% | 1.5% |  |
 | 16 | 0.4% | 1.0% |  |

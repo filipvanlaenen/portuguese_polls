@@ -108,7 +108,7 @@ Last result: **89** seats (General Election of 4 October 2015)
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 78 | 71–85 | 71–85 | 66–88 | 64–93 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 76 | 70–84 | 69–85 | 66–88 | 61–94 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 73 | 72–83 | 68–85 | 66–86 | 64–94 |
-| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 72 | 71–83 | 67–83 | 63–85 | 63–88 |
+| [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 79 | 68–83 | 67–85 | 65–86 | 63–90 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 71 | 63–77 | 60–79 | 60–81 | 57–85 |
 | [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 77 | 70–84 | 67–86 | 66–88 | 62–93 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 81 | 75–89 | 72–93 | 68–95 | 66–101 |
@@ -119,7 +119,7 @@ Last result: **89** seats (General Election of 4 October 2015)
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 67 | 63–71 | 61–72 | 60–74 | 59–75 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 66 | 59–73 | 57–74 | 56–75 | 55–78 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 60 | 56–68 | 55–69 | 54–70 | 51–73 |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 61 | 61–70 | 60–71 | 59–72 | 58–74 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 67 | 60–70 | 59–71 | 59–72 | 54–75 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 68 | 61–73 | 59–74 | 59–75 | 56–78 |
 | [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 57 | 53–59 | 53–62 | 52–62 | 50–64 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 57 | 52–64 | 51–66 | 50–68 | 49–70 |
@@ -168,29 +168,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 53 | 0% | 100% |  |
+| 53 | 0.1% | 100% |  |
 | 54 | 0.1% | 99.9% |  |
 | 55 | 0.2% | 99.8% |  |
-| 56 | 0.5% | 99.6% |  |
-| 57 | 0.4% | 99.1% |  |
-| 58 | 0.5% | 98.6% |  |
+| 56 | 0.6% | 99.5% |  |
+| 57 | 0.5% | 99.0% |  |
+| 58 | 0.7% | 98.5% |  |
 | 59 | 2% | 98% |  |
 | 60 | 3% | 96% |  |
-| 61 | 12% | 94% |  |
-| 62 | 2% | 82% |  |
-| 63 | 4% | 79% |  |
-| 64 | 3% | 76% |  |
-| 65 | 4% | 73% |  |
-| 66 | 6% | 69% |  |
-| 67 | 10% | 63% |  |
-| 68 | 8% | 53% | Median |
-| 69 | 5% | 46% |  |
-| 70 | 3% | 41% |  |
-| 71 | 4% | 38% |  |
-| 72 | 2% | 34% |  |
+| 61 | 6% | 93% |  |
+| 62 | 3% | 87% |  |
+| 63 | 4% | 84% |  |
+| 64 | 3% | 80% |  |
+| 65 | 4% | 77% |  |
+| 66 | 6% | 73% |  |
+| 67 | 10% | 67% |  |
+| 68 | 9% | 58% | Median |
+| 69 | 8% | 49% |  |
+| 70 | 4% | 41% |  |
+| 71 | 3% | 37% |  |
+| 72 | 3% | 34% |  |
 | 73 | 4% | 32% |  |
 | 74 | 5% | 27% |  |
-| 75 | 1.0% | 22% |  |
+| 75 | 1.1% | 22% |  |
 | 76 | 2% | 21% |  |
 | 77 | 2% | 19% |  |
 | 78 | 2% | 18% |  |
