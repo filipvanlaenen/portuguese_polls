@@ -93,10 +93,10 @@ Last result: **0** seats (General Election of 4 October 2015)
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–2 | 0–2 | 0–2 | 0–5 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–1 | 0–2 | 0–2 | 0–4 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 1 | 1–2 | 1–2 | 0–3 | 0–5 |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0 | 0 | 0–1 |
@@ -156,8 +156,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 38% | 100% | Last Result |
 | 1 | 48% | 62% | Median |
-| 2 | 12% | 13% |  |
-| 3 | 0.4% | 1.3% |  |
+| 2 | 12% | 14% |  |
+| 3 | 0.5% | 1.3% |  |
 | 4 | 0.3% | 0.9% |  |
 | 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |

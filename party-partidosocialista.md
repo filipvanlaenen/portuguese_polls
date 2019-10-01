@@ -103,17 +103,17 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 112 | 100–127 | 97–127 | 92–127 | 89–131 |
-| [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 100 | 92–108 | 91–111 | 90–114 | 87–116 |
+| N/A | [Poll Average](average.html) | 112 | 100–127 | 96–127 | 92–127 | 89–131 |
+| [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 100 | 91–109 | 91–112 | 89–114 | 87–116 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 105 | 102–116 | 99–117 | 97–118 | 94–125 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 97–117 | 92–121 |
-| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 108 | 102–120 | 101–122 | 100–122 | 96–126 |
+| [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 114 | 103–117 | 101–119 | 101–122 | 96–123 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 114 | 107–121 | 103–121 | 100–122 | 96–127 |
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 109 | 102–116 | 100–118 | 97–118 | 93–124 |
-| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 105 | 99–114 | 95–116 | 93–117 | 88–121 |
+| [21–24 September 2019](2019-09-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 105 | 100–113 | 96–115 | 94–117 | 89–120 |
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 104 | 94–112 | 91–113 | 89–115 | 86–118 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 96–118 | 91–120 |
-| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 111 | 100–118 | 100–119 | 100–123 | 95–124 |
+| [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–116 | 100–119 | 97–123 | 95–126 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 113 | 109–120 | 108–120 | 106–122 | 103–128 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 116 | 107–120 | 106–125 | 104–126 | 101–129 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 114 | 110–118 | 109–120 | 107–121 | 105–124 |
@@ -170,31 +170,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 86 | 0.1% | 100% | Last Result |
 | 87 | 0.1% | 99.9% |  |
-| 88 | 0.1% | 99.8% |  |
-| 89 | 0.3% | 99.8% |  |
-| 90 | 0.1% | 99.5% |  |
-| 91 | 1.1% | 99.4% |  |
-| 92 | 0.9% | 98% |  |
-| 93 | 0.3% | 97% |  |
-| 94 | 0.5% | 97% |  |
-| 95 | 0.6% | 97% |  |
-| 96 | 0.7% | 96% |  |
-| 97 | 2% | 95% |  |
-| 98 | 0.7% | 93% |  |
-| 99 | 0.9% | 93% |  |
-| 100 | 5% | 92% |  |
+| 88 | 0.2% | 99.8% |  |
+| 89 | 0.3% | 99.6% |  |
+| 90 | 0.1% | 99.3% |  |
+| 91 | 2% | 99.1% |  |
+| 92 | 0.7% | 98% |  |
+| 93 | 0.6% | 97% |  |
+| 94 | 0.7% | 96% |  |
+| 95 | 0.6% | 96% |  |
+| 96 | 1.1% | 95% |  |
+| 97 | 2% | 94% |  |
+| 98 | 0.9% | 92% |  |
+| 99 | 1.0% | 91% |  |
+| 100 | 3% | 90% |  |
 | 101 | 2% | 87% |  |
-| 102 | 4% | 85% |  |
-| 103 | 2% | 81% |  |
+| 102 | 3% | 85% |  |
+| 103 | 2% | 82% |  |
 | 104 | 2% | 79% |  |
 | 105 | 2% | 77% |  |
-| 106 | 4% | 74% |  |
-| 107 | 5% | 70% |  |
-| 108 | 3% | 65% |  |
+| 106 | 4% | 75% |  |
+| 107 | 5% | 71% |  |
+| 108 | 3% | 66% |  |
 | 109 | 3% | 63% |  |
-| 110 | 3% | 60% |  |
+| 110 | 3% | 61% |  |
 | 111 | 4% | 57% |  |
-| 112 | 4% | 53% | Median |
+| 112 | 5% | 53% | Median |
 | 113 | 5% | 48% |  |
 | 114 | 7% | 43% |  |
 | 115 | 7% | 36% |  |
