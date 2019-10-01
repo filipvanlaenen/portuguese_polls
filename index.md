@@ -10,7 +10,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 22–29% <br> 60–81 | 4–7% <br> 4–12 | 34–41% <br> 97–118 | 9–14% <br> 18–29 | 5–9% <br> 7–19 | 2–6% <br> 2–8 | 1–3% <br> 0–3 | 1–2% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0–2 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 22–25% <br> 60–74 | 5–7% <br> 6–11 | 36–40% <br> 107–121 | 8–11% <br> 17–24 | 6–8% <br> 10–18 | 4–5% <br> 4–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 21–27% <br> 56–75 | 5–8% <br> 6–17 | 35–41% <br> 100–120 | 8–12% <br> 15–26 | 7–11% <br> 13–22 | 4–7% <br> 5–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 20–26% <br> 59–72 | 4–7% <br> 4–10 | 38–45% <br> 114–131 | 7–11% <br> 15–24 | 5–8% <br> 8–16 | 3–6% <br> 4–9 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
+| [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 20–26% <br> 59–72 | 4–7% <br> 4–10 | 38–45% <br> 111–131 | 7–11% <br> 15–24 | 5–8% <br> 6–16 | 3–6% <br> 3–9 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
