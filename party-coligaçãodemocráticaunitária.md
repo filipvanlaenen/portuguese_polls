@@ -26,7 +26,7 @@ Last result: **8.2%** (General Election of 4 October 2015)
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.5–7.9% | 4.1–8.5% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 6.9% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.6% | N/A | N/A | N/A | N/A |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.6% | 5.9–7.5% | 5.7–7.8% | 5.5–8.0% | 5.1–8.4% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 5.6% | 4.7–6.8% | 4.5–7.1% | 4.2–7.5% | 3.8–8.1% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 6.8% | 5.7–8.3% | 5.3–8.7% | 5.1–9.1% | 4.6–9.9% |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.8% | N/A | N/A | N/A | N/A |
@@ -108,7 +108,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 9 | 6–13 | 5–13 | 5–14 | 5–16 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 9 | 9–14 | 8–16 | 8–16 | 6–17 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 14 | 10–17 | 9–18 | 9–19 | 7–20 |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 12 | 9–15 | 9–16 | 7–17 | 7–18 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 9 | 7–13 | 5–13 | 5–13 | 4–17 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 14 | 9–18 | 8–19 | 7–20 | 6–21 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |

@@ -26,7 +26,7 @@ Last result: **32.3%** (General Election of 4 October 2015)
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 38.4% | 36.4–40.4% | 35.9–41.0% | 35.4–41.5% | 34.5–42.4% |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 41.6% | 39.4–43.8% | 38.7–44.5% | 38.2–45.0% | 37.2–46.1% |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 38.1% | 36.1–40.0% | 35.6–40.6% | 35.1–41.1% | 34.2–42.0% |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.6% | N/A | N/A | N/A | N/A |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.6% | 42.0–45.3% | 41.5–45.7% | 41.1–46.1% | 40.4–46.9% |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 35.5% | 33.4–37.7% | 32.8–38.3% | 32.3–38.9% | 31.2–40.0% |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 37.4% | 34.9–40.0% | 34.3–40.8% | 33.7–41.4% | 32.5–42.6% |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 43.2% | N/A | N/A | N/A | N/A |
@@ -115,7 +115,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 121 | 114–128 | 112–130 | 111–131 | 108–134 |
 | [24 August–5 September 2019](2019-09-05-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 127 | 115–128 | 115–129 | 114–131 | 111–133 |
 | [1–5 September 2019](2019-09-05-Eurosondagem.html) | Eurosondagem <br> Associação Mutualista Montepio | 113 | 108–120 | 106–122 | 105–124 | 102–127 |
-| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [12–24 August 2019](2019-08-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 129 | 124–133 | 124–135 | 120–135 | 120–138 |
 | [18–28 July 2019](2019-07-28-Multidados.html) | Multidados <br> TVI | 106 | 99–113 | 98–115 | 97–116 | 94–120 |
 | [12–15 July 2019](2019-07-15-Aximage.html) | Aximage <br> Correio da Manhã and Negócios | 113 | 105–121 | 103–124 | 102–126 | 99–130 |
 | [8–14 July 2019](2019-07-14-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
