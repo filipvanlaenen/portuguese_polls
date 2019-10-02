@@ -108,7 +108,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 102 | 92–111 | 89–111 | 89–113 | 86–116 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 100 | 91–109 | 91–112 | 89–114 | 87–116 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 106 | 103–108 | 101–109 | 99–112 | 97–112 |
-| [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 105 | 102–116 | 99–117 | 97–118 | 94–125 |
+| [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 108 | 102–117 | 100–118 | 98–122 | 91–123 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 97–117 | 92–121 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 115 | 105–117 | 101–118 | 101–121 | 95–125 |
 | [22–25 September 2019](2019-09-25-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 111 | 105–118 | 102–120 | 101–123 | 94–128 |
@@ -117,7 +117,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | [20–23 September 2019](2019-09-23-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 104 | 94–112 | 91–113 | 89–115 | 86–118 |
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 96–118 | 91–120 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–116 | 100–119 | 97–123 | 95–126 |
-| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 114 | 109–120 | 108–121 | 104–122 | 101–129 |
+| [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 114 | 106–120 | 106–122 | 104–125 | 100–130 |
 | [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 116 | 107–120 | 106–125 | 104–126 | 101–129 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 114 | 110–118 | 109–120 | 107–121 | 105–124 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 110 | 103–116 | 101–118 | 100–120 | 97–123 |
