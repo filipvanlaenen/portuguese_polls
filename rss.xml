@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Wed, 02 Oct 2019 08:13:25 +0200</pubDate>
+    <pubDate>Wed, 02 Oct 2019 11:51:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 27–30 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 71–95 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 89–113 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 14–26 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 2–10 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 9–22 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1–6 seats&lt;/li&gt;&lt;li&gt;LIVRE: 0–2 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 0–2 seats&lt;/li&gt;&lt;li&gt;Aliança: 0–2 seats&lt;/li&gt;&lt;li&gt;Chega: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica-seats.png"
+        length="211403"
+        type="image/png"/>
+      <pubDate>Wed, 02 Oct 2019 11:51:08 +0200</pubDate>
+      <dc:date>2019-10-02T11:51:08.154155+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 27–30 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica-coalitions-seats.png"
+        length="185824"
+        type="image/png"/>
+      <pubDate>Wed, 02 Oct 2019 11:51:08 +0200</pubDate>
+      <dc:date>2019-10-02T11:51:08.154155+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 27–30 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-30-Pitagórica.png"
         length="234857"
         type="image/png"/>
-      <pubDate>Wed, 02 Oct 2019 08:05:22 +0200</pubDate>
-      <dc:date>2019-10-02T08:05:22.180851+02:00</dc:date>
+      <pubDate>Wed, 02 Oct 2019 11:51:08 +0200</pubDate>
+      <dc:date>2019-10-02T11:51:08.154155+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 26–29 September 2019 – Seat Projections for the Parties</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-09-29-CESOP–UCP.png"
         length="195303"
         type="image/png"/>
-      <pubDate>Wed, 02 Oct 2019 08:13:25 +0200</pubDate>
-      <dc:date>2019-10-02T08:13:25.742149+02:00</dc:date>
+      <pubDate>Wed, 02 Oct 2019 09:00:04 +0200</pubDate>
+      <dc:date>2019-10-02T09:00:04.390759+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 25–28 September 2019 – Voting Intentions</title>
@@ -1159,6 +1179,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-10-02T08:13:25.742149+02:00</dc:date>
+    <dc:date>2019-10-02T11:51:08.154155+02:00</dc:date>
   </channel>
 </rss>
