@@ -100,7 +100,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 20 | 17–24 | 17–26 | 16–27 | 13–29 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20 | 17–24 | 16–25 | 14–26 | 11–28 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 20 | 16–24 | 15–24 | 14–25 | 10–27 |
-| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 19 | 19–23 | 18–24 | 18–24 | 17–24 |
+| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 19 | 18–23 | 18–24 | 18–24 | 18–24 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 21 | 18–24 | 17–25 | 16–27 | 14–28 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–26 | 17–27 | 17–28 | 15–32 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–24 | 17–26 | 16–28 | 14–30 |
@@ -111,7 +111,7 @@ Last result: **19** seats (General Election of 4 October 2015)
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–24 | 17–26 | 17–27 | 15–29 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 19 | 17–24 | 16–24 | 14–24 | 13–28 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 13–22 | 13–24 | 10–24 | 10–25 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23 | 18–26 | 17–27 | 16–28 | 13–30 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 22 | 18–25 | 17–27 | 16–28 | 13–30 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 20 | 18–23 | 18–24 | 17–24 | 17–25 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 24 | 20–27 | 19–28 | 18–28 | 17–31 |
@@ -172,12 +172,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.8% | 99.0% |  |
 | 16 | 0.8% | 98% |  |
 | 17 | 8% | 97% |  |
-| 18 | 13% | 89% |  |
-| 19 | 16% | 76% | Last Result |
+| 18 | 15% | 90% |  |
+| 19 | 15% | 75% | Last Result |
 | 20 | 11% | 60% | Median |
 | 21 | 12% | 49% |  |
-| 22 | 6% | 37% |  |
-| 23 | 12% | 31% |  |
+| 22 | 7% | 37% |  |
+| 23 | 11% | 30% |  |
 | 24 | 11% | 19% |  |
 | 25 | 2% | 8% |  |
 | 26 | 2% | 6% |  |

@@ -99,7 +99,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 14 | 9–18 | 8–20 | 8–20 | 6–23 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 13–20 | 11–21 | 9–22 | 8–24 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 11–20 | 11–20 | 9–21 | 8–23 |
-| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 8–11 | 8–12 | 8–13 | 6–14 |
+| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 8–11 | 7–13 | 7–13 | 6–14 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 7–16 | 6–17 | 5–17 | 5–19 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 9–17 | 8–17 | 7–18 | 5–19 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 9 | 5–11 | 5–13 | 5–14 | 4–17 |
@@ -110,7 +110,7 @@ Last result: **17** seats (General Election of 4 October 2015)
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 11–18 | 9–20 | 8–20 | 6–22 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 8–17 | 8–18 | 7–19 | 5–20 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 6–17 | 6–19 | 6–20 | 5–21 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 13–19 | 12–20 | 11–20 | 8–23 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 14 | 12–20 | 11–20 | 10–21 | 8–23 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 14 | 13–17 | 11–17 | 10–18 | 9–19 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 14–20 | 13–21 | 13–22 | 11–24 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 9 | 6–13 | 5–13 | 5–14 | 5–16 |
@@ -164,12 +164,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.2% | 100% |  |
-| 6 | 1.0% | 99.8% |  |
-| 7 | 0.6% | 98.8% |  |
+| 6 | 0.9% | 99.8% |  |
+| 7 | 1.1% | 98.9% |  |
 | 8 | 4% | 98% |  |
-| 9 | 14% | 94% |  |
-| 10 | 6% | 80% |  |
-| 11 | 5% | 74% |  |
+| 9 | 13% | 94% |  |
+| 10 | 4% | 81% |  |
+| 11 | 7% | 77% |  |
 | 12 | 2% | 69% |  |
 | 13 | 10% | 67% |  |
 | 14 | 23% | 57% | Median |

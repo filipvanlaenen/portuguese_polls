@@ -107,7 +107,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 110 | 101–119 | 99–125 | 95–127 | 89–130 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 102 | 92–111 | 89–111 | 89–113 | 86–116 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 100 | 91–109 | 91–112 | 89–114 | 87–116 |
-| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 106 | 103–108 | 101–109 | 99–112 | 97–112 |
+| [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 106 | 102–109 | 102–110 | 100–112 | 96–112 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 108 | 102–117 | 100–118 | 98–122 | 91–123 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 97–117 | 92–121 |
 | [23–26 September 2019](2019-09-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 115 | 105–117 | 101–118 | 101–121 | 95–125 |
@@ -118,7 +118,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | [19–22 September 2019](2019-09-22-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 101–115 | 99–117 | 96–118 | 91–120 |
 | [18–21 September 2019](2019-09-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–116 | 100–119 | 97–123 | 95–126 |
 | [17–20 September 2019](2019-09-20-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 114 | 106–120 | 106–122 | 104–125 | 100–130 |
-| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 116 | 107–120 | 106–125 | 104–126 | 101–129 |
+| [9–12 September 2019](2019-09-12-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 115 | 107–122 | 105–125 | 104–126 | 100–129 |
 | [7–12 September 2019](2019-09-12-Eurosondagem.html) | Eurosondagem | 114 | 110–118 | 109–120 | 107–121 | 105–124 |
 | [2–11 September 2019](2019-09-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 110 | 103–116 | 101–118 | 100–120 | 97–123 |
 | [1–8 September 2019](2019-09-08-Aximage.html) | Aximage | 121 | 114–128 | 112–130 | 111–131 | 108–134 |
@@ -178,26 +178,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.6% | 99.7% |  |
 | 90 | 0.4% | 99.1% |  |
 | 91 | 0.1% | 98.6% |  |
-| 92 | 0.3% | 98% |  |
-| 93 | 0.2% | 98% |  |
-| 94 | 0.2% | 98% |  |
+| 92 | 0.4% | 98% |  |
+| 93 | 0.1% | 98% |  |
+| 94 | 0.3% | 98% |  |
 | 95 | 0.3% | 98% |  |
 | 96 | 0.7% | 97% |  |
 | 97 | 0.5% | 97% |  |
-| 98 | 0.7% | 96% |  |
-| 99 | 2% | 95% |  |
+| 98 | 0.8% | 96% |  |
+| 99 | 1.1% | 95% |  |
 | 100 | 3% | 94% |  |
 | 101 | 2% | 91% |  |
 | 102 | 3% | 89% |  |
-| 103 | 4% | 86% |  |
-| 104 | 2% | 83% |  |
-| 105 | 7% | 80% |  |
-| 106 | 10% | 73% |  |
-| 107 | 4% | 64% |  |
+| 103 | 3% | 86% |  |
+| 104 | 4% | 83% |  |
+| 105 | 5% | 79% |  |
+| 106 | 9% | 74% |  |
+| 107 | 5% | 65% |  |
 | 108 | 4% | 60% |  |
 | 109 | 3% | 56% |  |
-| 110 | 4% | 53% | Median |
-| 111 | 5% | 48% |  |
+| 110 | 5% | 53% | Median |
+| 111 | 5% | 49% |  |
 | 112 | 4% | 44% |  |
 | 113 | 4% | 39% |  |
 | 114 | 5% | 35% |  |
