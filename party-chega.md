@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.0% | 0.2–2.3% | 0.1–2.5% | 0.1–3.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.3–2.1% | 0.2–2.4% | 0.1–2.6% | 0.1–3.1% |
+| [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.5% | 1.0–2.4% | 0.9–2.6% | 0.8–2.8% | 0.6–3.3% |
+| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.3% | 0.9–2.2% | 0.8–2.4% | 0.7–2.6% | 0.5–3.1% |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 1.2% | 0.8–2.0% | 0.7–2.2% | 0.6–2.4% | 0.4–2.8% |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1.0% | 0.8–1.3% | 0.7–1.3% | 0.7–1.4% | 0.6–1.5% |
@@ -76,9 +78,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 21% | 100% | Last Result |
-| 0.5–1.5% | 55% | 79% | Median |
-| 1.5–2.5% | 22% | 24% |  |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.5–1.5% | 52% | 79% | Median |
+| 1.5–2.5% | 24% | 27% |  |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -92,6 +94,8 @@ Last result: **0** seats (General Election of 4 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–2 | 0–2 |
+| [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 0 | 0 | 0–2 | 0–2 | 0–2 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 0 | 0 | 0 | 0 | 0 |
@@ -158,11 +162,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0.6% | 9% |  |
-| 2 | 8% | 8% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0.1% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 1.0% | 8% |  |
+| 2 | 7% | 7% |  |
+| 3 | 0.1% | 0.2% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 
