@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Fri, 04 Oct 2019 15:48:37 +0200</pubDate>
+    <pubDate>Fri, 04 Oct 2019 18:36:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 29 September–2 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-02-Pitagórica.html#seats</link>
@@ -70,14 +70,54 @@
       <dc:date>2019-10-03T20:09:15.969131+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 26 September–1 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 67–84 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 95–113 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 14–23 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3–10 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 13–21 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 6–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus-seats.png"
+        length="169105"
+        type="image/png"/>
+      <pubDate>Fri, 04 Oct 2019 18:36:06 +0200</pubDate>
+      <dc:date>2019-10-04T18:36:06.202036+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 26 September–1 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus-coalitions-seats.png"
+        length="161935"
+        type="image/png"/>
+      <pubDate>Fri, 04 Oct 2019 18:36:06 +0200</pubDate>
+      <dc:date>2019-10-04T18:36:06.202036+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 26 September–1 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 23.5–28.9%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.1–38.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.1–10.6%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3.4–6.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 4.3–7.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Intercampus.png"
         length="178042"
         type="image/png"/>
-      <pubDate>Thu, 03 Oct 2019 17:52:18 +0200</pubDate>
-      <dc:date>2019-10-03T17:52:18.279054+02:00</dc:date>
+      <pubDate>Fri, 04 Oct 2019 18:36:06 +0200</pubDate>
+      <dc:date>2019-10-04T18:36:06.202036+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal, 25 September–1 October 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 66–77 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 107–118 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 17–24 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 6–9 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 10–17 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Eurosondagem-seats.png"
+        length="148610"
+        type="image/png"/>
+      <pubDate>Fri, 04 Oct 2019 16:54:32 +0200</pubDate>
+      <dc:date>2019-10-04T16:54:32.084929+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal, 25 September–1 October 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Eurosondagem-coalitions-seats.png"
+        length="139411"
+        type="image/png"/>
+      <pubDate>Fri, 04 Oct 2019 16:54:32 +0200</pubDate>
+      <dc:date>2019-10-04T16:54:32.084929+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal, 25 September–1 October 2019 – Voting Intentions</title>
@@ -86,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-01-Eurosondagem.png"
         length="160931"
         type="image/png"/>
-      <pubDate>Fri, 04 Oct 2019 15:48:37 +0200</pubDate>
-      <dc:date>2019-10-04T15:48:37.235511+02:00</dc:date>
+      <pubDate>Fri, 04 Oct 2019 16:54:32 +0200</pubDate>
+      <dc:date>2019-10-04T16:54:32.084929+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 27–30 September 2019 – Seat Projections for the Parties</title>
@@ -1409,6 +1449,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-10-04T15:48:37.235511+02:00</dc:date>
+    <dc:date>2019-10-04T18:36:06.202036+02:00</dc:date>
   </channel>
 </rss>
