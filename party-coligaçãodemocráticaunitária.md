@@ -100,14 +100,14 @@ Last result: **17** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–17 | 8–18 | 7–20 | 6–21 |
-| [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 7–17 | 7–18 | 6–19 | 5–20 |
+| N/A | [Poll Average](average.html) | 13 | 8–17 | 8–18 | 6–20 | 6–21 |
+| [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 8–17 | 7–17 | 6–18 | 5–20 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 12 | 10–18 | 9–20 | 8–20 | 6–22 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 17 | 13–20 | 13–20 | 13–21 | 10–23 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 14 | 11–16 | 11–17 | 10–17 | 9–18 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 13–20 | 11–21 | 9–22 | 8–24 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 11–20 | 11–20 | 9–21 | 8–23 |
-| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 8 | 8–9 | 8–14 | 7–14 | 7–14 |
+| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 9 | 8–14 | 6–15 | 6–15 | 5–15 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 8–11 | 7–12 | 6–13 | 6–14 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 10 | 7–16 | 6–17 | 5–17 | 5–19 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 9–17 | 8–17 | 7–18 | 5–19 |
@@ -172,21 +172,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.2% | 100% |  |
-| 6 | 2% | 99.8% |  |
-| 7 | 3% | 98% |  |
-| 8 | 17% | 95% |  |
-| 9 | 15% | 78% |  |
-| 10 | 4% | 64% |  |
-| 11 | 5% | 60% |  |
-| 12 | 4% | 54% |  |
-| 13 | 11% | 50% | Median |
-| 14 | 16% | 39% |  |
-| 15 | 3% | 23% |  |
-| 16 | 3% | 20% |  |
-| 17 | 9% | 17% | Last Result |
-| 18 | 3% | 8% |  |
-| 19 | 1.4% | 4% |  |
+| 5 | 0.3% | 100% |  |
+| 6 | 2% | 99.7% |  |
+| 7 | 2% | 97% |  |
+| 8 | 7% | 95% |  |
+| 9 | 17% | 88% |  |
+| 10 | 6% | 71% |  |
+| 11 | 7% | 65% |  |
+| 12 | 5% | 58% |  |
+| 13 | 12% | 53% | Median |
+| 14 | 16% | 41% |  |
+| 15 | 5% | 25% |  |
+| 16 | 3% | 21% |  |
+| 17 | 11% | 18% | Last Result |
+| 18 | 3% | 7% |  |
+| 19 | 1.3% | 4% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.3% | 0.5% |  |
 | 22 | 0.1% | 0.2% |  |
