@@ -112,10 +112,10 @@ Last result: **89** seats (General Election of 4 October 2015)
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 81 | 75–88 | 73–92 | 71–93 | 68–98 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 76–85 | 73–88 | 73–92 | 67–95 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 76 | 71–80 | 70–82 | 68–84 | 65–90 |
-| [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 72 | 67–76 | 66–76 | 65–77 | 64–79 |
+| [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 72 | 67–76 | 66–76 | 66–77 | 64–79 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 80 | 74–91 | 73–93 | 71–95 | 67–98 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 74–93 | 73–95 | 71–96 | 67–98 |
-| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 78 | 75–83 | 74–84 | 72–85 | 69–88 |
+| [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 79 | 73–83 | 71–84 | 71–85 | 69–88 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 84 | 81–86 | 79–87 | 78–89 | 77–93 |
 | [25–28 September 2019](2019-09-28-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 79 | 71–84 | 68–86 | 66–88 | 65–94 |
 | [24–27 September 2019](2019-09-27-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 76 | 70–84 | 69–85 | 66–88 | 61–94 |
@@ -188,31 +188,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.5% | 99.3% |  |
 | 62 | 0.2% | 98.8% |  |
 | 63 | 0.8% | 98.6% |  |
-| 64 | 0.4% | 98% |  |
-| 65 | 0.9% | 97% |  |
-| 66 | 1.3% | 96% |  |
+| 64 | 0.3% | 98% |  |
+| 65 | 0.8% | 97% |  |
+| 66 | 1.4% | 97% |  |
 | 67 | 2% | 95% |  |
 | 68 | 3% | 93% |  |
 | 69 | 3% | 90% |  |
 | 70 | 3% | 87% |  |
-| 71 | 3% | 84% |  |
-| 72 | 4% | 81% |  |
-| 73 | 5% | 77% |  |
-| 74 | 6% | 72% |  |
-| 75 | 5% | 66% |  |
-| 76 | 6% | 61% |  |
-| 77 | 6% | 55% | Median |
-| 78 | 8% | 49% |  |
-| 79 | 6% | 41% |  |
-| 80 | 4% | 35% |  |
-| 81 | 8% | 30% |  |
+| 71 | 4% | 84% |  |
+| 72 | 4% | 80% |  |
+| 73 | 6% | 76% |  |
+| 74 | 6% | 71% |  |
+| 75 | 5% | 65% |  |
+| 76 | 6% | 60% |  |
+| 77 | 5% | 54% | Median |
+| 78 | 7% | 49% |  |
+| 79 | 5% | 41% |  |
+| 80 | 4% | 36% |  |
+| 81 | 10% | 32% |  |
 | 82 | 4% | 22% |  |
-| 83 | 4% | 18% |  |
+| 83 | 3% | 18% |  |
 | 84 | 4% | 15% |  |
 | 85 | 3% | 11% |  |
 | 86 | 3% | 8% |  |
 | 87 | 2% | 5% |  |
-| 88 | 1.2% | 3% |  |
+| 88 | 1.1% | 3% |  |
 | 89 | 0.3% | 2% | Last Result |
 | 90 | 0.2% | 2% |  |
 | 91 | 0.2% | 1.4% |  |
