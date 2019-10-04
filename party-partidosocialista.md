@@ -108,7 +108,7 @@ Last result: **86** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 108 | 102–115 | 100–116 | 97–117 | 92–120 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 106 | 100–113 | 93–115 | 93–117 | 90–120 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–111 | 100–112 | 97–115 | 91–118 |
-| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 104 | 100–109 | 96–111 | 95–113 | 90–115 |
+| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 104 | 99–110 | 97–111 | 95–113 | 90–115 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 113 | 108–116 | 108–117 | 107–118 | 105–120 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 102 | 92–111 | 89–111 | 89–113 | 86–116 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 100 | 91–109 | 91–112 | 89–114 | 87–116 |
@@ -179,31 +179,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 86 | 0% | 100% | Last Result |
 | 87 | 0% | 100% |  |
-| 88 | 0.1% | 99.9% |  |
+| 88 | 0% | 99.9% |  |
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.1% | 99.8% |  |
 | 91 | 0.1% | 99.8% |  |
 | 92 | 0.2% | 99.6% |  |
-| 93 | 0.7% | 99.5% |  |
+| 93 | 0.7% | 99.4% |  |
 | 94 | 0.3% | 98.8% |  |
-| 95 | 0.3% | 98.5% |  |
-| 96 | 0.6% | 98% |  |
-| 97 | 0.7% | 98% |  |
+| 95 | 0.3% | 98% |  |
+| 96 | 0.5% | 98% |  |
+| 97 | 0.8% | 98% |  |
 | 98 | 0.6% | 97% |  |
-| 99 | 0.7% | 96% |  |
-| 100 | 1.3% | 96% |  |
+| 99 | 0.8% | 96% |  |
+| 100 | 2% | 95% |  |
 | 101 | 3% | 94% |  |
 | 102 | 5% | 91% |  |
-| 103 | 3% | 86% |  |
-| 104 | 6% | 82% |  |
-| 105 | 8% | 76% |  |
-| 106 | 9% | 69% |  |
+| 103 | 4% | 85% |  |
+| 104 | 5% | 82% |  |
+| 105 | 7% | 77% |  |
+| 106 | 9% | 70% |  |
 | 107 | 7% | 60% |  |
-| 108 | 7% | 53% | Median |
-| 109 | 7% | 45% |  |
-| 110 | 7% | 38% |  |
+| 108 | 8% | 53% | Median |
+| 109 | 7% | 46% |  |
+| 110 | 7% | 39% |  |
 | 111 | 5% | 32% |  |
-| 112 | 5% | 26% |  |
+| 112 | 5% | 27% |  |
 | 113 | 5% | 22% |  |
 | 114 | 5% | 17% |  |
 | 115 | 6% | 12% |  |

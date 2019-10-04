@@ -108,10 +108,10 @@ Last result: **89** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 77 | 69–85 | 67–86 | 64–88 | 60–93 |
+| N/A | [Poll Average](average.html) | 77 | 68–85 | 67–86 | 64–88 | 60–93 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 81 | 75–88 | 73–92 | 71–93 | 68–98 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 76–85 | 73–88 | 73–92 | 67–95 |
-| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 76 | 71–80 | 70–82 | 68–84 | 65–90 |
+| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 76 | 71–80 | 69–82 | 67–84 | 65–90 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 72 | 67–76 | 66–76 | 66–77 | 64–79 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 80 | 74–91 | 73–93 | 71–95 | 67–98 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 74–93 | 73–95 | 71–96 | 67–98 |
@@ -188,7 +188,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 0.5% | 99.3% |  |
 | 62 | 0.2% | 98.8% |  |
 | 63 | 0.8% | 98.6% |  |
-| 64 | 0.3% | 98% |  |
+| 64 | 0.4% | 98% |  |
 | 65 | 0.8% | 97% |  |
 | 66 | 1.4% | 97% |  |
 | 67 | 2% | 95% |  |
@@ -197,12 +197,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 70 | 3% | 87% |  |
 | 71 | 4% | 84% |  |
 | 72 | 4% | 80% |  |
-| 73 | 6% | 76% |  |
+| 73 | 5% | 76% |  |
 | 74 | 6% | 71% |  |
 | 75 | 5% | 65% |  |
 | 76 | 6% | 60% |  |
 | 77 | 5% | 54% | Median |
-| 78 | 7% | 49% |  |
+| 78 | 7% | 48% |  |
 | 79 | 5% | 41% |  |
 | 80 | 4% | 36% |  |
 | 81 | 10% | 32% |  |

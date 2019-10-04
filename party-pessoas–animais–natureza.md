@@ -99,7 +99,7 @@ Last result: **1** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–9 | 3–9 | 2–11 | 2–14 |
+| N/A | [Poll Average](average.html) | 5 | 3–9 | 3–9 | 2–12 | 2–14 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 4–8 | 4–9 | 3–9 | 2–12 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4 | 3–6 | 3–6 | 2–8 | 2–9 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9 | 6–12 | 6–13 | 6–14 | 6–17 |
@@ -177,16 +177,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 23% | 77% |  |
 | 5 | 5% | 54% | Median |
 | 6 | 31% | 48% |  |
-| 7 | 3% | 17% |  |
-| 8 | 3% | 14% |  |
-| 9 | 7% | 12% |  |
-| 10 | 1.0% | 4% |  |
-| 11 | 0.8% | 3% |  |
-| 12 | 1.0% | 2% |  |
-| 13 | 0.8% | 1.5% |  |
-| 14 | 0.3% | 0.7% |  |
+| 7 | 2% | 17% |  |
+| 8 | 4% | 15% |  |
+| 9 | 7% | 11% |  |
+| 10 | 0.9% | 4% |  |
+| 11 | 0.7% | 3% |  |
+| 12 | 1.0% | 3% |  |
+| 13 | 0.8% | 2% |  |
+| 14 | 0.4% | 0.8% |  |
 | 15 | 0.1% | 0.4% |  |
-| 16 | 0.1% | 0.2% |  |
+| 16 | 0.2% | 0.3% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 

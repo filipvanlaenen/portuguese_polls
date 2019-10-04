@@ -130,7 +130,7 @@ Last result: **18** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 6 | 5–7 | 4–9 | 2–10 | 2–12 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 2–6 | 2–7 | 2–7 | 2–10 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–6 | 2–7 | 2–7 | 2–10 |
-| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–7 | 4–8 | 4–10 | 2–11 |
+| [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–7 | 4–8 | 3–10 | 2–11 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 7 | 6–7 | 6–8 | 6–9 | 5–10 |
 | [27–30 September 2019](2019-09-30-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 2–7 | 2–7 | 2–10 | 2–11 |
 | [26–29 September 2019](2019-09-29-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 4–8 | 3–10 | 2–10 | 2–13 |
@@ -200,12 +200,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 4% | 100% |  |
-| 3 | 1.1% | 96% |  |
+| 3 | 1.2% | 96% |  |
 | 4 | 5% | 95% |  |
-| 5 | 3% | 90% |  |
-| 6 | 51% | 87% | Median |
-| 7 | 27% | 36% |  |
-| 8 | 3% | 9% |  |
+| 5 | 4% | 90% |  |
+| 6 | 50% | 87% | Median |
+| 7 | 27% | 37% |  |
+| 8 | 3% | 10% |  |
 | 9 | 2% | 6% |  |
 | 10 | 3% | 4% |  |
 | 11 | 0.9% | 2% |  |
