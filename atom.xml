@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/portuguese_polls</id>
   <title>All Registered Polls for the Assembleia da República</title>
-  <updated>2019-10-04T12:40:56.55092+02:00</updated>
+  <updated>2019-10-04T15:03:24.002584+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 25.3–32.6%, 71–93 seats</li><li>Partido Socialista: 33.5–41.3%, 93–117 seats</li><li>Bloco de Esquerda: 7.1–11.8%, 12–24 seats</li><li>CDS–Partido Popular: 2.6–5.7%, 2–7 seats</li><li>Coligação Democrática Unitária: 4.9–9.0%, 6–18 seats</li><li>Pessoas–Animais–Natureza: 3.0–6.3%, 3–9 seats</li><li>LIVRE: 0.4–1.9%, 0–1 seats</li><li>Iniciativa Liberal: 0.4–1.9%, 0 seats</li><li>Aliança: 0.8–2.8%, 0–2 seats</li><li>Chega: 0.8–2.8%, 0–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/portuguese_polls/2019-10-02-Pitagórica.html</id>
@@ -38,6 +38,14 @@
     <title>Opinion Poll by Pitagórica for Jornal de Notícias, 26–29 September 2019</title>
     <updated>2019-10-01T13:02:13.833684+02:00</updated>
     <dc:date>2019-10-01T13:02:13.833684+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 26.0–30.9%, 71–85 seats</li><li>Partido Socialista: 36.1–41.3%, 101–117 seats</li><li>Bloco de Esquerda: 8.6–11.9%, 18–24 seats</li><li>CDS–Partido Popular: 4.1–6.4%, 4–10 seats</li><li>Coligação Democrática Unitária: 4.9–7.5%, 6–15 seats</li><li>Pessoas–Animais–Natureza: 2.3–4.2%, 2–6 seats</li><li>LIVRE: 0.3–1.1%, 0–1 seats</li><li>Iniciativa Liberal: 0.1–0.7%, 0 seats</li><li>Aliança: 0.1–0.8%, 0 seats</li><li>Chega: 0.2–0.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/portuguese_polls/2019-09-29-GfKMetris.html</id>
+    <link href="https://filipvanlaenen.github.io/portuguese_polls/2019-09-29-GfKMetris.html"/>
+    <title>Opinion Poll by GfK Metris for Expresso and SIC Notícias, 23–29 September 2019</title>
+    <updated>2019-10-04T15:03:24.002584+02:00</updated>
+    <dc:date>2019-10-04T15:03:24.002584+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partido Social Democrata: 28.1–31.3%, 78–89 seats</li><li>Partido Socialista: 35.0–38.3%, 100–112 seats</li><li>Bloco de Esquerda: 8.9–11.0%, 18–24 seats</li><li>CDS–Partido Popular: 4.3–5.8%, 6–8 seats</li><li>Coligação Democrática Unitária: 5.2–6.8%, 6–13 seats</li><li>Pessoas–Animais–Natureza: 2.4–3.6%, 2–4 seats</li><li>LIVRE: 0.7–1.4%, 0–1 seats</li><li>Iniciativa Liberal: 0.7–1.4%, 0 seats</li><li>Aliança: 0.7–1.4%, 0 seats</li><li>Chega: 0.7–1.4%, 0 seats</li></ul></div></content>
@@ -311,5 +319,5 @@
     <updated>2019-01-15T21:05:44.614175+01:00</updated>
     <dc:date>2019-01-15T21:05:44.614175+01:00</dc:date>
   </entry>
-  <dc:date>2019-10-04T12:40:56.55092+02:00</dc:date>
+  <dc:date>2019-10-04T15:03:24.002584+02:00</dc:date>
 </feed>
