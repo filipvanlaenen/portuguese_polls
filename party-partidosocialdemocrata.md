@@ -112,7 +112,7 @@ Last result: **89** seats (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 77 | 70–85 | 68–86 | 67–87 | 65–93 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 77 | 68–87 | 67–91 | 65–93 | 62–96 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 81 | 75–88 | 73–92 | 71–93 | 68–98 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 76 | 72–79 | 72–80 | 72–82 | 68–83 |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 76 | 73–80 | 72–81 | 72–82 | 68–83 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 82 | 76–85 | 73–88 | 73–92 | 67–95 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 76 | 71–80 | 69–82 | 67–84 | 65–90 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 72 | 67–76 | 66–76 | 66–77 | 64–79 |
@@ -194,15 +194,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 2% | 94% |  |
 | 70 | 3% | 92% |  |
 | 71 | 3% | 89% |  |
-| 72 | 5% | 85% |  |
-| 73 | 6% | 80% |  |
-| 74 | 6% | 74% |  |
-| 75 | 8% | 68% |  |
-| 76 | 7% | 61% |  |
-| 77 | 5% | 53% | Median |
-| 78 | 8% | 48% |  |
-| 79 | 8% | 40% |  |
-| 80 | 3% | 32% |  |
+| 72 | 4% | 85% |  |
+| 73 | 7% | 81% |  |
+| 74 | 7% | 74% |  |
+| 75 | 6% | 67% |  |
+| 76 | 6% | 60% |  |
+| 77 | 7% | 54% | Median |
+| 78 | 9% | 48% |  |
+| 79 | 6% | 39% |  |
+| 80 | 4% | 33% |  |
 | 81 | 9% | 29% |  |
 | 82 | 3% | 20% |  |
 | 83 | 3% | 18% |  |

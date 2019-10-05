@@ -102,10 +102,10 @@ Last result: **17** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–17 | 8–18 | 7–19 | 6–20 |
+| N/A | [Poll Average](average.html) | 13 | 8–17 | 8–18 | 7–19 | 6–20 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 12 | 8–17 | 7–17 | 6–18 | 5–20 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 13 | 8–17 | 7–17 | 6–18 | 5–20 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 13 | 9–14 | 8–15 | 8–15 | 8–17 |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 13 | 9–14 | 9–14 | 8–15 | 8–17 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 12 | 10–18 | 9–20 | 8–20 | 6–22 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 17 | 13–20 | 13–20 | 13–21 | 10–23 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 14 | 11–16 | 11–17 | 10–17 | 9–18 |
@@ -180,13 +180,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 99.8% |  |
 | 7 | 2% | 98% |  |
 | 8 | 8% | 96% |  |
-| 9 | 19% | 88% |  |
-| 10 | 6% | 69% |  |
-| 11 | 9% | 63% |  |
-| 12 | 4% | 54% | Median |
-| 13 | 11% | 49% |  |
-| 14 | 18% | 39% |  |
-| 15 | 4% | 21% |  |
+| 9 | 18% | 89% |  |
+| 10 | 7% | 71% |  |
+| 11 | 8% | 64% |  |
+| 12 | 6% | 56% |  |
+| 13 | 12% | 50% | Median |
+| 14 | 18% | 38% |  |
+| 15 | 3% | 20% |  |
 | 16 | 3% | 17% |  |
 | 17 | 7% | 14% | Last Result |
 | 18 | 4% | 7% |  |
