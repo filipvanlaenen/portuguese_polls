@@ -10,10 +10,10 @@ Last result: **36.9%** (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.1–5.7% | 3.8–6.0% | 3.6–6.3% | 3.1–6.8% |
+| N/A | [Poll Average](average.html) | 4.9% | 4.2–5.7% | 3.9–6.0% | 3.6–6.2% | 3.2–6.8% |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4.7% | 3.7–6.0% | 3.5–6.3% | 3.2–6.7% | 2.9–7.3% |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 3.8% | 3.0–5.0% | 2.8–5.4% | 2.6–5.7% | 2.2–6.3% |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 4.9% | N/A | N/A | N/A | N/A |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 4.9% | 4.3–5.5% | 4.2–5.7% | 4.0–5.9% | 3.8–6.2% |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 4.0% | 3.1–5.2% | 2.9–5.6% | 2.7–5.9% | 2.3–6.5% |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 5.0% | 4.5–5.7% | 4.3–5.9% | 4.2–6.1% | 3.9–6.4% |
@@ -85,9 +85,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
 | 3.5–4.5% | 24% | 98% |  |
-| 4.5–5.5% | 58% | 73% | Median |
+| 4.5–5.5% | 60% | 74% | Median |
 | 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 1.0% | 1.1% |  |
+| 6.5–7.5% | 0.9% | 0.9% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -128,8 +128,8 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–7 | 6–8 | 4–9 | 3–10 |
-| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 6 | 6 | 6 | 4–8 |
+| N/A | [Poll Average](average.html) | 6 | 6–8 | 4–9 | 4–10 | 2–12 |
+| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 4–10 | 3–10 | 2–12 | 2–14 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 2–6 | 2–7 | 2–7 | 2–10 |
 | [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–6 | 2–7 | 2–7 | 2–10 |
@@ -202,20 +202,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 0.4% | 99.8% |  |
-| 4 | 3% | 99.4% |  |
-| 5 | 1.0% | 97% |  |
-| 6 | 65% | 96% | Median |
-| 7 | 23% | 30% |  |
-| 8 | 3% | 7% |  |
-| 9 | 2% | 4% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.3% | 0.4% |  |
-| 12 | 0.1% | 0.1% |  |
-| 13 | 0% | 0% |  |
-| 14 | 0% | 0% |  |
-| 15 | 0% | 0% |  |
+| 2 | 0.9% | 100% |  |
+| 3 | 0.8% | 99.1% |  |
+| 4 | 7% | 98% |  |
+| 5 | 1.3% | 92% |  |
+| 6 | 52% | 90% | Median |
+| 7 | 28% | 38% |  |
+| 8 | 4% | 11% |  |
+| 9 | 2% | 7% |  |
+| 10 | 3% | 5% |  |
+| 11 | 0.6% | 1.3% |  |
+| 12 | 0.4% | 0.7% |  |
+| 13 | 0.2% | 0.4% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0.1% |  |
 | 16 | 0% | 0% |  |
 | 17 | 0% | 0% |  |
 | 18 | 0% | 0% | Last Result |
