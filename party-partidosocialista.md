@@ -13,7 +13,7 @@ Last result: **32.3%** (General Election of 4 October 2015)
 | N/A | [Poll Average](average.html) | 37.1% | 34.8–39.6% | 34.0–40.2% | 33.3–40.7% | 32.1–41.7% |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.2% | 34.7–39.8% | 34.0–40.5% | 33.4–41.1% | 32.2–42.4% |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.3% | 34.9–39.9% | 34.2–40.6% | 33.5–41.3% | 32.4–42.5% |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 36.5% | 35.2–37.9% | 34.8–38.2% | 34.5–38.5% | 33.8–39.2% |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 36.5% | 35.2–37.8% | 34.8–38.2% | 34.5–38.5% | 33.9–39.2% |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 37.3% | 34.9–39.9% | 34.2–40.6% | 33.5–41.3% | 32.4–42.5% |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 38.8% | 37.4–40.2% | 37.1–40.6% | 36.7–41.0% | 36.1–41.6% |
@@ -107,10 +107,10 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 108 | 101–115 | 99–116 | 97–117 | 92–119 |
+| N/A | [Poll Average](average.html) | 108 | 102–115 | 100–115 | 97–117 | 92–119 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 98–115 | 96–115 | 92–118 | 89–123 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 106 | 100–113 | 93–115 | 93–117 | 90–120 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 105 | 105 | 105 | 105–107 | 103–116 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–111 | 100–112 | 97–115 | 91–118 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 104 | 99–110 | 97–111 | 95–113 | 90–115 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 113 | 108–116 | 108–117 | 107–118 | 105–120 |
@@ -187,37 +187,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 89 | 0.1% | 99.9% |  |
 | 90 | 0.1% | 99.8% |  |
 | 91 | 0.1% | 99.7% |  |
-| 92 | 0.3% | 99.5% |  |
-| 93 | 0.2% | 99.3% |  |
-| 94 | 0.2% | 99.0% |  |
-| 95 | 0.4% | 98.8% |  |
-| 96 | 0.8% | 98% |  |
+| 92 | 0.2% | 99.6% |  |
+| 93 | 0.2% | 99.4% |  |
+| 94 | 0.2% | 99.2% |  |
+| 95 | 0.4% | 99.0% |  |
+| 96 | 0.6% | 98.6% |  |
 | 97 | 0.7% | 98% |  |
-| 98 | 1.3% | 97% |  |
-| 99 | 1.1% | 96% |  |
-| 100 | 3% | 95% |  |
-| 101 | 3% | 92% |  |
-| 102 | 4% | 89% |  |
+| 98 | 1.0% | 97% |  |
+| 99 | 0.9% | 96% |  |
+| 100 | 2% | 95% |  |
+| 101 | 2% | 93% |  |
+| 102 | 5% | 91% |  |
 | 103 | 3% | 85% |  |
 | 104 | 5% | 82% |  |
-| 105 | 8% | 76% |  |
-| 106 | 8% | 68% |  |
-| 107 | 6% | 60% |  |
-| 108 | 8% | 54% | Median |
-| 109 | 8% | 46% |  |
-| 110 | 7% | 38% |  |
-| 111 | 6% | 31% |  |
-| 112 | 4% | 25% |  |
-| 113 | 5% | 21% |  |
-| 114 | 5% | 16% |  |
-| 115 | 6% | 11% |  |
-| 116 | 2% | 5% | Majority |
+| 105 | 7% | 78% |  |
+| 106 | 8% | 71% |  |
+| 107 | 6% | 63% |  |
+| 108 | 7% | 56% | Median |
+| 109 | 7% | 49% |  |
+| 110 | 11% | 43% |  |
+| 111 | 5% | 32% |  |
+| 112 | 7% | 27% |  |
+| 113 | 4% | 20% |  |
+| 114 | 4% | 15% |  |
+| 115 | 7% | 11% |  |
+| 116 | 2% | 4% | Majority |
 | 117 | 2% | 3% |  |
-| 118 | 0.7% | 2% |  |
-| 119 | 0.3% | 0.8% |  |
-| 120 | 0.1% | 0.5% |  |
+| 118 | 0.6% | 1.3% |  |
+| 119 | 0.2% | 0.6% |  |
+| 120 | 0.1% | 0.4% |  |
 | 121 | 0% | 0.3% |  |
-| 122 | 0.1% | 0.3% |  |
+| 122 | 0.1% | 0.2% |  |
 | 123 | 0.1% | 0.2% |  |
 | 124 | 0% | 0.1% |  |
 | 125 | 0.1% | 0.1% |  |

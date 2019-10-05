@@ -102,10 +102,10 @@ Last result: **19** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–23 | 16–24 | 15–24 | 11–26 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 17–24 | 15–24 | 12–26 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 15–24 | 14–25 | 12–25 | 10–28 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 18 | 16–23 | 14–24 | 12–24 | 10–27 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 24 | 24 | 24 | 24 | 19–24 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 17 | 15–21 | 13–24 | 12–24 | 10–26 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 16–21 | 15–23 | 14–23 | 11–24 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 19 | 18–23 | 18–23 | 17–24 | 17–24 |
@@ -176,22 +176,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.3% | 100% |  |
+| 10 | 0.2% | 100% |  |
 | 11 | 0.2% | 99.7% |  |
-| 12 | 0.3% | 99.5% |  |
-| 13 | 0.3% | 99.2% |  |
-| 14 | 1.2% | 98.9% |  |
+| 12 | 0.2% | 99.6% |  |
+| 13 | 0.3% | 99.4% |  |
+| 14 | 1.0% | 99.1% |  |
 | 15 | 2% | 98% |  |
-| 16 | 2% | 96% |  |
-| 17 | 9% | 94% |  |
-| 18 | 24% | 86% |  |
-| 19 | 16% | 62% | Last Result, Median |
-| 20 | 8% | 46% |  |
-| 21 | 8% | 38% |  |
-| 22 | 6% | 31% |  |
-| 23 | 15% | 25% |  |
-| 24 | 8% | 9% |  |
-| 25 | 0.7% | 1.5% |  |
+| 16 | 1.3% | 96% |  |
+| 17 | 7% | 95% |  |
+| 18 | 20% | 88% |  |
+| 19 | 15% | 68% | Last Result |
+| 20 | 6% | 53% | Median |
+| 21 | 12% | 47% |  |
+| 22 | 6% | 35% |  |
+| 23 | 13% | 28% |  |
+| 24 | 14% | 15% |  |
+| 25 | 0.8% | 2% |  |
 | 26 | 0.4% | 0.7% |  |
 | 27 | 0.1% | 0.3% |  |
 | 28 | 0.2% | 0.2% |  |
