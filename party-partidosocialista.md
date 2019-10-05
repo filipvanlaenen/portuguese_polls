@@ -107,10 +107,10 @@ Last result: **86** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 108 | 102–115 | 100–115 | 97–117 | 92–119 |
+| N/A | [Poll Average](average.html) | 108 | 102–114 | 100–115 | 97–117 | 92–119 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 107 | 98–115 | 96–115 | 92–118 | 89–123 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 106 | 100–113 | 93–115 | 93–117 | 90–120 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 105 | 105 | 105 | 105–107 | 103–116 |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 106 | 103–110 | 102–111 | 101–112 | 100–114 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 109 | 102–111 | 100–112 | 97–115 | 91–118 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 104 | 99–110 | 97–111 | 95–113 | 90–115 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 113 | 108–116 | 108–117 | 107–118 | 105–120 |
@@ -191,26 +191,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 93 | 0.2% | 99.4% |  |
 | 94 | 0.2% | 99.2% |  |
 | 95 | 0.4% | 99.0% |  |
-| 96 | 0.6% | 98.6% |  |
-| 97 | 0.7% | 98% |  |
-| 98 | 1.0% | 97% |  |
-| 99 | 0.9% | 96% |  |
+| 96 | 0.6% | 98.7% |  |
+| 97 | 0.6% | 98% |  |
+| 98 | 1.1% | 97% |  |
+| 99 | 1.0% | 96% |  |
 | 100 | 2% | 95% |  |
-| 101 | 2% | 93% |  |
-| 102 | 5% | 91% |  |
-| 103 | 3% | 85% |  |
-| 104 | 5% | 82% |  |
-| 105 | 7% | 78% |  |
-| 106 | 8% | 71% |  |
-| 107 | 6% | 63% |  |
-| 108 | 7% | 56% | Median |
-| 109 | 7% | 49% |  |
-| 110 | 11% | 43% |  |
-| 111 | 5% | 32% |  |
-| 112 | 7% | 27% |  |
-| 113 | 4% | 20% |  |
-| 114 | 4% | 15% |  |
-| 115 | 7% | 11% |  |
+| 101 | 3% | 93% |  |
+| 102 | 4% | 90% |  |
+| 103 | 3% | 86% |  |
+| 104 | 6% | 83% |  |
+| 105 | 9% | 77% |  |
+| 106 | 10% | 67% |  |
+| 107 | 7% | 58% |  |
+| 108 | 9% | 50% | Median |
+| 109 | 8% | 41% |  |
+| 110 | 7% | 34% |  |
+| 111 | 5% | 27% |  |
+| 112 | 4% | 21% |  |
+| 113 | 4% | 18% |  |
+| 114 | 4% | 14% |  |
+| 115 | 5% | 9% |  |
 | 116 | 2% | 4% | Majority |
 | 117 | 2% | 3% |  |
 | 118 | 0.6% | 1.3% |  |

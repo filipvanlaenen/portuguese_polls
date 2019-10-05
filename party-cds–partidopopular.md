@@ -128,10 +128,10 @@ Last result: **18** seats (General Election of 4 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 6–8 | 4–10 | 4–10 | 2–12 |
+| N/A | [Poll Average](average.html) | 6 | 6–7 | 4–9 | 4–10 | 2–12 |
 | [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 4–10 | 3–10 | 2–12 | 2–14 |
 | [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 5 | 2–6 | 2–7 | 2–7 | 2–10 |
-| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 7 | 7 | 7 | 7 | 6–10 |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | 6 | 6–7 | 6–7 | 6–9 | 4–10 |
 | [28 September–1 October 2019](2019-10-01-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6 | 3–6 | 2–7 | 2–7 | 2–10 |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–7 | 4–8 | 3–10 | 2–11 |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 7 | 6–7 | 6–8 | 6–9 | 5–10 |
@@ -203,14 +203,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.7% | 100% |  |
-| 3 | 2% | 99.3% |  |
-| 4 | 6% | 98% |  |
-| 5 | 1.5% | 92% |  |
-| 6 | 45% | 90% | Median |
-| 7 | 36% | 46% |  |
+| 3 | 0.7% | 99.3% |  |
+| 4 | 6% | 98.6% |  |
+| 5 | 1.1% | 93% |  |
+| 6 | 52% | 92% | Median |
+| 7 | 30% | 40% |  |
 | 8 | 3% | 10% |  |
-| 9 | 2% | 7% |  |
-| 10 | 4% | 5% |  |
+| 9 | 2% | 6% |  |
+| 10 | 3% | 4% |  |
 | 11 | 0.5% | 1.1% |  |
 | 12 | 0.3% | 0.6% |  |
 | 13 | 0.2% | 0.3% |  |
