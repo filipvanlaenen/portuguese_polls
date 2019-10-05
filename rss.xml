@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sat, 05 Oct 2019 12:08:18 +0200</pubDate>
+    <pubDate>Sat, 05 Oct 2019 12:22:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-03-Pitagórica.html#seats</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Fri, 04 Oct 2019 12:40:56 +0200</pubDate>
       <dc:date>2019-10-04T12:40:56.55092+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Jornal Económico, 26 September–2 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-02-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 25.0–28.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 34.5–38.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 9.4–12.1%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 4.1–5.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.6–7.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.0–4.7%&lt;/li&gt;&lt;li&gt;LIVRE: 0.9–1.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 0.7–1.6%&lt;/li&gt;&lt;li&gt;Chega: 0.9–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-02-Aximage.png"
+        length="196995"
+        type="image/png"/>
+      <pubDate>Sat, 05 Oct 2019 12:22:48 +0200</pubDate>
+      <dc:date>2019-10-05T12:22:48.48013+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 28 September–1 October 2019 – Seat Projections for the Parties</title>
@@ -1479,6 +1489,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-10-05T12:08:18.484018+02:00</dc:date>
+    <dc:date>2019-10-05T12:22:48.48013+02:00</dc:date>
   </channel>
 </rss>
