@@ -5,13 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PSD | CDS–PP | PS | BE | CDU | PAN | L | IL | A | CH |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 23–31% <br> 64–88 | 3–6% <br> 2–10 | 33–41% <br> 97–117 | 8–12% <br> 15–27 | 5–9% <br> 6–20 | 2–6% <br> 2–12 | 0–3% <br> 0–2 | 0–2% <br> 0–1 | 0–2% <br> 0–2 | 0–3% <br> 0–2 |
-| [29 September–2 October 2019](2019-10-02-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25–33% <br> 71–93 | 3–6% <br> 2–7 | 34–41% <br> 93–117 | 7–12% <br> 12–24 | 5–9% <br> 6–18 | 3–6% <br> 3–9 | 0–2% <br> 0–1 | 0–2% <br> 0 | 1–3% <br> 0–2 | 1–3% <br> 0–2 |
+| N/A | [Poll Average](average.html) | 24–31% <br> 67–86 | 4–6% <br> 4–9 | 33–41% <br> 99–117 | 8–11% <br> 16–24 | 5–9% <br> 7–20 | 2–7% <br> 2–12 | 0–2% <br> 0–1 | 0–2% <br> 0 | 0–2% <br> 0–2 | 0–3% <br> 0–2 |
+| [30 September–3 October 2019](2019-10-03-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24–31% <br> 73–74 | 3–7% <br> 6 | 33–41% <br> 103 | 7–12% <br> 20–21 | 5–9% <br> 15 | 3–7% <br> 8 | 0–2% <br> 0 | 0–2% <br> 0 | 1–2% <br> 2 | 1–3% <br> 2 |
+| [26 September–2 October 2019](2019-10-02-Aximage.html) | Aximage <br> Jornal Económico | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26 September–1 October 2019](2019-10-01-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23–29% <br> 67–84 | 3–6% <br> 3–10 | 32–38% <br> 95–113 | 7–11% <br> 14–23 | 6–10% <br> 13–21 | 4–7% <br> 6–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 September–1 October 2019](2019-10-01-Eurosondagem.html) | Eurosondagem <br> Porto Canal | 24–27% <br> 66–77 | 4–6% <br> 6–9 | 37–41% <br> 107–118 | 8–11% <br> 17–24 | 6–8% <br> 10–17 | 3–5% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–29 September 2019](2019-09-29-GfKMetris.html) | GfK Metris <br> Expresso and SIC Notícias | 26–31% <br> 71–85 | 4–6% <br> 4–10 | 36–41% <br> 101–117 | 9–12% <br> 18–24 | 5–8% <br> 6–15 | 2–4% <br> 2–6 | 0–1% <br> 0–1 | 0–1% <br> 0 | 0–1% <br> 0 | 0–1% <br> 0 |
 | [26–29 September 2019](2019-09-29-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 28–31% <br> 78–89 | 4–6% <br> 6–8 | 35–38% <br> 100–112 | 9–11% <br> 18–24 | 5–7% <br> 6–13 | 2–4% <br> 2–4 | 1% <br> 0–1 | 1% <br> 0 | 1% <br> 0 | 1% <br> 0 |
-| [21–25 September 2019](2019-09-25-Aximage.html) | Aximage <br> Jornal Económico | 22–29% <br> 60–81 | 4–7% <br> 4–12 | 34–41% <br> 97–119 | 9–14% <br> 18–30 | 5–9% <br> 7–19 | 2–6% <br> 2–8 | 1–3% <br> 0–3 | 1–2% <br> 0–2 | N/A <br> N/A | 1–3% <br> 0–2 |
 | 4 October 2015 | General Election | 36.9% <br> 89 | 36.9% <br> 18 | 32.3% <br> 86 | 10.2% <br> 19 | 8.2% <br> 17 | 1.4% <br> 1 | 0.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
