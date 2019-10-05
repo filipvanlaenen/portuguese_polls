@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Fri, 04 Oct 2019 18:36:06 +0200</pubDate>
+    <pubDate>Sat, 05 Oct 2019 08:49:51 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Pitagórica for Jornal de Notícias, 30 September–3 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-03-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 24.2–31.4%&lt;/li&gt;&lt;li&gt;Partido Socialista: 33.4–41.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.1–11.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 3.2–6.7%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.9–9.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.4–6.9%&lt;/li&gt;&lt;li&gt;LIVRE: 0.4–1.9%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 0.4–1.9%&lt;/li&gt;&lt;li&gt;Aliança: 0.6–2.4%&lt;/li&gt;&lt;li&gt;Chega: 1.0–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2019-10-03-Pitagórica.png"
+        length="232932"
+        type="image/png"/>
+      <pubDate>Sat, 05 Oct 2019 08:49:51 +0200</pubDate>
+      <dc:date>2019-10-05T08:49:51.573949+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Pitagórica for Jornal de Notícias, 29 September–2 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2019-10-02-Pitagórica.html#seats</link>
@@ -1449,6 +1459,6 @@
       <pubDate>Sun, 06 Jan 2019 22:44:47 +0100</pubDate>
       <dc:date>2019-01-06T22:44:47.694331+01:00</dc:date>
     </item>
-    <dc:date>2019-10-04T18:36:06.202036+02:00</dc:date>
+    <dc:date>2019-10-05T08:49:51.573949+02:00</dc:date>
   </channel>
 </rss>
