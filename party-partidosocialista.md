@@ -10,13 +10,14 @@ Last result: **36.4%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.2% | 36.9–42.1% | 36.1–43.1% | 35.4–43.9% | 34.0–45.4% |
+| N/A | [Poll Average](average.html) | 38.8% | 36.6–40.6% | 35.8–41.2% | 35.1–41.7% | 33.8–42.8% |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 42.4% | N/A | N/A | N/A | N/A |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 39.0% | 37.1–41.0% | 36.5–41.5% | 36.0–42.0% | 35.1–43.0% |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 39.0% | 37.6–40.4% | 37.2–40.8% | 36.9–41.1% | 36.2–41.8% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 41.3% | 38.9–43.9% | 38.1–44.6% | 37.5–45.2% | 36.4–46.5% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 38.0% | 35.5–40.6% | 34.8–41.3% | 34.2–41.9% | 33.0–43.2% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.9% | 38.4–43.4% | 37.7–44.1% | 37.1–44.7% | 35.9–46.0% |
-| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 39.7% | N/A | N/A | N/A | N/A |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 39.7% | 37.3–42.3% | 36.6–43.0% | 36.0–43.6% | 34.8–44.9% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 38.5% | N/A | N/A | N/A | N/A |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 40.4% | N/A | N/A | N/A | N/A |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 38.0% | N/A | N/A | N/A | N/A |
@@ -73,22 +74,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.2% | 99.9% |  |
-| 33.5–34.5% | 0.7% | 99.7% |  |
-| 34.5–35.5% | 2% | 99.0% |  |
-| 35.5–36.5% | 5% | 97% | Last Result |
-| 36.5–37.5% | 10% | 92% |  |
-| 37.5–38.5% | 18% | 83% |  |
-| 38.5–39.5% | 22% | 65% | Median |
-| 39.5–40.5% | 18% | 43% |  |
-| 40.5–41.5% | 11% | 25% |  |
-| 41.5–42.5% | 7% | 14% |  |
-| 42.5–43.5% | 4% | 7% |  |
-| 43.5–44.5% | 2% | 3% |  |
-| 44.5–45.5% | 0.9% | 1.3% |  |
-| 45.5–46.5% | 0.3% | 0.4% |  |
-| 46.5–47.5% | 0.1% | 0.1% |  |
-| 47.5–48.5% | 0% | 0% |  |
+| 32.5–33.5% | 0.3% | 99.9% |  |
+| 33.5–34.5% | 1.0% | 99.6% |  |
+| 34.5–35.5% | 3% | 98.7% |  |
+| 35.5–36.5% | 6% | 96% | Last Result |
+| 36.5–37.5% | 13% | 90% |  |
+| 37.5–38.5% | 22% | 78% |  |
+| 38.5–39.5% | 26% | 56% | Median |
+| 39.5–40.5% | 18% | 29% |  |
+| 40.5–41.5% | 8% | 11% |  |
+| 41.5–42.5% | 2% | 3% |  |
+| 42.5–43.5% | 0.6% | 0.7% |  |
+| 43.5–44.5% | 0.1% | 0.1% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,13 +97,14 @@ Last result: **108** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 112 | 107–119 | 106–121 | 104–121 | 99–129 |
+| N/A | [Poll Average](average.html) | 111 | 107–118 | 105–121 | 103–121 | 98–124 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 115 | 111–121 | 110–121 | 108–122 | 103–125 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 110 | 106–115 | 104–116 | 103–116 | 102–119 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 115 | 110–119 | 109–121 | 108–129 | 106–133 |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 111 | 106–116 | 103–119 | 101–120 | 92–125 |
-| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 122 | 114–130 | 111–130 | 110–131 | 105–134 |
-| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 125 | 114–127 | 111–131 | 107–133 | 105–134 |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 114 | 106–121 | 102–125 | 101–126 | 96–130 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
@@ -162,50 +161,44 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 92 | 0.1% | 100% |  |
+| 92 | 0.2% | 100% |  |
 | 93 | 0% | 99.8% |  |
 | 94 | 0% | 99.8% |  |
-| 95 | 0% | 99.8% |  |
-| 96 | 0% | 99.8% |  |
-| 97 | 0.1% | 99.7% |  |
-| 98 | 0.1% | 99.6% |  |
-| 99 | 0.1% | 99.5% |  |
-| 100 | 0.1% | 99.5% |  |
-| 101 | 0.5% | 99.4% |  |
-| 102 | 0.3% | 98.9% |  |
-| 103 | 0.8% | 98.6% |  |
-| 104 | 1.2% | 98% |  |
-| 105 | 1.2% | 97% |  |
-| 106 | 2% | 95% |  |
-| 107 | 5% | 93% |  |
-| 108 | 5% | 89% | Last Result |
-| 109 | 9% | 83% |  |
-| 110 | 6% | 74% |  |
-| 111 | 12% | 68% |  |
-| 112 | 8% | 56% | Median |
-| 113 | 10% | 48% |  |
-| 114 | 4% | 38% |  |
-| 115 | 8% | 34% |  |
-| 116 | 7% | 26% | Majority |
-| 117 | 4% | 19% |  |
-| 118 | 4% | 15% |  |
-| 119 | 4% | 11% |  |
-| 120 | 1.3% | 7% |  |
-| 121 | 3% | 6% |  |
-| 122 | 0.8% | 2% |  |
-| 123 | 0.2% | 1.4% |  |
-| 124 | 0.1% | 1.2% |  |
-| 125 | 0.2% | 1.1% |  |
-| 126 | 0.1% | 0.9% |  |
-| 127 | 0.1% | 0.8% |  |
-| 128 | 0% | 0.8% |  |
-| 129 | 0.2% | 0.7% |  |
-| 130 | 0% | 0.5% |  |
-| 131 | 0% | 0.5% |  |
-| 132 | 0% | 0.4% |  |
-| 133 | 0.3% | 0.4% |  |
-| 134 | 0.1% | 0.1% |  |
-| 135 | 0% | 0.1% |  |
-| 136 | 0% | 0% |  |
+| 95 | 0% | 99.7% |  |
+| 96 | 0% | 99.7% |  |
+| 97 | 0.2% | 99.7% |  |
+| 98 | 0.1% | 99.5% |  |
+| 99 | 0.1% | 99.4% |  |
+| 100 | 0.1% | 99.3% |  |
+| 101 | 0.6% | 99.2% |  |
+| 102 | 0.4% | 98.6% |  |
+| 103 | 1.1% | 98% |  |
+| 104 | 2% | 97% |  |
+| 105 | 2% | 96% |  |
+| 106 | 3% | 94% |  |
+| 107 | 6% | 91% |  |
+| 108 | 6% | 85% | Last Result |
+| 109 | 12% | 79% |  |
+| 110 | 6% | 68% |  |
+| 111 | 15% | 61% | Median |
+| 112 | 8% | 46% |  |
+| 113 | 8% | 38% |  |
+| 114 | 5% | 30% |  |
+| 115 | 6% | 25% |  |
+| 116 | 3% | 19% | Majority |
+| 117 | 4% | 16% |  |
+| 118 | 3% | 12% |  |
+| 119 | 3% | 10% |  |
+| 120 | 1.2% | 7% |  |
+| 121 | 4% | 6% |  |
+| 122 | 1.0% | 2% |  |
+| 123 | 0.2% | 0.7% |  |
+| 124 | 0.1% | 0.5% |  |
+| 125 | 0.2% | 0.4% |  |
+| 126 | 0.1% | 0.2% |  |
+| 127 | 0% | 0.1% |  |
+| 128 | 0% | 0.1% |  |
+| 129 | 0% | 0.1% |  |
+| 130 | 0% | 0% |  |
 
 

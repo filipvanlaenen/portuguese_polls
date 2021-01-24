@@ -10,13 +10,14 @@ Last result: **9.5%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 6.0–9.6% | 5.7–10.2% | 5.4–10.8% | 4.9–11.8% |
+| N/A | [Poll Average](average.html) | 7.2% | 6.0–9.8% | 5.7–10.5% | 5.5–11.0% | 5.0–12.0% |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.4% | N/A | N/A | N/A | N/A |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7.2% | 6.0–8.6% | 5.7–9.1% | 5.4–9.4% | 4.9–10.2% |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 9.1% | 7.8–10.8% | 7.4–11.3% | 7.1–11.7% | 6.5–12.5% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7.3% | 6.1–8.8% | 5.8–9.3% | 5.5–9.6% | 5.0–10.4% |
-| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.6% | N/A | N/A | N/A | N/A |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.6% | 4.5–6.9% | 4.3–7.3% | 4.0–7.7% | 3.6–8.4% |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8.5% | N/A | N/A | N/A | N/A |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 5.6% | N/A | N/A | N/A | N/A |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.3% | N/A | N/A | N/A | N/A |
@@ -71,17 +72,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 21% | 97% |  |
-| 6.5–7.5% | 36% | 76% | Median |
-| 7.5–8.5% | 19% | 40% |  |
-| 8.5–9.5% | 11% | 21% |  |
-| 9.5–10.5% | 7% | 10% | Last Result |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.7% | 0.8% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 35% | 76% | Median |
+| 7.5–8.5% | 16% | 41% |  |
+| 8.5–9.5% | 12% | 24% |  |
+| 9.5–10.5% | 8% | 13% | Last Result |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 0.9% | 1.0% |  |
+| 12.5–13.5% | 0.1% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -93,13 +93,14 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–16 | 8–18 | 7–20 | 7–25 |
+| N/A | [Poll Average](average.html) | 14 | 10–16 | 8–19 | 8–20 | 7–26 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 12 | 8–15 | 8–16 | 7–16 | 7–18 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 12 | 11–14 | 9–14 | 7–15 | 7–17 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 13 | 8–16 | 7–18 | 7–18 | 7–20 |
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 16 | 14–20 | 13–22 | 13–24 | 11–27 |
-| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 13 | 9–16 | 9–17 | 7–20 | 7–21 |
-| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 10 | 9–16 | 9–18 | 9–19 | 7–21 |
+| [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 6–13 | 5–14 | 3–15 | 3–17 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
 | [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
@@ -156,27 +157,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 3% | 100% |  |
-| 8 | 4% | 97% |  |
-| 9 | 3% | 93% |  |
-| 10 | 4% | 91% |  |
-| 11 | 16% | 86% |  |
-| 12 | 9% | 70% |  |
-| 13 | 10% | 61% |  |
-| 14 | 16% | 51% | Median |
-| 15 | 16% | 35% |  |
-| 16 | 10% | 19% |  |
+| 7 | 2% | 100% |  |
+| 8 | 3% | 98% |  |
+| 9 | 2% | 95% |  |
+| 10 | 4% | 93% |  |
+| 11 | 19% | 88% |  |
+| 12 | 10% | 69% |  |
+| 13 | 5% | 60% |  |
+| 14 | 20% | 55% | Median |
+| 15 | 14% | 35% |  |
+| 16 | 11% | 21% |  |
 | 17 | 2% | 9% |  |
-| 18 | 3% | 7% |  |
-| 19 | 0.4% | 4% | Last Result |
-| 20 | 2% | 4% |  |
+| 18 | 2% | 7% |  |
+| 19 | 0.2% | 5% | Last Result |
+| 20 | 3% | 5% |  |
 | 21 | 0.2% | 2% |  |
-| 22 | 0.5% | 1.4% |  |
-| 23 | 0.3% | 1.0% |  |
-| 24 | 0.1% | 0.7% |  |
-| 25 | 0.2% | 0.6% |  |
-| 26 | 0.2% | 0.4% |  |
-| 27 | 0.2% | 0.3% |  |
+| 22 | 0.6% | 2% |  |
+| 23 | 0.4% | 1.3% |  |
+| 24 | 0.1% | 0.9% |  |
+| 25 | 0.2% | 0.8% |  |
+| 26 | 0.2% | 0.6% |  |
+| 27 | 0.2% | 0.4% |  |
 | 28 | 0% | 0.1% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
