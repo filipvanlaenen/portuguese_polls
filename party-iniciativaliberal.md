@@ -93,12 +93,12 @@ Last result: **1** seats (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 1–9 | 1–10 | 1–11 | 0–12 |
-| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 6 | 5–10 | 4–12 | 4–12 | 3–14 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 6 | 5–10 | 5–12 | 4–12 | 3–14 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1 | 1–2 | 0–3 | 0–3 | 0–3 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6 | 6–9 | 5–10 | 5–10 | 5–10 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 6 | 4–8 | 4–9 | 3–10 | 3–12 |
-| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 5 | 3–6 | 3–6 | 3–9 | 3–12 |
-| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 3 | 3–5 | 3–6 | 2–6 | 1–6 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 5 | 3–6 | 3–7 | 3–9 | 3–11 |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 3 | 3–6 | 2–6 | 1–6 | 1–7 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 4 | 3–6 | 3–6 | 3–6 | 2–9 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
@@ -160,16 +160,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 19% | 98% | Last Result |
 | 2 | 1.5% | 78% |  |
 | 3 | 6% | 77% |  |
-| 4 | 8% | 71% |  |
-| 5 | 12% | 63% |  |
-| 6 | 31% | 51% | Median |
-| 7 | 5% | 20% |  |
-| 8 | 3% | 15% |  |
-| 9 | 5% | 12% |  |
-| 10 | 4% | 7% |  |
+| 4 | 7% | 71% |  |
+| 5 | 11% | 64% |  |
+| 6 | 34% | 53% | Median |
+| 7 | 3% | 19% |  |
+| 8 | 3% | 16% |  |
+| 9 | 4% | 12% |  |
+| 10 | 5% | 8% |  |
 | 11 | 0.7% | 3% |  |
 | 12 | 2% | 2% |  |
-| 13 | 0% | 0.2% |  |
+| 13 | 0.1% | 0.3% |  |
 | 14 | 0.2% | 0.2% |  |
 | 15 | 0% | 0% |  |
 

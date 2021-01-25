@@ -98,13 +98,13 @@ Last result: **79** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 63–82 | 61–84 | 58–85 | 56–89 |
-| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 70 | 62–76 | 59–77 | 59–79 | 56–83 |
+| N/A | [Poll Average](average.html) | 73 | 62–82 | 59–84 | 57–85 | 55–89 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 70 | 62–76 | 60–77 | 59–79 | 56–83 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 79 | 75–85 | 74–87 | 73–88 | 69–91 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 75 | 71–79 | 70–80 | 69–81 | 68–85 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 76 | 68–83 | 65–85 | 63–86 | 61–89 |
-| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 66 | 60–70 | 58–74 | 57–76 | 53–79 |
-| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 66 | 63–75 | 58–76 | 56–78 | 55–84 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 65 | 58–72 | 56–75 | 55–76 | 53–79 |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 72 | 64–79 | 62–81 | 61–82 | 56–87 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 77 | 70–83 | 68–86 | 66–88 | 63–92 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
@@ -162,34 +162,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 52 | 0% | 100% |  |
-| 53 | 0.2% | 99.9% |  |
-| 54 | 0.1% | 99.8% |  |
-| 55 | 0.1% | 99.7% |  |
-| 56 | 0.1% | 99.6% |  |
-| 57 | 0.7% | 99.4% |  |
-| 58 | 1.3% | 98.7% |  |
-| 59 | 1.2% | 97% |  |
-| 60 | 0.7% | 96% |  |
-| 61 | 0.5% | 95% |  |
-| 62 | 3% | 95% |  |
-| 63 | 3% | 92% |  |
-| 64 | 1.0% | 89% |  |
-| 65 | 6% | 88% |  |
-| 66 | 9% | 82% |  |
-| 67 | 2% | 73% |  |
-| 68 | 2% | 71% |  |
-| 69 | 4% | 70% |  |
-| 70 | 6% | 66% |  |
-| 71 | 5% | 59% |  |
-| 72 | 2% | 55% |  |
-| 73 | 4% | 53% | Median |
-| 74 | 2% | 48% |  |
-| 75 | 8% | 46% |  |
+| 51 | 0% | 100% |  |
+| 52 | 0.1% | 99.9% |  |
+| 53 | 0.1% | 99.9% |  |
+| 54 | 0.2% | 99.8% |  |
+| 55 | 0.4% | 99.5% |  |
+| 56 | 0.7% | 99.1% |  |
+| 57 | 1.0% | 98% |  |
+| 58 | 1.5% | 97% |  |
+| 59 | 2% | 96% |  |
+| 60 | 1.0% | 94% |  |
+| 61 | 1.1% | 93% |  |
+| 62 | 2% | 92% |  |
+| 63 | 3% | 90% |  |
+| 64 | 4% | 87% |  |
+| 65 | 4% | 83% |  |
+| 66 | 4% | 79% |  |
+| 67 | 4% | 75% |  |
+| 68 | 2% | 72% |  |
+| 69 | 3% | 69% |  |
+| 70 | 5% | 66% |  |
+| 71 | 5% | 61% |  |
+| 72 | 2% | 56% |  |
+| 73 | 5% | 53% | Median |
+| 74 | 3% | 49% |  |
+| 75 | 9% | 46% |  |
 | 76 | 8% | 38% |  |
 | 77 | 4% | 30% |  |
 | 78 | 4% | 26% |  |
-| 79 | 6% | 21% | Last Result |
+| 79 | 6% | 22% | Last Result |
 | 80 | 3% | 15% |  |
 | 81 | 2% | 12% |  |
 | 82 | 2% | 10% |  |
@@ -197,7 +198,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 84 | 2% | 5% |  |
 | 85 | 2% | 4% |  |
 | 86 | 0.9% | 2% |  |
-| 87 | 0.4% | 1.4% |  |
+| 87 | 0.5% | 1.4% |  |
 | 88 | 0.4% | 0.9% |  |
 | 89 | 0.1% | 0.6% |  |
 | 90 | 0.3% | 0.4% |  |

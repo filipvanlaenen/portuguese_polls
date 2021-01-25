@@ -95,13 +95,13 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 7–16 | 7–18 | 5–20 | 3–25 |
-| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 5–11 | 5–13 | 4–14 | 2–16 |
+| N/A | [Poll Average](average.html) | 12 | 7–19 | 7–21 | 7–22 | 3–26 |
+| [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 7–11 | 5–13 | 4–14 | 2–16 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 11 | 8–15 | 8–16 | 7–16 | 7–18 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 12 | 11–14 | 9–14 | 7–15 | 7–17 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 13 | 9–16 | 7–18 | 7–18 | 7–20 |
-| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 16 | 14–20 | 13–22 | 13–24 | 11–27 |
-| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 10 | 9–16 | 9–18 | 9–19 | 7–21 |
+| [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 18 | 14–22 | 13–23 | 12–25 | 11–28 |
+| [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 13 | 10–17 | 9–19 | 7–19 | 7–21 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 7 | 7–12 | 5–13 | 5–14 | 3–16 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
@@ -159,33 +159,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 0.3% | 99.8% |  |
-| 4 | 0.7% | 99.5% |  |
-| 5 | 1.4% | 98.8% |  |
-| 6 | 0.2% | 97% |  |
-| 7 | 13% | 97% |  |
-| 8 | 3% | 84% |  |
-| 9 | 3% | 81% |  |
-| 10 | 5% | 78% |  |
-| 11 | 20% | 73% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 0.4% | 99.9% |  |
+| 4 | 0.4% | 99.4% |  |
+| 5 | 0.7% | 99.0% |  |
+| 6 | 0.3% | 98% |  |
+| 7 | 14% | 98% |  |
+| 8 | 5% | 84% |  |
+| 9 | 3% | 79% |  |
+| 10 | 4% | 76% |  |
+| 11 | 19% | 72% |  |
 | 12 | 7% | 53% | Median |
 | 13 | 6% | 46% |  |
-| 14 | 15% | 41% |  |
-| 15 | 10% | 26% |  |
-| 16 | 9% | 16% |  |
-| 17 | 2% | 7% |  |
-| 18 | 2% | 5% |  |
-| 19 | 0.1% | 4% | Last Result |
-| 20 | 2% | 4% |  |
-| 21 | 0.2% | 2% |  |
-| 22 | 0.4% | 1.4% |  |
-| 23 | 0.3% | 1.0% |  |
-| 24 | 0.1% | 0.7% |  |
-| 25 | 0.2% | 0.6% |  |
-| 26 | 0.2% | 0.4% |  |
-| 27 | 0.2% | 0.3% |  |
-| 28 | 0% | 0.1% |  |
+| 14 | 13% | 41% |  |
+| 15 | 5% | 27% |  |
+| 16 | 4% | 22% |  |
+| 17 | 1.5% | 18% |  |
+| 18 | 7% | 17% |  |
+| 19 | 3% | 10% | Last Result |
+| 20 | 0.8% | 8% |  |
+| 21 | 2% | 7% |  |
+| 22 | 3% | 5% |  |
+| 23 | 0.7% | 2% |  |
+| 24 | 0.2% | 0.8% |  |
+| 25 | 0.1% | 0.6% |  |
+| 26 | 0.1% | 0.5% |  |
+| 27 | 0.3% | 0.4% |  |
+| 28 | 0.1% | 0.2% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
