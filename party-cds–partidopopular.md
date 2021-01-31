@@ -10,7 +10,7 @@ Last result: **4.2%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.3–3.1% | 1.1–3.4% | 0.8–4.0% |
+| N/A | [Poll Average](average.html) | 1.9% | 0.3–2.7% | 0.2–3.0% | 0.1–3.3% | 0.1–3.9% |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 2.0% | 1.8–2.3% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.6% | 1.1–2.4% | 1.0–2.7% | 0.9–2.9% | 0.7–3.4% |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.2–3.5% |
@@ -19,19 +19,19 @@ Last result: **4.2%** (General Election of 6 October 2019)
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 2.3% | 1.7–3.3% | 1.5–3.6% | 1.4–3.9% | 1.1–4.4% |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.4% | 1.0–2.3% | 0.9–2.5% | 0.8–2.7% | 0.6–3.2% |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2.2% | 1.6–3.2% | 1.5–3.5% | 1.3–3.7% | 1.1–4.2% |
-| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0.2% | N/A | N/A | N/A | N/A |
-| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.7% | N/A | N/A | N/A | N/A |
-| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3.2% | N/A | N/A | N/A | N/A |
-| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.9% | N/A | N/A | N/A | N/A |
-| [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 3.0% | N/A | N/A | N/A | N/A |
-| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.5% | N/A | N/A | N/A | N/A |
-| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 0.9% | N/A | N/A | N/A | N/A |
-| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 2.0% | N/A | N/A | N/A | N/A |
-| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.0% | N/A | N/A | N/A | N/A |
-| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.7% | N/A | N/A | N/A | N/A |
-| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 1.2% | N/A | N/A | N/A | N/A |
-| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.0% | N/A | N/A | N/A | N/A |
-| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 3.3% | N/A | N/A | N/A | N/A |
+| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0.2% | 0.1–0.7% | 0.1–0.8% | 0.1–0.9% | 0.0–1.1% |
+| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.7% | 1.2–2.6% | 1.1–2.9% | 1.0–3.1% | 0.8–3.6% |
+| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3.2% | 2.4–4.3% | 2.2–4.6% | 2.0–4.9% | 1.7–5.5% |
+| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1.9% | 1.4–2.8% | 1.2–3.1% | 1.1–3.3% | 0.9–3.8% |
+| [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 3.0% | 2.4–3.7% | 2.3–3.9% | 2.2–4.0% | 2.0–4.4% |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 0.9% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% | 0.3–2.4% |
+| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
+| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.0% | 3.2–5.2% | 2.9–5.6% | 2.7–5.9% | 2.4–6.5% |
+| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.7% | 2.1–3.4% | 2.0–3.7% | 1.8–3.9% | 1.6–4.3% |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 1.2% | 0.8–1.9% | 0.7–2.1% | 0.6–2.3% | 0.4–2.7% |
+| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.0% | 3.2–5.3% | 3.0–5.6% | 2.8–5.9% | 2.4–6.5% |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 3.3% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% | 2.1–5.0% |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 2.0% | N/A | N/A | N/A | N/A |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 1.2% | N/A | N/A | N/A | N/A |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 2.5% | N/A | N/A | N/A | N/A |
@@ -73,11 +73,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 13% | 100% |  |
-| 1.5–2.5% | 69% | 87% | Median |
-| 2.5–3.5% | 16% | 17% |  |
-| 3.5–4.5% | 1.5% | 2% | Last Result |
+| 0.0–0.5% | 16% | 100% |  |
+| 0.5–1.5% | 14% | 84% |  |
+| 1.5–2.5% | 55% | 69% | Median |
+| 2.5–3.5% | 13% | 14% |  |
+| 3.5–4.5% | 1.2% | 1.3% | Last Result |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -99,19 +99,19 @@ Last result: **5** seats (General Election of 6 October 2019)
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 1 | 0–2 | 0–3 | 0–4 | 0–5 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–2 | 0–2 | 0–4 | 0–4 |
-| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
-| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
-| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI |  |  |  |  |  |
-| [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP |  |  |  |  |  |
-| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
-| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage |  |  |  |  |  |
-| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
-| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
-| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage |  |  |  |  |  |
-| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
+| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 0 | 0 | 0 | 0 | 0 |
+| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 2–5 | 1–5 | 1–5 | 0–8 |
+| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
+| [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1–3 | 1–3 | 1–3 | 1–5 |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1 | 1–2 | 0–4 | 0–4 | 0–5 |
+| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 0 | 0 | 0 | 0–1 | 0–1 |
+| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 1 | 0–2 | 0–2 | 0–2 | 0–4 |
+| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 3 | 3–5 | 2–9 | 1–10 | 1–11 |
+| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 1–4 | 1–4 | 0–5 |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4 | 2–5 | 2–6 | 1–8 | 1–10 |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 2 | 1–4 | 1–4 | 1–5 | 1–5 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage |  |  |  |  |  |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
@@ -155,12 +155,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% |  |
-| 1 | 56% | 69% | Median |
-| 2 | 10% | 13% |  |
-| 3 | 1.5% | 2% |  |
-| 4 | 0.7% | 1.0% |  |
-| 5 | 0.3% | 0.3% | Last Result |
+| 0 | 45% | 100% |  |
+| 1 | 45% | 55% | Median |
+| 2 | 8% | 10% |  |
+| 3 | 1.2% | 2% |  |
+| 4 | 0.6% | 0.8% |  |
+| 5 | 0.2% | 0.2% | Last Result |
 | 6 | 0% | 0% |  |
 
 
