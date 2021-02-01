@@ -111,18 +111,18 @@ Last result: **108** seats (General Election of 6 October 2019)
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 119 | 110–129 | 108–130 | 107–131 | 104–135 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 114 | 107–122 | 104–123 | 103–125 | 99–130 |
 | [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 114 | 106–116 | 105–118 | 102–121 | 101–122 |
-| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 116 | 107–123 | 105–124 | 103–126 | 100–128 |
-| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 115 | 106–121 | 104–123 | 102–125 | 96–131 |
-| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 119 | 113–127 | 110–128 | 108–132 | 105–138 |
+| [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 115 | 107–122 | 105–123 | 103–126 | 99–130 |
+| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 113 | 104–121 | 103–124 | 102–127 | 98–130 |
+| [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 119 | 111–127 | 110–130 | 108–133 | 105–136 |
 | [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 99 | 97–107 | 96–109 | 94–109 | 91–112 |
-| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 110 | 105–120 | 105–120 | 104–122 | 98–125 |
-| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 108 | 104–118 | 101–121 | 99–121 | 96–128 |
-| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 118 | 109–125 | 106–126 | 104–127 | 103–128 |
-| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 109 | 102–116 | 101–119 | 99–123 | 94–125 |
+| [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 112 | 107–119 | 105–120 | 103–122 | 99–124 |
+| [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 110 | 103–117 | 101–119 | 100–121 | 96–125 |
+| [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 115 | 108–122 | 107–125 | 106–126 | 103–129 |
+| [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 109 | 103–117 | 101–120 | 99–122 | 95–125 |
 | [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 109 | 105–116 | 100–117 | 99–118 | 97–121 |
 | [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 103 | 94–110 | 92–111 | 91–113 | 86–116 |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 109 | 102–116 | 99–117 | 98–120 | 93–124 |
-| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 112 | 106–119 | 104–119 | 103–120 | 99–122 |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 112 | 106–118 | 105–119 | 103–120 | 99–122 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
 | [12–15 September 2020](2020-09-15-Aximage.html) | Aximage |  |  |  |  |  |
 | [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
