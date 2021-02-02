@@ -32,19 +32,19 @@ Last result: **1.3%** (General Election of 6 October 2019)
 | [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 5.5% | 4.5–6.8% | 4.2–7.1% | 4.0–7.4% | 3.6–8.1% |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.8% | 6.5–9.3% | 6.2–9.8% | 5.9–10.2% | 5.4–10.9% |
 | [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.8% |
-| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 7.1% | N/A | N/A | N/A | N/A |
-| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 6.8% | N/A | N/A | N/A | N/A |
-| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 4.5% | N/A | N/A | N/A | N/A |
-| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.3% | N/A | N/A | N/A | N/A |
-| [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.8% | N/A | N/A | N/A | N/A |
-| [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7.0% | N/A | N/A | N/A | N/A |
-| [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.1% | N/A | N/A | N/A | N/A |
-| [5–8 July 2020](2020-07-08-Aximage.html) | Aximage <br> Jornal Económico | 5.1% | N/A | N/A | N/A | N/A |
-| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem | 4.4% | N/A | N/A | N/A | N/A |
-| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.7% | N/A | N/A | N/A | N/A |
-| [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 5.3% | N/A | N/A | N/A | N/A |
-| [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 4.1% | N/A | N/A | N/A | N/A |
-| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.4% | N/A | N/A | N/A | N/A |
+| [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE | 7.1% | 6.1–8.4% | 5.8–8.8% | 5.5–9.1% | 5.1–9.8% |
+| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 6.8% | 5.6–8.3% | 5.3–8.7% | 5.0–9.1% | 4.5–9.9% |
+| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.4% |
+| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.3% | 6.1–8.9% | 5.8–9.3% | 5.5–9.7% | 5.0–10.5% |
+| [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7.8% | 6.6–9.4% | 6.2–9.9% | 5.9–10.3% | 5.4–11.1% |
+| [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.5–8.9% |
+| [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.1% | 5.0–7.5% | 4.8–8.0% | 4.5–8.3% | 4.0–9.0% |
+| [5–8 July 2020](2020-07-08-Aximage.html) | Aximage <br> Jornal Económico | 5.1% | 4.2–6.4% | 3.9–6.8% | 3.7–7.2% | 3.2–7.8% |
+| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.8% | 3.0–6.3% |
+| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.7% | 5.6–8.2% | 5.3–8.6% | 5.0–9.0% | 4.5–9.8% |
+| [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 5.3% | 4.1–7.1% | 3.7–7.7% | 3.4–8.2% | 2.9–9.1% |
+| [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 6.4% | 5.4–7.6% | 5.1–8.0% | 4.9–8.3% | 4.4–8.9% |
 | [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 4.3% | N/A | N/A | N/A | N/A |
 | [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.8% | N/A | N/A | N/A | N/A |
 | [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 4.0% | N/A | N/A | N/A | N/A |
@@ -106,32 +106,32 @@ Last result: **1** seats (General Election of 6 October 2019)
 | [4–7 January 2021](2021-01-07-Intercampus.html) | Intercampus | 16 | 13–23 | 11–24 | 11–25 | 11–27 |
 | [22 December 2020–3 January 2021](2021-01-03-Pitagórica.html) | Pitagórica <br> Observador and TVI | 14 | 11–20 | 11–21 | 11–22 | 9–26 |
 | [17–27 December 2020](2020-12-27-Pitagórica.html) | Pitagórica <br> Observador and TVI | 17 | 13–22 | 12–23 | 11–25 | 11–28 |
-| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14 | 11–18 | 11–18 | 9–18 | 8–20 |
+| [19–22 December 2020](2020-12-22-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14 | 11–16 | 11–18 | 9–18 | 8–22 |
 | [17–20 December 2020](2020-12-20-Pitagórica.html) | Pitagórica <br> Observador and TVI | 14 | 11–19 | 11–21 | 11–22 | 9–25 |
-| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 14 | 10–19 | 9–20 | 8–21 | 8–24 |
+| [14–18 December 2020](2020-12-18-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 14 | 11–18 | 10–20 | 9–21 | 8–24 |
 | [10–13 December 2020](2020-12-13-Pitagórica.html) | Pitagórica <br> Observador and TVI | 14 | 11–18 | 11–20 | 11–22 | 8–24 |
 | [4–11 December 2020](2020-12-11-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 10 | 7–11 | 7–11 | 6–11 | 4–13 |
 | [7–10 December 2020](2020-12-10-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8 | 4–11 | 4–11 | 4–11 | 4–12 |
 | [23–26 November 2020](2020-11-26-Aximage.html) | Aximage | 13 | 11–16 | 10–18 | 8–19 | 8–23 |
 | [11–25 November 2020](2020-11-25-ICSISCTE.html) | ICS/ISCTE | 11 | 10–14 | 8–16 | 8–16 | 7–18 |
 | [9–16 November 2020](2020-11-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 10–15 | 9–17 | 8–19 | 7–22 |
-| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8 | 4–11 | 4–11 | 4–11 | 3–11 |
-| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 8 | 4–11 | 4–11 | 4–11 | 3–13 |
+| [2–5 November 2020](2020-11-05-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8 | 4–10 | 4–11 | 4–11 | 3–11 |
+| [22–26 October 2020](2020-10-26-Aximage.html) | Aximage | 8 | 5–11 | 4–11 | 4–11 | 3–14 |
 | [6–11 October 2020](2020-10-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 13 | 11–18 | 11–19 | 10–20 | 8–23 |
-| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 6 | 4–8 | 4–10 | 3–11 | 3–11 |
+| [5–8 October 2020](2020-10-08-Eurosondagem.html) | Eurosondagem | 7 | 4–8 | 4–10 | 4–11 | 3–11 |
 | [14–24 September 2020](2020-09-24-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
-| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage |  |  |  |  |  |
-| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP |  |  |  |  |  |
-| [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [5–8 July 2020](2020-07-08-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
-| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico |  |  |  |  |  |
-| [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
+| [12–15 September 2020](2020-09-15-Aximage.html) | Aximage | 11 | 8–14 | 8–14 | 8–15 | 6–20 |
+| [7–10 September 2020](2020-09-10-Eurosondagem.html) | Eurosondagem | 7 | 4–8 | 4–8 | 3–8 | 3–11 |
+| [4–9 September 2020](2020-09-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 10–16 | 8–18 | 8–19 | 8–23 |
+| [6–11 August 2020](2020-08-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 12 | 11–15 | 10–18 | 8–19 | 8–22 |
+| [13–18 July 2020](2020-07-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 11 | 10–14 | 9–14 | 9–14 | 8–15 |
+| [8–13 July 2020](2020-07-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 7–11 | 6–13 | 5–14 | 4–15 |
+| [5–8 July 2020](2020-07-08-Aximage.html) | Aximage <br> Jornal Económico | 8 | 5–11 | 4–11 | 3–11 | 3–13 |
+| [29 June–2 July 2020](2020-07-02-Eurosondagem.html) | Eurosondagem | 5 | 4–8 | 3–9 | 3–9 | 2–11 |
+| [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 8–14 | 8–14 | 6–14 | 5–17 |
+| [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 8 | 4–11 | 3–14 | 3–16 | 2–17 |
+| [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 4 | 3–8 | 3–8 | 3–8 | 2–10 |
+| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 11 | 8–12 | 8–14 | 8–14 | 5–16 |
 | [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
@@ -172,18 +172,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 8% | 97% |  |
 | 9 | 5% | 88% |  |
 | 10 | 4% | 83% |  |
-| 11 | 18% | 80% |  |
-| 12 | 4% | 61% |  |
-| 13 | 3% | 57% |  |
-| 14 | 24% | 54% | Median |
-| 15 | 4% | 30% |  |
-| 16 | 3% | 27% |  |
-| 17 | 3% | 24% |  |
-| 18 | 8% | 20% |  |
+| 11 | 20% | 79% |  |
+| 12 | 3% | 59% |  |
+| 13 | 5% | 56% |  |
+| 14 | 22% | 51% | Median |
+| 15 | 4% | 29% |  |
+| 16 | 3% | 25% |  |
+| 17 | 4% | 22% |  |
+| 18 | 6% | 18% |  |
 | 19 | 6% | 12% |  |
 | 20 | 2% | 6% |  |
 | 21 | 1.3% | 4% |  |
-| 22 | 0.8% | 3% |  |
+| 22 | 0.9% | 3% |  |
 | 23 | 0.8% | 2% |  |
 | 24 | 0.7% | 1.3% |  |
 | 25 | 0.3% | 0.6% |  |
