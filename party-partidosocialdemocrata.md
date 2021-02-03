@@ -45,19 +45,19 @@ Last result: **27.8%** (General Election of 6 October 2019)
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 25.7% | 22.9–28.8% | 22.1–29.7% | 21.4–30.5% | 20.2–32.0% |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 24.1% | 22.2–26.1% | 21.7–26.7% | 21.2–27.1% | 20.4–28.1% |
-| [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 30.0% | N/A | N/A | N/A | N/A |
-| [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.2% | N/A | N/A | N/A | N/A |
-| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 29.4% | N/A | N/A | N/A | N/A |
-| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.1% | N/A | N/A | N/A | N/A |
-| [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.3% | N/A | N/A | N/A | N/A |
-| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 27.2% | N/A | N/A | N/A | N/A |
-| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25.1% | N/A | N/A | N/A | N/A |
-| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 21.9% | N/A | N/A | N/A | N/A |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 27.4% | N/A | N/A | N/A | N/A |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 26.1% | N/A | N/A | N/A | N/A |
-| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.8% | N/A | N/A | N/A | N/A |
-| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 26.7% | N/A | N/A | N/A | N/A |
-| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 28.0% | N/A | N/A | N/A | N/A |
+| [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 30.0% | 28.7–31.3% | 28.4–31.7% | 28.1–32.0% | 27.5–32.6% |
+| [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.2% | 21.2–25.5% | 20.6–26.2% | 20.1–26.7% | 19.1–27.8% |
+| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 29.4% | 27.6–31.2% | 27.1–31.8% | 26.6–32.3% | 25.8–33.2% |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 23.1% | 21.0–25.5% | 20.5–26.1% | 20.0–26.7% | 19.0–27.8% |
+| [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.3% | 21.2–25.6% | 20.6–26.2% | 20.1–26.8% | 19.2–27.9% |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 27.2% | 25.4–29.0% | 25.0–29.6% | 24.5–30.0% | 23.7–30.9% |
+| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 25.1% | 23.0–27.5% | 22.3–28.2% | 21.8–28.7% | 20.8–29.9% |
+| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 21.9% | 19.9–24.2% | 19.3–24.8% | 18.8–25.4% | 17.9–26.5% |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 27.4% | 25.7–29.3% | 25.2–29.8% | 24.7–30.2% | 23.9–31.1% |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 26.1% | 24.2–28.1% | 23.7–28.7% | 23.2–29.2% | 22.4–30.2% |
+| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 23.8% | 21.7–26.1% | 21.1–26.7% | 20.6–27.3% | 19.6–28.4% |
+| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.5% | 23.2–30.4% |
+| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 25.8% | N/A | N/A | N/A | N/A |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem | 26.5% | N/A | N/A | N/A | N/A |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 25.7% | N/A | N/A | N/A | N/A |
@@ -133,20 +133,20 @@ Last result: **79** seats (General Election of 6 October 2019)
 | [9–13 June 2020](2020-06-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 67 | 58–70 | 55–72 | 55–76 | 53–79 |
 | [5–8 June 2020](2020-06-08-Aximage.html) | Aximage <br> Jornal Económico | 67 | 62–82 | 58–82 | 57–84 | 54–91 |
 | [1–4 June 2020](2020-06-04-Eurosondagem.html) | Eurosondagem | 83 | 79–87 | 76–88 | 75–91 | 72–95 |
-| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 61 | 56–70 | 56–74 | 55–75 | 53–77 |
-| [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias |  |  |  |  |  |
-| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage |  |  |  |  |  |
-| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
-| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
-| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE |  |  |  |  |  |
+| [16–24 May 2020](2020-05-24-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 63 | 57–70 | 56–73 | 55–74 | 54–76 |
+| [17–20 May 2020](2020-05-20-Eurosondagem.html) | Eurosondagem | 85 | 82–88 | 80–88 | 80–89 | 78–92 |
+| [5–9 May 2020](2020-05-09-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 61 | 56–69 | 54–69 | 54–71 | 52–76 |
+| [4–7 May 2020](2020-05-07-Eurosondagem.html) | Eurosondagem | 82 | 78–88 | 77–89 | 75–90 | 72–97 |
+| [15–26 April 2020](2020-04-26-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 62 | 55–68 | 54–70 | 54–72 | 50–76 |
+| [9–14 April 2020](2020-04-14-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 62 | 57–67 | 56–70 | 54–70 | 53–75 |
+| [29 March–2 April 2020](2020-04-02-Eurosondagem.html) | Eurosondagem | 79 | 72–83 | 68–85 | 67–87 | 66–89 |
+| [13–21 March 2020](2020-03-21-Pitagórica.html) | Pitagórica <br> Jornal de Notícias | 64 | 59–72 | 57–74 | 55–75 | 54–78 |
+| [13–19 March 2020](2020-03-19-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 62 | 58–69 | 56–73 | 55–73 | 51–76 |
+| [1–5 March 2020](2020-03-05-Eurosondagem.html) | Eurosondagem | 78 | 76–83 | 70–84 | 69–89 | 68–90 |
+| [14–18 February 2020](2020-02-18-Aximage.html) | Aximage | 78 | 73–84 | 70–86 | 69–88 | 65–94 |
+| [11–17 February 2020](2020-02-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 67 | 59–82 | 58–82 | 58–82 | 52–84 |
+| [2–6 February 2020](2020-02-06-Eurosondagem.html) | Eurosondagem | 75 | 71–80 | 69–82 | 67–83 | 66–86 |
+| [22 January–5 February 2020](2020-02-05-ICSISCTE.html) | ICS/ISCTE | 81 | 71–90 | 71–90 | 70–92 | 68–95 |
 | [19–24 January 2020](2020-01-24-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [5–9 January 2020](2020-01-09-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [12–17 December 2019](2019-12-17-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
