@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Mon, 15 Feb 2021 09:46:22 +0100</pubDate>
+    <pubDate>Sun, 21 Feb 2021 14:31:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–13 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.4–28.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 33.8–41.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.3–10.7%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.6–4.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.2–7.9%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.0–4.8%&lt;/li&gt;&lt;li&gt;LIVRE: 0.3–1.7%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 4.0–7.7%&lt;/li&gt;&lt;li&gt;Chega: 5.4–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.png"
+        length="285479"
+        type="image/png"/>
+      <pubDate>Sun, 21 Feb 2021 11:36:48 +0100</pubDate>
+      <dc:date>2021-02-21T11:36:48.188367+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 67–84 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 106–122 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7–18 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–4 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–11 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 0–3 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3–6 seats&lt;/li&gt;&lt;li&gt;Chega: 9–17 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem-seats.png"
+        length="209994"
+        type="image/png"/>
+      <pubDate>Sun, 21 Feb 2021 14:31:23 +0100</pubDate>
+      <dc:date>2021-02-21T14:31:23.189861+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem-coalitions-seats.png"
+        length="184180"
+        type="image/png"/>
+      <pubDate>Sun, 21 Feb 2021 14:31:23 +0100</pubDate>
+      <dc:date>2021-02-21T14:31:23.189861+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem.html</link>
@@ -16,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-11-Eurosondagem.png"
         length="247407"
         type="image/png"/>
-      <pubDate>Mon, 15 Feb 2021 09:46:22 +0100</pubDate>
-      <dc:date>2021-02-15T09:46:22.2724+01:00</dc:date>
+      <pubDate>Sun, 21 Feb 2021 14:31:23 +0100</pubDate>
+      <dc:date>2021-02-21T14:31:23.189861+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 24 January 2021 – Seat Projections for the Parties</title>
@@ -899,6 +929,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-02-15T09:46:22.2724+01:00</dc:date>
+    <dc:date>2021-02-21T14:31:23.189861+01:00</dc:date>
   </channel>
 </rss>
