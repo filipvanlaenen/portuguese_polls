@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sun, 21 Feb 2021 14:31:23 +0100</pubDate>
+    <pubDate>Mon, 01 Mar 2021 17:38:35 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–13 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 57–79 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 98–122 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 10–22 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–5 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6–15 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1–6 seats&lt;/li&gt;&lt;li&gt;LIVRE: 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 5–14 seats&lt;/li&gt;&lt;li&gt;Chega: 8–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus-seats.png"
+        length="230389"
+        type="image/png"/>
+      <pubDate>Mon, 01 Mar 2021 17:38:35 +0100</pubDate>
+      <dc:date>2021-03-01T17:38:35.173838+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–13 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus-coalitions-seats.png"
+        length="200221"
+        type="image/png"/>
+      <pubDate>Mon, 01 Mar 2021 17:38:35 +0100</pubDate>
+      <dc:date>2021-03-01T17:38:35.173838+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–13 February 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.png"
         length="285479"
         type="image/png"/>
-      <pubDate>Sun, 21 Feb 2021 11:36:48 +0100</pubDate>
-      <dc:date>2021-02-21T11:36:48.188367+01:00</dc:date>
+      <pubDate>Mon, 01 Mar 2021 17:38:35 +0100</pubDate>
+      <dc:date>2021-03-01T17:38:35.173838+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 8–11 February 2021 – Seat Projections for the Parties</title>
@@ -929,6 +949,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-02-21T14:31:23.189861+01:00</dc:date>
+    <dc:date>2021-03-01T17:38:35.173838+01:00</dc:date>
   </channel>
 </rss>
