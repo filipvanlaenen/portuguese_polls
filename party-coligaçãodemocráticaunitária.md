@@ -95,8 +95,8 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 6–14 | 5–14 | 5–15 | 5–16 |
-| [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 14 | 6–14 | 6–15 | 6–15 | 4–18 |
+| N/A | [Poll Average](average.html) | 10 | 6–13 | 5–14 | 5–15 | 5–16 |
+| [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 10 | 6–14 | 6–15 | 6–15 | 5–18 |
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 5–10 | 5–10 | 5–11 | 4–13 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 10 | 10–13 | 9–14 | 8–14 | 7–14 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 9 | 5–13 | 5–14 | 5–15 | 4–16 |
@@ -164,21 +164,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.1% | 100% |  |
-| 4 | 0.4% | 99.9% |  |
-| 5 | 7% | 99.5% |  |
-| 6 | 11% | 93% |  |
-| 7 | 13% | 81% |  |
-| 8 | 6% | 68% |  |
-| 9 | 5% | 63% |  |
-| 10 | 24% | 57% | Median |
-| 11 | 7% | 33% |  |
-| 12 | 5% | 27% | Last Result |
-| 13 | 3% | 22% |  |
-| 14 | 15% | 19% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.1% | 0.5% |  |
-| 17 | 0.1% | 0.4% |  |
-| 18 | 0.2% | 0.2% |  |
+| 4 | 0.3% | 99.9% |  |
+| 5 | 7% | 99.6% |  |
+| 6 | 12% | 93% |  |
+| 7 | 15% | 81% |  |
+| 8 | 6% | 66% |  |
+| 9 | 6% | 59% |  |
+| 10 | 27% | 53% | Median |
+| 11 | 7% | 26% |  |
+| 12 | 6% | 19% | Last Result |
+| 13 | 4% | 13% |  |
+| 14 | 7% | 10% |  |
+| 15 | 2% | 3% |  |
+| 16 | 0.3% | 0.6% |  |
+| 17 | 0.2% | 0.4% |  |
+| 18 | 0.1% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 

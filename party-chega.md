@@ -99,7 +99,7 @@ Last result: **1** seats (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–18 | 9–19 | 8–19 | 7–20 |
-| [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 13 | 10–14 | 8–17 | 8–17 | 7–20 |
+| [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 13 | 10–15 | 8–17 | 8–19 | 6–21 |
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 12 | 11–14 | 10–16 | 9–17 | 8–19 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 17 | 14–19 | 14–19 | 14–20 | 14–21 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 11 | 9–14 | 8–15 | 7–17 | 5–19 |
@@ -171,24 +171,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
 | 5 | 0.1% | 99.9% |  |
-| 6 | 0.1% | 99.8% |  |
-| 7 | 0.8% | 99.7% |  |
+| 6 | 0.2% | 99.8% |  |
+| 7 | 0.7% | 99.5% |  |
 | 8 | 3% | 98.9% |  |
-| 9 | 3% | 96% |  |
+| 9 | 2% | 96% |  |
 | 10 | 5% | 93% |  |
 | 11 | 27% | 88% |  |
-| 12 | 6% | 61% |  |
-| 13 | 11% | 55% | Median |
-| 14 | 22% | 44% |  |
-| 15 | 5% | 22% |  |
-| 16 | 1.4% | 18% |  |
-| 17 | 3% | 16% |  |
-| 18 | 5% | 13% |  |
-| 19 | 7% | 8% |  |
-| 20 | 1.2% | 2% |  |
-| 21 | 0.3% | 0.4% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0.1% |  |
+| 12 | 7% | 61% |  |
+| 13 | 8% | 55% | Median |
+| 14 | 24% | 47% |  |
+| 15 | 5% | 23% |  |
+| 16 | 2% | 18% |  |
+| 17 | 3% | 17% |  |
+| 18 | 5% | 14% |  |
+| 19 | 7% | 9% |  |
+| 20 | 1.0% | 1.5% |  |
+| 21 | 0.3% | 0.5% |  |
+| 22 | 0.1% | 0.2% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 
