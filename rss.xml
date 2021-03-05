@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Wed, 03 Mar 2021 15:52:31 +0100</pubDate>
+    <pubDate>Thu, 04 Mar 2021 20:36:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 8–13 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-02-13-Intercampus.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2021-01-24T22:15:50.863383+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 61–82 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 104–126 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7–18 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–13 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2–8 seats&lt;/li&gt;&lt;li&gt;LIVRE: 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3–6 seats&lt;/li&gt;&lt;li&gt;Chega: 8–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage-seats.png"
+        length="230235"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 20:36:23 +0100</pubDate>
+      <dc:date>2021-03-04T20:36:23.367851+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage-coalitions-seats.png"
+        length="201179"
+        type="image/png"/>
+      <pubDate>Thu, 04 Mar 2021 20:36:23 +0100</pubDate>
+      <dc:date>2021-03-04T20:36:23.367851+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–15 January 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 23.3–30.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.1–43.7%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 5.5–9.5%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0.3–1.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.6–7.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.3–5.2%&lt;/li&gt;&lt;li&gt;LIVRE: 0.2–1.6%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 2.3–5.2%&lt;/li&gt;&lt;li&gt;Chega: 5.7–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-01-15-Aximage.png"
         length="285311"
         type="image/png"/>
-      <pubDate>Wed, 03 Mar 2021 15:52:31 +0100</pubDate>
-      <dc:date>2021-03-03T15:52:31.470705+01:00</dc:date>
+      <pubDate>Thu, 04 Mar 2021 20:36:23 +0100</pubDate>
+      <dc:date>2021-03-04T20:36:23.367851+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 11–14 January 2021 – Seat Projections for the Parties</title>
@@ -959,6 +979,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-03-03T15:52:31.470705+01:00</dc:date>
+    <dc:date>2021-03-04T20:36:23.367851+01:00</dc:date>
   </channel>
 </rss>
