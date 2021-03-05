@@ -10,7 +10,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 36–42% <br> 106–122 | 25–30% <br> 67–84 | 6–9% <br> 7–18 | 4–6% <br> 5–11 | 2–4% <br> 0–4 | 1–3% <br> 0–3 | 6–9% <br> 9–17 | 2–4% <br> 3–6 | N/A <br> N/A | N/A <br> N/A |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 34–36% <br> 102–109 | 22–24% <br> 62–69 | 7–9% <br> 14–18 | 5–7% <br> 8–14 | 2% <br> 0–1 | 2% <br> 1–2 | 8–10% <br> 14–20 | 6–8% <br> 12–14 | 1% <br> 0–1 | N/A <br> N/A |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 39–46% <br> 111–134 | 22–29% <br> 59–79 | 4–7% <br> 4–14 | 4–7% <br> 5–15 | 1–3% <br> 0–2 | 1–4% <br> 0–4 | 5–9% <br> 7–17 | 3–7% <br> 4–12 | N/A <br> N/A | N/A <br> N/A |
-| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 36–44% <br> 106–128 | 23–30% <br> 61–83 | 5–10% <br> 7–18 | 4–7% <br> 4–13 | 0–2% <br> 0 | 2–5% <br> 2–8 | 6–10% <br> 8–19 | 2–5% <br> 3–7 | 0–2% <br> 0–1 | N/A <br> N/A |
+| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 36–44% <br> 104–126 | 23–30% <br> 61–82 | 5–10% <br> 7–18 | 4–7% <br> 5–13 | 0–2% <br> 0 | 2–5% <br> 2–8 | 6–10% <br> 8–19 | 2–5% <br> 3–6 | 0–2% <br> 0–1 | N/A <br> N/A |
 | 6 October 2019 | General Election | 36.4% <br> 108 | 27.8% <br> 79 | 9.5% <br> 19 | 6.3% <br> 12 | 4.2% <br> 5 | 3.3% <br> 4 | 1.3% <br> 1 | 1.3% <br> 1 | 1.1% <br> 1 | 0.8% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
