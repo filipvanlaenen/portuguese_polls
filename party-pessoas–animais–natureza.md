@@ -99,7 +99,7 @@ Last result: **4** seats (General Election of 6 October 2019)
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 0–2 | 0–3 | 0–4 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2 | 1–3 | 0–4 | 0–4 | 0–5 |
-| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 3–6 | 2–8 | 2–8 | 1–9 |
+| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 2–6 | 2–6 | 2–8 | 1–9 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–3 | 1–3 | 1–4 | 0–4 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 2 | 1–3 | 1–4 | 0–4 | 0–5 |
@@ -163,15 +163,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% |  |
-| 1 | 23% | 97% |  |
-| 2 | 41% | 75% | Median |
-| 3 | 13% | 34% |  |
-| 4 | 14% | 21% | Last Result |
+| 1 | 22% | 97% |  |
+| 2 | 42% | 75% | Median |
+| 3 | 12% | 33% |  |
+| 4 | 15% | 21% | Last Result |
 | 5 | 3% | 7% |  |
-| 6 | 2% | 4% |  |
-| 7 | 0.3% | 2% |  |
-| 8 | 1.2% | 2% |  |
-| 9 | 0.3% | 0.3% |  |
-| 10 | 0% | 0% |  |
+| 6 | 3% | 4% |  |
+| 7 | 0.3% | 1.2% |  |
+| 8 | 0.5% | 0.9% |  |
+| 9 | 0.3% | 0.4% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0% |  |
 
 

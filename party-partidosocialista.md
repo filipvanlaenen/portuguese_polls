@@ -105,12 +105,12 @@ Last result: **108** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 112 | 104–123 | 103–127 | 102–130 | 98–134 |
+| N/A | [Poll Average](average.html) | 113 | 104–123 | 103–127 | 102–130 | 98–134 |
 | [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 108 | 102–116 | 100–119 | 98–122 | 95–126 |
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 115 | 109–120 | 107–121 | 106–122 | 103–128 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 106 | 103–109 | 102–109 | 102–109 | 101–111 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 121 | 115–131 | 113–133 | 111–134 | 108–138 |
-| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 114 | 107–121 | 106–126 | 106–128 | 101–130 |
+| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 115 | 107–121 | 106–124 | 104–126 | 100–130 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 116 | 110–121 | 108–122 | 106–123 | 104–127 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 111 | 106–114 | 105–115 | 104–116 | 102–118 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 114 | 108–125 | 107–128 | 106–130 | 103–134 |
@@ -179,37 +179,37 @@ The following table shows the probability mass function per seat for the [poll a
 | 96 | 0.1% | 99.8% |  |
 | 97 | 0.2% | 99.7% |  |
 | 98 | 0.3% | 99.5% |  |
-| 99 | 0.3% | 99.3% |  |
-| 100 | 0.5% | 99.0% |  |
-| 101 | 0.7% | 98% |  |
+| 99 | 0.3% | 99.2% |  |
+| 100 | 0.6% | 99.0% |  |
+| 101 | 0.8% | 98% |  |
 | 102 | 2% | 98% |  |
 | 103 | 5% | 96% |  |
 | 104 | 3% | 91% |  |
-| 105 | 5% | 88% |  |
+| 105 | 5% | 87% |  |
 | 106 | 4% | 83% |  |
 | 107 | 5% | 79% |  |
-| 108 | 5% | 74% | Last Result |
-| 109 | 9% | 69% |  |
-| 110 | 3% | 60% |  |
-| 111 | 4% | 57% |  |
-| 112 | 3% | 53% | Median |
-| 113 | 3% | 50% |  |
-| 114 | 5% | 47% |  |
-| 115 | 8% | 42% |  |
-| 116 | 4% | 34% | Majority |
-| 117 | 3% | 30% |  |
-| 118 | 5% | 27% |  |
+| 108 | 5% | 73% | Last Result |
+| 109 | 7% | 68% |  |
+| 110 | 3% | 61% |  |
+| 111 | 3% | 58% |  |
+| 112 | 4% | 55% |  |
+| 113 | 3% | 51% | Median |
+| 114 | 4% | 47% |  |
+| 115 | 5% | 43% |  |
+| 116 | 5% | 38% | Majority |
+| 117 | 5% | 33% |  |
+| 118 | 5% | 28% |  |
 | 119 | 4% | 23% |  |
-| 120 | 4% | 19% |  |
+| 120 | 3% | 19% |  |
 | 121 | 3% | 15% |  |
 | 122 | 2% | 12% |  |
-| 123 | 2% | 11% |  |
-| 124 | 0.9% | 9% |  |
+| 123 | 1.3% | 10% |  |
+| 124 | 1.1% | 9% |  |
 | 125 | 1.2% | 8% |  |
 | 126 | 0.9% | 7% |  |
-| 127 | 1.1% | 6% |  |
+| 127 | 1.0% | 6% |  |
 | 128 | 1.2% | 5% |  |
-| 129 | 1.2% | 4% |  |
+| 129 | 0.9% | 4% |  |
 | 130 | 0.5% | 3% |  |
 | 131 | 0.4% | 2% |  |
 | 132 | 0.3% | 2% |  |
@@ -217,7 +217,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 0.6% | 1.0% |  |
 | 135 | 0.2% | 0.4% |  |
 | 136 | 0.1% | 0.3% |  |
-| 137 | 0% | 0.2% |  |
+| 137 | 0.1% | 0.2% |  |
 | 138 | 0.1% | 0.1% |  |
 | 139 | 0% | 0.1% |  |
 | 140 | 0% | 0% |  |

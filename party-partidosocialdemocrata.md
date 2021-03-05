@@ -101,12 +101,12 @@ Last result: **79** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 71 | 64–79 | 62–81 | 60–81 | 56–86 |
+| N/A | [Poll Average](average.html) | 70 | 64–78 | 62–81 | 60–81 | 56–86 |
 | [8–13 February 2021](2021-02-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 69 | 62–77 | 59–78 | 57–79 | 54–83 |
 | [8–11 February 2021](2021-02-11-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 76 | 70–81 | 69–82 | 67–84 | 64–87 |
 | [24 January 2021](2021-01-24-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 66 | 65–67 | 64–68 | 62–69 | 61–70 |
 | [7–18 January 2021](2021-01-18-Pitagórica.html) | Pitagórica <br> Observador and TVI | 70 | 62–76 | 60–77 | 59–79 | 56–83 |
-| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 74 | 65–81 | 61–81 | 61–83 | 58–88 |
+| [9–15 January 2021](2021-01-15-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 73 | 67–80 | 63–81 | 61–82 | 58–88 |
 | [11–14 January 2021](2021-01-14-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 79 | 75–85 | 74–87 | 73–88 | 69–91 |
 | [11–14 January 2021](2021-01-14-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 75 | 72–80 | 70–81 | 69–82 | 68–84 |
 | [29 December 2020–10 January 2021](2021-01-10-Pitagórica.html) | Pitagórica <br> Observador and TVI | 76 | 68–83 | 65–85 | 63–86 | 61–89 |
@@ -174,38 +174,39 @@ The following table shows the probability mass function per seat for the [poll a
 | 55 | 0.1% | 99.8% |  |
 | 56 | 0.2% | 99.6% |  |
 | 57 | 0.3% | 99.4% |  |
-| 58 | 0.7% | 99.2% |  |
-| 59 | 0.6% | 98% |  |
-| 60 | 0.8% | 98% |  |
-| 61 | 2% | 97% |  |
-| 62 | 2% | 95% |  |
-| 63 | 3% | 93% |  |
+| 58 | 0.5% | 99.2% |  |
+| 59 | 0.7% | 98.7% |  |
+| 60 | 0.9% | 98% |  |
+| 61 | 1.2% | 97% |  |
+| 62 | 2% | 96% |  |
+| 63 | 3% | 94% |  |
 | 64 | 2% | 91% |  |
-| 65 | 4% | 88% |  |
+| 65 | 4% | 89% |  |
 | 66 | 16% | 85% |  |
 | 67 | 5% | 69% |  |
-| 68 | 5% | 64% |  |
-| 69 | 4% | 59% |  |
-| 70 | 5% | 55% |  |
-| 71 | 6% | 50% | Median |
-| 72 | 7% | 44% |  |
+| 68 | 5% | 65% |  |
+| 69 | 5% | 60% |  |
+| 70 | 6% | 55% | Median |
+| 71 | 8% | 49% |  |
+| 72 | 4% | 41% |  |
 | 73 | 4% | 37% |  |
-| 74 | 4% | 33% |  |
+| 74 | 3% | 33% |  |
 | 75 | 5% | 29% |  |
-| 76 | 7% | 25% |  |
-| 77 | 3% | 17% |  |
-| 78 | 3% | 14% |  |
-| 79 | 3% | 11% | Last Result |
-| 80 | 1.3% | 9% |  |
-| 81 | 5% | 7% |  |
+| 76 | 6% | 24% |  |
+| 77 | 5% | 18% |  |
+| 78 | 4% | 13% |  |
+| 79 | 2% | 9% | Last Result |
+| 80 | 2% | 7% |  |
+| 81 | 3% | 5% |  |
 | 82 | 0.7% | 2% |  |
 | 83 | 0.5% | 2% |  |
 | 84 | 0.3% | 1.1% |  |
 | 85 | 0.2% | 0.8% |  |
-| 86 | 0.3% | 0.6% |  |
+| 86 | 0.2% | 0.6% |  |
 | 87 | 0.1% | 0.4% |  |
 | 88 | 0.2% | 0.3% |  |
-| 89 | 0.1% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 89 | 0% | 0.1% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 
