@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sat, 15 May 2021 16:33:49 +0200</pubDate>
+    <pubDate>Sat, 15 May 2021 17:14:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 3–7 May 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-05-07-CESOP–UCP.html</link>
@@ -28,6 +28,36 @@
         type="image/png"/>
       <pubDate>Sat, 15 May 2021 16:33:49 +0200</pubDate>
       <dc:date>2021-05-15T16:33:49.672622+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-04-13-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 20.1–26.8%&lt;/li&gt;&lt;li&gt;Partido Socialista: 32.4–40.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.3–11.9%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 2.0–4.8%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.7–7.3%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.3–6.8%&lt;/li&gt;&lt;li&gt;LIVRE: 0.1–1.2%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3.5–7.0%&lt;/li&gt;&lt;li&gt;Chega: 7.3–11.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-04-13-Intercampus.png"
+        length="286945"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 16:47:59 +0200</pubDate>
+      <dc:date>2021-05-15T16:47:59.105545+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by ICS/ISCTE for Expresso and SIC Notícias, 5–13 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-04-13-ICSISCTE.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 26.0–32.3%&lt;/li&gt;&lt;li&gt;Partido Socialista: 33.7–40.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7.2–11.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5.4–9.0%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Chega: 4.5–7.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-04-13-ICSISCTE.png"
+        length="258000"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 17:00:57 +0200</pubDate>
+      <dc:date>2021-05-15T17:00:57.836743+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 5–8 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-04-08-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 25.2–30.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.6–42.6%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 4.8–7.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.0–6.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Chega: 6.2–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-04-08-Eurosondagem.png"
+        length="252932"
+        type="image/png"/>
+      <pubDate>Sat, 15 May 2021 17:14:27 +0200</pubDate>
+      <dc:date>2021-05-15T17:14:27.380923+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 4–10 March 2021 – Seat Projections for the Parties</title>
@@ -1069,6 +1099,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-05-15T16:33:49.672622+02:00</dc:date>
+    <dc:date>2021-05-15T17:14:27.380923+02:00</dc:date>
   </channel>
 </rss>
