@@ -10,7 +10,9 @@ Last result: **3.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 1.8–4.9% | 1.6–5.5% | 1.4–5.9% | 1.2–6.8% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.8–3.5% | 1.6–3.8% | 1.4–4.0% | 1.2–4.4% |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.4% | N/A | N/A | N/A | N/A |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.7% | N/A | N/A | N/A | N/A |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 3.0% | 2.5–3.8% | 2.3–4.0% | 2.2–4.2% | 1.9–4.6% |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2.7% | 2.1–3.5% | 1.9–3.8% | 1.8–4.0% | 1.5–4.5% |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4.8% | 3.8–6.1% | 3.6–6.4% | 3.3–6.8% | 2.9–7.4% |
@@ -87,14 +89,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 38% | 96% |  |
-| 2.5–3.5% | 33% | 57% | Last Result, Median |
-| 3.5–4.5% | 12% | 25% |  |
-| 4.5–5.5% | 8% | 13% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.7% | 0.8% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 39% | 96% |  |
+| 2.5–3.5% | 47% | 56% | Last Result, Median |
+| 3.5–4.5% | 9% | 10% |  |
+| 4.5–5.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,11 +104,13 @@ Last result: **4** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–6 | 1–7 | 1–9 | 0–11 |
-| [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
-| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 1–3 | 1–4 | 1–4 | 1–5 |
-| [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–9 | 4–11 | 4–11 | 3–12 |
-| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 1 | 1–3 | 1–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 2 | 1–4 | 1–4 | 1–4 | 0–5 |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 3 | 2–4 | 2–4 | 2–4 | 1–6 |
+| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
+| [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–9 | 4–11 | 3–11 | 2–12 |
+| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 2 | 1–2 | 0–3 | 0–3 | 0–4 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 0–2 | 0–3 | 0–4 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 2 | 1–3 | 1–4 | 0–4 | 0–6 |
@@ -183,18 +184,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
-| 1 | 25% | 98% |  |
-| 2 | 35% | 73% | Median |
-| 3 | 8% | 38% |  |
-| 4 | 11% | 30% | Last Result |
-| 5 | 7% | 18% |  |
-| 6 | 3% | 12% |  |
-| 7 | 4% | 8% |  |
-| 8 | 1.3% | 4% |  |
-| 9 | 1.2% | 3% |  |
-| 10 | 0.1% | 2% |  |
-| 11 | 1.2% | 2% |  |
-| 12 | 0.4% | 0.5% |  |
-| 13 | 0% | 0% |  |
+| 1 | 19% | 98% |  |
+| 2 | 46% | 78% | Median |
+| 3 | 18% | 33% |  |
+| 4 | 14% | 15% | Last Result |
+| 5 | 0.9% | 1.2% |  |
+| 6 | 0.3% | 0.3% |  |
+| 7 | 0% | 0% |  |
 
 

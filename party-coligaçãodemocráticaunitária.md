@@ -10,7 +10,9 @@ Last result: **6.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.5–7.2% | 4.2–7.8% | 4.0–8.2% | 3.6–9.0% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.6–7.6% | 4.3–8.1% | 4.1–8.4% | 3.7–9.2% |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 5.0% | N/A | N/A | N/A | N/A |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.6% | N/A | N/A | N/A | N/A |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 5.7% | 4.8–6.8% | 4.5–7.2% | 4.3–7.5% | 3.9–8.0% |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5.3% | 4.3–6.6% | 4.0–7.0% | 3.7–7.3% | 3.3–8.0% |
@@ -86,14 +88,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 12% | 99.6% |  |
-| 4.5–5.5% | 37% | 88% |  |
-| 5.5–6.5% | 30% | 51% | Last Result, Median |
-| 6.5–7.5% | 14% | 21% |  |
-| 7.5–8.5% | 5% | 7% |  |
-| 8.5–9.5% | 1.1% | 1.2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 9% | 99.8% |  |
+| 4.5–5.5% | 31% | 91% |  |
+| 5.5–6.5% | 30% | 59% | Last Result, Median |
+| 6.5–7.5% | 19% | 30% |  |
+| 7.5–8.5% | 9% | 11% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -105,11 +107,13 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–13 | 5–16 | 5–16 | 4–18 |
-| [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–8 | 5–9 | 5–10 | 5–11 |
-| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 7–10 | 7–13 | 6–14 | 5–15 |
-| [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 7 | 5–12 | 5–13 | 4–14 | 3–15 |
-| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 12 | 10–16 | 10–17 | 9–18 | 7–19 |
+| N/A | [Poll Average](average.html) | 9 | 6–15 | 6–16 | 6–17 | 5–19 |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 7 | 6–9 | 5–10 | 5–11 | 4–13 |
+| [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 8 | 7–14 | 6–14 | 6–15 | 5–15 |
+| [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 5–12 | 5–13 | 5–14 | 3–15 |
+| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 12 | 9–16 | 9–17 | 8–18 | 7–21 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8 | 6–10 | 5–12 | 5–13 | 5–14 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 6–13 | 5–14 | 5–15 | 4–17 |
@@ -182,26 +186,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 0.1% | 99.9% |  |
-| 4 | 0.5% | 99.8% |  |
-| 5 | 5% | 99.4% |  |
-| 6 | 12% | 94% |  |
-| 7 | 35% | 82% | Median |
-| 8 | 7% | 48% |  |
-| 9 | 10% | 41% |  |
-| 10 | 7% | 31% |  |
-| 11 | 3% | 24% |  |
-| 12 | 10% | 21% | Last Result |
-| 13 | 2% | 11% |  |
-| 14 | 3% | 9% |  |
-| 15 | 2% | 7% |  |
-| 16 | 4% | 5% |  |
-| 17 | 0.6% | 1.4% |  |
-| 18 | 0.6% | 0.8% |  |
-| 19 | 0.1% | 0.2% |  |
-| 20 | 0% | 0.1% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 2% | 99.8% |  |
+| 6 | 13% | 98% |  |
+| 7 | 21% | 85% |  |
+| 8 | 10% | 64% |  |
+| 9 | 9% | 54% | Median |
+| 10 | 9% | 44% |  |
+| 11 | 6% | 36% |  |
+| 12 | 10% | 30% | Last Result |
+| 13 | 3% | 20% |  |
+| 14 | 6% | 17% |  |
+| 15 | 3% | 11% |  |
+| 16 | 5% | 8% |  |
+| 17 | 1.4% | 3% |  |
+| 18 | 0.7% | 1.3% |  |
+| 19 | 0.3% | 0.5% |  |
+| 20 | 0.1% | 0.2% |  |
+| 21 | 0.1% | 0.2% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
