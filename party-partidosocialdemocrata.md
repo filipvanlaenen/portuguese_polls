@@ -112,13 +112,13 @@ Last result: **79** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 76 | 68–85 | 66–87 | 65–89 | 62–93 |
+| N/A | [Poll Average](average.html) | 76 | 68–84 | 66–86 | 65–89 | 62–93 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 77 | 72–82 | 70–84 | 69–85 | 66–87 |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 71 | 66–77 | 64–79 | 63–82 | 60–84 |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 64 | 57–71 | 56–72 | 55–74 | 51–79 |
-| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 81 | 74–88 | 71–89 | 69–91 | 68–95 |
+| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 80 | 74–88 | 71–89 | 69–92 | 68–95 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 78 | 71–84 | 69–84 | 67–86 | 65–88 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 66 | 58–72 | 57–75 | 55–77 | 53–80 |
@@ -200,34 +200,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 0.9% | 99.0% |  |
 | 65 | 1.2% | 98% |  |
 | 66 | 2% | 97% |  |
-| 67 | 2% | 95% |  |
+| 67 | 3% | 95% |  |
 | 68 | 5% | 92% |  |
-| 69 | 3% | 87% |  |
+| 69 | 2% | 87% |  |
 | 70 | 5% | 85% |  |
 | 71 | 3% | 80% |  |
 | 72 | 5% | 77% |  |
 | 73 | 4% | 72% |  |
 | 74 | 5% | 68% |  |
-| 75 | 7% | 63% |  |
-| 76 | 8% | 56% | Median |
-| 77 | 7% | 48% |  |
-| 78 | 8% | 41% |  |
-| 79 | 6% | 34% | Last Result |
-| 80 | 4% | 28% |  |
-| 81 | 3% | 24% |  |
-| 82 | 3% | 21% |  |
-| 83 | 2% | 18% |  |
-| 84 | 5% | 16% |  |
-| 85 | 2% | 11% |  |
-| 86 | 3% | 9% |  |
-| 87 | 1.0% | 6% |  |
-| 88 | 2% | 5% |  |
-| 89 | 1.1% | 3% |  |
-| 90 | 0.6% | 2% |  |
-| 91 | 0.2% | 1.0% |  |
-| 92 | 0.3% | 0.8% |  |
-| 93 | 0.2% | 0.5% |  |
-| 94 | 0.2% | 0.3% |  |
+| 75 | 6% | 63% |  |
+| 76 | 8% | 57% | Median |
+| 77 | 7% | 49% |  |
+| 78 | 7% | 41% |  |
+| 79 | 7% | 34% | Last Result |
+| 80 | 6% | 27% |  |
+| 81 | 3% | 21% |  |
+| 82 | 3% | 18% |  |
+| 83 | 2% | 15% |  |
+| 84 | 4% | 12% |  |
+| 85 | 2% | 9% |  |
+| 86 | 2% | 7% |  |
+| 87 | 1.0% | 5% |  |
+| 88 | 1.2% | 4% |  |
+| 89 | 1.0% | 3% |  |
+| 90 | 0.4% | 2% |  |
+| 91 | 0.2% | 1.1% |  |
+| 92 | 0.2% | 0.9% |  |
+| 93 | 0.3% | 0.7% |  |
+| 94 | 0.2% | 0.4% |  |
 | 95 | 0.1% | 0.2% |  |
 | 96 | 0% | 0.1% |  |
 | 97 | 0% | 0.1% |  |

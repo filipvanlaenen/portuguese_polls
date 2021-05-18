@@ -108,7 +108,7 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 6–14 | 4–18 |
+| N/A | [Poll Average](average.html) | 10 | 8–13 | 7–14 | 6–14 | 4–18 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 7–11 | 6–11 | 6–12 | 4–14 |
@@ -190,18 +190,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 0.9% | 98.9% |  |
+| 4 | 1.0% | 100% |  |
+| 5 | 1.1% | 99.0% |  |
 | 6 | 2% | 98% |  |
-| 7 | 3% | 96% |  |
-| 8 | 16% | 93% |  |
-| 9 | 10% | 77% |  |
-| 10 | 17% | 67% |  |
-| 11 | 33% | 50% | Median |
-| 12 | 5% | 17% |  |
+| 7 | 5% | 96% |  |
+| 8 | 17% | 91% |  |
+| 9 | 10% | 74% |  |
+| 10 | 15% | 64% | Median |
+| 11 | 32% | 49% |  |
+| 12 | 4% | 17% |  |
 | 13 | 6% | 12% |  |
 | 14 | 5% | 7% |  |
-| 15 | 0.3% | 1.4% |  |
+| 15 | 0.4% | 1.4% |  |
 | 16 | 0.1% | 1.0% |  |
 | 17 | 0.2% | 0.9% |  |
 | 18 | 0.5% | 0.7% |  |

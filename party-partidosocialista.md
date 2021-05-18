@@ -111,13 +111,13 @@ Last result: **108** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 108 | 101–115 | 99–116 | 97–117 | 93–120 |
+| N/A | [Poll Average](average.html) | 108 | 102–115 | 100–116 | 97–117 | 93–120 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 108 | 103–114 | 102–116 | 100–116 | 97–119 |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 111 | 105–116 | 102–117 | 101–119 | 97–122 |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 104 | 98–113 | 96–116 | 93–117 | 89–122 |
-| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 105 | 99–113 | 97–114 | 95–116 | 89–118 |
+| [5–13 April 2021](2021-04-13-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 106 | 99–113 | 97–114 | 96–116 | 90–118 |
 | [5–8 April 2021](2021-04-08-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 115 | 109–120 | 106–122 | 105–123 | 103–127 |
 | [24–27 March 2021](2021-03-27-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias |  |  |  |  |  |
 | [4–10 March 2021](2021-03-10-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 110 | 104–119 | 101–121 | 99–123 | 95–127 |
@@ -190,34 +190,35 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 88 | 0.1% | 100% |  |
-| 89 | 0% | 99.8% |  |
-| 90 | 0% | 99.8% |  |
+| 87 | 0% | 100% |  |
+| 88 | 0.1% | 99.9% |  |
+| 89 | 0% | 99.9% |  |
+| 90 | 0% | 99.9% |  |
 | 91 | 0.1% | 99.8% |  |
 | 92 | 0.1% | 99.7% |  |
-| 93 | 0.1% | 99.5% |  |
-| 94 | 0.3% | 99.4% |  |
-| 95 | 0.2% | 99.1% |  |
-| 96 | 0.4% | 99.0% |  |
-| 97 | 2% | 98.5% |  |
-| 98 | 1.0% | 97% |  |
-| 99 | 1.3% | 96% |  |
+| 93 | 0.1% | 99.6% |  |
+| 94 | 0.2% | 99.5% |  |
+| 95 | 0.2% | 99.2% |  |
+| 96 | 0.5% | 99.1% |  |
+| 97 | 1.1% | 98.6% |  |
+| 98 | 0.9% | 97% |  |
+| 99 | 1.3% | 97% |  |
 | 100 | 3% | 95% |  |
-| 101 | 2% | 91% |  |
-| 102 | 5% | 89% |  |
-| 103 | 4% | 85% |  |
-| 104 | 6% | 81% |  |
-| 105 | 7% | 74% |  |
-| 106 | 6% | 68% |  |
-| 107 | 9% | 62% |  |
-| 108 | 7% | 53% | Last Result, Median |
-| 109 | 6% | 46% |  |
+| 101 | 2% | 92% |  |
+| 102 | 4% | 90% |  |
+| 103 | 4% | 87% |  |
+| 104 | 6% | 83% |  |
+| 105 | 7% | 77% |  |
+| 106 | 6% | 69% |  |
+| 107 | 9% | 63% |  |
+| 108 | 7% | 54% | Last Result, Median |
+| 109 | 7% | 47% |  |
 | 110 | 7% | 40% |  |
-| 111 | 5% | 33% |  |
-| 112 | 5% | 28% |  |
+| 111 | 5% | 34% |  |
+| 112 | 6% | 29% |  |
 | 113 | 5% | 23% |  |
 | 114 | 5% | 18% |  |
-| 115 | 6% | 13% |  |
+| 115 | 7% | 13% |  |
 | 116 | 3% | 6% | Majority |
 | 117 | 1.3% | 3% |  |
 | 118 | 0.7% | 2% |  |
