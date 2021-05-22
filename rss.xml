@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Mon, 17 May 2021 21:29:12 +0200</pubDate>
+    <pubDate>Sat, 22 May 2021 17:47:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 10–13 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-05-13-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 24.7–30.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 36.4–42.4%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 5.3–8.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.7–3.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.6–3.5%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Chega: 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-05-13-Eurosondagem.png"
+        length="255552"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 17:35:54 +0200</pubDate>
+      <dc:date>2021-05-22T17:35:54.295531+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 5–11 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-05-11-Intercampus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 18.7–25.2%&lt;/li&gt;&lt;li&gt;Partido Socialista: 34.2–41.9%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.4–10.8%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.9–4.6%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.0–7.7%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.3–6.7%&lt;/li&gt;&lt;li&gt;LIVRE: 0.7–2.6%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 2.9–6.2%&lt;/li&gt;&lt;li&gt;Chega: 6.4–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-05-11-Intercampus.png"
+        length="286628"
+        type="image/png"/>
+      <pubDate>Sat, 22 May 2021 17:47:32 +0200</pubDate>
+      <dc:date>2021-05-22T17:47:32.760658+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CESOP–UCP for Público and RTP, 3–7 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-05-07-CESOP–UCP.html#seats</link>
@@ -1179,6 +1199,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-05-17T21:29:12.184721+02:00</dc:date>
+    <dc:date>2021-05-22T17:47:32.760658+02:00</dc:date>
   </channel>
 </rss>
