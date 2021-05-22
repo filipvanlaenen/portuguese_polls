@@ -10,9 +10,9 @@ Last result: **9.5%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.5–10.2% | 7.1–10.7% | 6.9–11.0% | 6.4–11.8% |
-| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6.6% | N/A | N/A | N/A | N/A |
-| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8.3% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 8.3% | 6.6–10.0% | 6.1–10.5% | 5.8–10.9% | 5.3–11.7% |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 6.6% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8.3% | 7.1–10.0% | 6.7–10.4% | 6.4–10.8% | 5.8–11.6% |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.3% |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 9.2% | 8.0–10.6% | 7.7–11.0% | 7.4–11.3% | 6.8–12.0% |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.4% | 8.0–11.1% | 7.6–11.5% | 7.3–11.9% | 6.7–12.8% |
@@ -87,14 +87,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.0% | 100% |  |
-| 6.5–7.5% | 11% | 99.0% |  |
-| 7.5–8.5% | 31% | 88% |  |
-| 8.5–9.5% | 33% | 57% | Median |
-| 9.5–10.5% | 18% | 24% | Last Result |
-| 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 0.8% | 0.9% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 9% | 98.8% |  |
+| 6.5–7.5% | 18% | 90% |  |
+| 7.5–8.5% | 28% | 72% | Median |
+| 8.5–9.5% | 26% | 44% |  |
+| 9.5–10.5% | 13% | 18% | Last Result |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.6% | 0.6% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -107,9 +108,9 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
-| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |
-| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 16 | 11–20 | 11–21 | 7–22 | 7–24 |
+| [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 11 | 7–15 | 7–16 | 7–16 | 7–18 |
+| [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 16 | 13–20 | 13–22 | 11–24 | 8–25 |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 15 | 13–18 | 11–18 | 11–19 | 10–20 |
 | [22–25 April 2021](2021-04-25-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 18 | 15–21 | 14–22 | 14–22 | 11–25 |
 | [7–13 April 2021](2021-04-13-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 14–23 | 14–23 | 13–25 | 12–29 |
@@ -186,25 +187,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 0.1% | 99.9% |  |
-| 10 | 0.2% | 99.8% |  |
-| 11 | 2% | 99.6% |  |
-| 12 | 2% | 98% |  |
-| 13 | 3% | 96% |  |
-| 14 | 10% | 93% |  |
-| 15 | 10% | 83% |  |
-| 16 | 14% | 73% |  |
-| 17 | 12% | 59% | Median |
-| 18 | 20% | 47% |  |
-| 19 | 12% | 27% | Last Result |
-| 20 | 6% | 14% |  |
-| 21 | 4% | 8% |  |
+| 7 | 3% | 100% |  |
+| 8 | 0.6% | 97% |  |
+| 9 | 0.2% | 97% |  |
+| 10 | 1.4% | 97% |  |
+| 11 | 8% | 95% |  |
+| 12 | 2% | 87% |  |
+| 13 | 7% | 85% |  |
+| 14 | 14% | 78% |  |
+| 15 | 8% | 64% |  |
+| 16 | 11% | 56% | Median |
+| 17 | 9% | 45% |  |
+| 18 | 14% | 36% |  |
+| 19 | 11% | 22% | Last Result |
+| 20 | 4% | 11% |  |
+| 21 | 3% | 7% |  |
 | 22 | 2% | 4% |  |
-| 23 | 1.0% | 2% |  |
-| 24 | 0.3% | 0.8% |  |
+| 23 | 0.7% | 2% |  |
+| 24 | 0.6% | 1.1% |  |
 | 25 | 0.2% | 0.4% |  |
-| 26 | 0.2% | 0.3% |  |
+| 26 | 0.1% | 0.2% |  |
 | 27 | 0% | 0.1% |  |
 | 28 | 0% | 0.1% |  |
 | 29 | 0% | 0% |  |
