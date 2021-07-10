@@ -110,9 +110,9 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–14 | 5–16 | 5–16 | 5–18 |
-| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 5–13 | 5–14 | 5–16 | 5–17 |
-| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 5–10 | 5–10 | 5–13 | 4–14 |
+| N/A | [Poll Average](average.html) | 9 | 6–14 | 6–16 | 5–16 | 5–18 |
+| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 10 | 6–13 | 5–14 | 5–16 | 5–18 |
+| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 5–10 | 5–10 | 5–12 | 4–14 |
 | [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 10 | 6–13 | 6–14 | 6–14 | 5–16 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 5–10 | 5–11 | 5–12 | 4–14 |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 6–13 | 6–14 | 5–15 | 5–17 |
@@ -192,23 +192,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 0.3% | 99.9% |  |
-| 5 | 6% | 99.6% |  |
-| 6 | 13% | 93% |  |
-| 7 | 20% | 80% |  |
-| 8 | 10% | 60% |  |
-| 9 | 6% | 50% | Median |
-| 10 | 8% | 44% |  |
-| 11 | 10% | 37% |  |
-| 12 | 8% | 26% | Last Result |
-| 13 | 6% | 18% |  |
+| 4 | 0.3% | 100% |  |
+| 5 | 4% | 99.7% |  |
+| 6 | 16% | 95% |  |
+| 7 | 17% | 79% |  |
+| 8 | 11% | 63% |  |
+| 9 | 6% | 51% | Median |
+| 10 | 10% | 45% |  |
+| 11 | 10% | 35% |  |
+| 12 | 7% | 26% | Last Result |
+| 13 | 6% | 19% |  |
 | 14 | 5% | 12% |  |
 | 15 | 1.4% | 8% |  |
 | 16 | 4% | 6% |  |
 | 17 | 1.0% | 2% |  |
-| 18 | 0.6% | 1.0% |  |
-| 19 | 0.2% | 0.4% |  |
+| 18 | 0.7% | 1.0% |  |
+| 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.2% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

@@ -115,9 +115,9 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–22 | 7–23 | 7–25 | 4–27 |
-| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 22 | 14–26 | 13–27 | 11–27 | 11–31 |
-| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 14 | 11–19 | 11–21 | 11–21 | 11–23 |
+| N/A | [Poll Average](average.html) | 11 | 8–22 | 7–24 | 7–25 | 4–27 |
+| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 22 | 14–25 | 13–26 | 12–27 | 11–30 |
+| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 14 | 12–18 | 11–20 | 11–21 | 11–23 |
 | [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 11 | 10–14 | 9–16 | 8–19 | 8–19 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 14 | 11–17 | 11–18 | 11–20 | 10–22 |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 15 | 11–21 | 11–24 | 10–25 | 9–25 |
@@ -207,27 +207,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 11% | 95% |  |
 | 9 | 6% | 84% |  |
 | 10 | 11% | 78% |  |
-| 11 | 21% | 67% | Median |
-| 12 | 4% | 46% |  |
-| 13 | 4% | 41% |  |
-| 14 | 13% | 37% |  |
-| 15 | 2% | 24% |  |
-| 16 | 2% | 23% |  |
-| 17 | 1.4% | 21% |  |
-| 18 | 3% | 20% |  |
+| 11 | 20% | 67% | Median |
+| 12 | 3% | 47% |  |
+| 13 | 6% | 43% |  |
+| 14 | 11% | 38% |  |
+| 15 | 2% | 26% |  |
+| 16 | 3% | 25% |  |
+| 17 | 3% | 22% |  |
+| 18 | 4% | 19% |  |
 | 19 | 2% | 16% |  |
-| 20 | 0.7% | 14% |  |
-| 21 | 1.1% | 13% |  |
-| 22 | 7% | 12% |  |
-| 23 | 2% | 5% |  |
-| 24 | 0.4% | 4% |  |
-| 25 | 0.8% | 3% |  |
-| 26 | 1.2% | 2% |  |
-| 27 | 0.9% | 1.2% |  |
-| 28 | 0.2% | 0.3% |  |
-| 29 | 0% | 0.2% |  |
+| 20 | 1.2% | 14% |  |
+| 21 | 1.0% | 13% |  |
+| 22 | 3% | 12% |  |
+| 23 | 1.2% | 9% |  |
+| 24 | 4% | 7% |  |
+| 25 | 2% | 4% |  |
+| 26 | 1.3% | 2% |  |
+| 27 | 0.4% | 0.7% |  |
+| 28 | 0.1% | 0.3% |  |
+| 29 | 0.1% | 0.2% |  |
 | 30 | 0% | 0.1% |  |
-| 31 | 0.1% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 

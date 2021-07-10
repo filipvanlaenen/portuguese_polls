@@ -110,9 +110,9 @@ Last result: **4** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 1–11 | 0–12 |
-| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 4–11 | 4–11 | 4–12 | 3–12 |
-| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 1–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 3 | 1–8 | 1–9 | 1–10 | 0–12 |
+| [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 5–11 | 4–11 | 4–12 | 3–13 |
+| [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–2 | 1–3 | 0–4 | 0–4 |
 | [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4 | 3–6 | 2–6 | 2–6 | 2–9 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2 | 1–3 | 1–3 | 1–4 | 1–4 |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 8 | 4–9 | 4–11 | 3–12 | 2–12 |
@@ -193,19 +193,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
-| 1 | 16% | 98% |  |
-| 2 | 29% | 82% |  |
+| 1 | 15% | 98% |  |
+| 2 | 30% | 83% |  |
 | 3 | 12% | 53% | Median |
-| 4 | 18% | 41% | Last Result |
-| 5 | 7% | 23% |  |
-| 6 | 5% | 17% |  |
-| 7 | 1.0% | 12% |  |
-| 8 | 2% | 11% |  |
+| 4 | 16% | 41% | Last Result |
+| 5 | 7% | 24% |  |
+| 6 | 5% | 18% |  |
+| 7 | 1.4% | 13% |  |
+| 8 | 3% | 11% |  |
 | 9 | 5% | 8% |  |
-| 10 | 0.8% | 4% |  |
-| 11 | 2% | 3% |  |
-| 12 | 0.7% | 0.8% |  |
-| 13 | 0% | 0.1% |  |
-| 14 | 0% | 0% |  |
+| 10 | 0.7% | 3% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.6% | 0.8% |  |
+| 13 | 0.1% | 0.2% |  |
+| 14 | 0% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
