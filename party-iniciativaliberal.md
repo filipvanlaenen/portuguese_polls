@@ -11,6 +11,7 @@ Last result: **1.3%** (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4.6% | 1.1–6.7% | 0.8–7.2% | 0.7–7.7% | 0.5–8.6% |
+| [5–8 July 2021](2021-07-08-Eurosondagem.html) | Eurosondagem | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6.4% | 5.3–7.9% | 5.0–8.3% | 4.7–8.7% | 4.2–9.4% |
 | [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.7% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.7–4.3% |
 | [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 5.2% | 4.3–6.3% | 4.0–6.6% | 3.8–6.9% | 3.4–7.5% |
@@ -92,9 +93,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.7% | 100% |  |
 | 0.5–1.5% | 17% | 99.3% | Last Result |
-| 1.5–2.5% | 8% | 82% |  |
-| 2.5–3.5% | 12% | 74% |  |
-| 3.5–4.5% | 10% | 62% |  |
+| 1.5–2.5% | 11% | 82% |  |
+| 2.5–3.5% | 10% | 71% |  |
+| 3.5–4.5% | 9% | 61% |  |
 | 4.5–5.5% | 23% | 52% | Median |
 | 5.5–6.5% | 17% | 28% |  |
 | 6.5–7.5% | 8% | 11% |  |
@@ -113,9 +114,10 @@ Last result: **1** seats (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 1–12 | 0–12 | 0–14 | 0–14 |
+| [5–8 July 2021](2021-07-08-Eurosondagem.html) | Eurosondagem | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 6–14 | 6–14 | 6–14 | 6–17 |
 | [31 May–3 June 2021](2021-06-03-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 3 | 3–4 | 3–5 | 2–5 | 1–6 |
-| [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–11 | 6–12 | 5–12 | 4–14 |
+| [26–30 May 2021](2021-05-30-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 6–12 | 6–12 | 5–12 | 4–13 |
 | [10–13 May 2021](2021-05-13-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 3 | 1–3 | 1–4 | 1–4 | 1–5 |
 | [5–11 May 2021](2021-05-11-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 6 | 4–10 | 3–10 | 3–10 | 3–12 |
 | [3–7 May 2021](2021-05-07-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6 | 6–10 | 5–11 | 5–12 | 4–12 |
@@ -196,15 +198,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 8% | 100% |  |
 | 1 | 12% | 92% | Last Result |
-| 2 | 1.2% | 81% |  |
-| 3 | 13% | 80% |  |
-| 4 | 5% | 66% |  |
-| 5 | 3% | 61% |  |
-| 6 | 21% | 59% | Median |
-| 7 | 7% | 37% |  |
-| 8 | 5% | 30% |  |
-| 9 | 7% | 26% |  |
-| 10 | 5% | 18% |  |
+| 2 | 2% | 80% |  |
+| 3 | 15% | 78% |  |
+| 4 | 3% | 63% |  |
+| 5 | 2% | 60% |  |
+| 6 | 23% | 58% | Median |
+| 7 | 4% | 36% |  |
+| 8 | 6% | 31% |  |
+| 9 | 6% | 25% |  |
+| 10 | 5% | 19% |  |
 | 11 | 3% | 14% |  |
 | 12 | 6% | 11% |  |
 | 13 | 2% | 5% |  |
