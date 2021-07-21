@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Mon, 12 Jul 2021 11:06:44 +0200</pubDate>
+    <pubDate>Wed, 21 Jul 2021 15:01:54 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 59–79 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 99–121 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 11–20 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4–13 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3–11 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 5–12 seats&lt;/li&gt;&lt;li&gt;Chega: 9–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage-seats.png"
+        length="224147"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 15:01:54 +0200</pubDate>
+      <dc:date>2021-07-21T15:01:54.040672+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage-coalitions-seats.png"
+        length="205761"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 15:01:54 +0200</pubDate>
+      <dc:date>2021-07-21T15:01:54.040672+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 22.2–28.4%&lt;/li&gt;&lt;li&gt;Partido Socialista: 34.2–41.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 6.2–10.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0.4–1.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.5–6.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3.3–6.3%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 4.1–7.4%&lt;/li&gt;&lt;li&gt;Chega: 6.0–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-12-Aximage.png"
+        length="273551"
+        type="image/png"/>
+      <pubDate>Wed, 21 Jul 2021 15:01:54 +0200</pubDate>
+      <dc:date>2021-07-21T15:01:54.040672+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Eurosondagem, 5–8 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-08-Eurosondagem.html#seats</link>
@@ -1319,6 +1349,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-07-12T11:06:44.713505+02:00</dc:date>
+    <dc:date>2021-07-21T15:01:54.040672+02:00</dc:date>
   </channel>
 </rss>
