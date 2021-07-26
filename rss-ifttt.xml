@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Assembleia da República</description>
     <pubDate>Sat, 23 Jan 2021 19:13:42 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021 – Voting Intentions</title>
+      <link>null/2021-07-16-Intercampus.html</link>
+      <description><![CDATA[Voting intentions for the Assembleia da República<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021<br/>Details on null/2021-07-16-Intercampus.html<br/><img src="null/2021-07-16-Intercampus.png"/>]]></description>
+      <enclosure url="null/2021-07-16-Intercampus.png" length="288799" type="image/png"/>
+      <pubDate>Mon, 26 Jul 2021 15:36:03 +0200</pubDate>
+      <dc:date>2021-07-26T15:36:03.134309+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Seating Plan Projection</title>
       <link>null/2021-07-12-Aximage.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the Assembleia da República<br/>116 seats needed for a majority<br/>Opinion poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021<br/>Details on null/2021-07-12-Aximage.html<br/><img src="null/2021-07-12-Aximage-seating-plan.png"/>]]></description>
@@ -188,30 +196,6 @@
       <enclosure url="null/2021-04-25-Aximage.png" length="281451" type="image/png"/>
       <pubDate>Mon, 17 May 2021 19:09:30 +0200</pubDate>
       <dc:date>2021-05-17T19:09:30.338673+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021 – Seating Plan Projection</title>
-      <link>null/2021-04-13-Intercampus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Assembleia da República<br/>116 seats needed for a majority<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021<br/>Details on null/2021-04-13-Intercampus.html<br/><img src="null/2021-04-13-Intercampus-seating-plan.png"/>]]></description>
-      <enclosure url="null/2021-04-13-Intercampus-seating-plan.png" length="616731" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 20:20:47 +0200</pubDate>
-      <dc:date>2021-05-17T20:20:47.529092+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021 – Seat Projections</title>
-      <link>null/2021-04-13-Intercampus.html#seats</link>
-      <description><![CDATA[Seat projections for the Assembleia da República<br/>116 seats needed for a majority<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021<br/>Details on null/2021-04-13-Intercampus.html<br/><img src="null/2021-04-13-Intercampus-seats.png"/>]]></description>
-      <enclosure url="null/2021-04-13-Intercampus-seats.png" length="231239" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 20:20:47 +0200</pubDate>
-      <dc:date>2021-05-17T20:20:47.529092+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021 – Voting Intentions</title>
-      <link>null/2021-04-13-Intercampus.html</link>
-      <description><![CDATA[Voting intentions for the Assembleia da República<br/>Opinion poll by Intercampus for Correio da Manhã and Negócios, 7–13 April 2021<br/>Details on null/2021-04-13-Intercampus.html<br/><img src="null/2021-04-13-Intercampus.png"/>]]></description>
-      <enclosure url="null/2021-04-13-Intercampus.png" length="286945" type="image/png"/>
-      <pubDate>Mon, 17 May 2021 20:20:47 +0200</pubDate>
-      <dc:date>2021-05-17T20:20:47.529092+02:00</dc:date>
     </item>
   </channel>
 </rss>
