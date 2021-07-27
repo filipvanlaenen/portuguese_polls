@@ -115,8 +115,8 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 7–19 | 7–21 | 6–23 | 4–25 |
-| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 16–23 | 16–24 | 16–25 | 12–28 |
+| N/A | [Poll Average](average.html) | 15 | 7–19 | 7–21 | 6–23 | 4–26 |
+| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 15–22 | 13–24 | 12–25 | 11–28 |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14 | 12–18 | 11–19 | 11–20 | 7–22 |
 | [5–8 July 2021](2021-07-08-Eurosondagem.html) | Eurosondagem | 7 | 6–10 | 5–11 | 5–11 | 3–13 |
 | [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 17 | 14–22 | 13–23 | 12–24 | 10–28 |
@@ -211,22 +211,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 3% | 79% |  |
 | 11 | 5% | 76% |  |
 | 12 | 3% | 72% |  |
-| 13 | 4% | 69% |  |
-| 14 | 12% | 65% |  |
-| 15 | 6% | 53% | Median |
-| 16 | 8% | 47% |  |
-| 17 | 8% | 39% |  |
-| 18 | 17% | 31% |  |
-| 19 | 4% | 14% | Last Result |
-| 20 | 0.7% | 10% |  |
-| 21 | 5% | 9% |  |
-| 22 | 0.8% | 3% |  |
-| 23 | 0.7% | 3% |  |
-| 24 | 0.7% | 2% |  |
-| 25 | 0.9% | 1.2% |  |
-| 26 | 0.1% | 0.4% |  |
-| 27 | 0% | 0.3% |  |
-| 28 | 0.2% | 0.3% |  |
-| 29 | 0% | 0% |  |
+| 13 | 5% | 68% |  |
+| 14 | 13% | 63% |  |
+| 15 | 6% | 51% | Median |
+| 16 | 7% | 44% |  |
+| 17 | 9% | 37% |  |
+| 18 | 15% | 28% |  |
+| 19 | 5% | 13% | Last Result |
+| 20 | 0.9% | 8% |  |
+| 21 | 3% | 7% |  |
+| 22 | 2% | 4% |  |
+| 23 | 0.9% | 3% |  |
+| 24 | 0.9% | 2% |  |
+| 25 | 0.3% | 0.8% |  |
+| 26 | 0.2% | 0.5% |  |
+| 27 | 0.1% | 0.3% |  |
+| 28 | 0.1% | 0.2% |  |
+| 29 | 0% | 0.1% |  |
+| 30 | 0.1% | 0.1% |  |
+| 31 | 0% | 0% |  |
 
 

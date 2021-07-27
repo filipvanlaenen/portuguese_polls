@@ -113,8 +113,8 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–10 | 3–11 | 2–12 | 1–13 |
-| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 5 | 3–5 | 3–6 | 3–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 6 | 3–10 | 3–11 | 2–12 | 1–13 |
+| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 4 | 3–6 | 3–6 | 2–6 | 1–8 |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 10 | 6–12 | 5–12 | 5–12 | 5–14 |
 | [5–8 July 2021](2021-07-08-Eurosondagem.html) | Eurosondagem | 3 | 2–4 | 2–4 | 1–5 | 1–5 |
 | [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 11 | 6–14 | 6–14 | 6–14 | 6–17 |
@@ -198,14 +198,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.7% | 100% | Last Result |
-| 2 | 2% | 99.3% |  |
-| 3 | 26% | 97% |  |
-| 4 | 7% | 71% |  |
-| 5 | 15% | 64% | Median |
-| 6 | 22% | 49% |  |
+| 1 | 0.8% | 100% | Last Result |
+| 2 | 3% | 99.2% |  |
+| 3 | 27% | 96% |  |
+| 4 | 10% | 70% |  |
+| 5 | 9% | 59% |  |
+| 6 | 24% | 50% | Median |
 | 7 | 3% | 27% |  |
-| 8 | 3% | 23% |  |
+| 8 | 4% | 24% |  |
 | 9 | 4% | 20% |  |
 | 10 | 8% | 16% |  |
 | 11 | 3% | 8% |  |

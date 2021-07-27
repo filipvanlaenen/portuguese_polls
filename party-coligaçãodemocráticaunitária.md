@@ -113,8 +113,8 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–13 | 5–14 | 5–14 | 4–15 |
-| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 12 | 12–14 | 11–14 | 10–15 | 8–18 |
+| N/A | [Poll Average](average.html) | 8 | 6–14 | 5–14 | 5–15 | 4–18 |
+| [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 13 | 9–15 | 8–18 | 7–18 | 6–20 |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7 | 5–10 | 5–11 | 4–13 | 3–14 |
 | [5–8 July 2021](2021-07-08-Eurosondagem.html) | Eurosondagem | 7 | 5–10 | 5–11 | 5–13 | 5–14 |
 | [8–16 June 2021](2021-06-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 10 | 6–13 | 5–14 | 5–16 | 5–18 |
@@ -203,20 +203,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 6% | 99.0% |  |
 | 6 | 20% | 93% |  |
 | 7 | 21% | 73% |  |
-| 8 | 10% | 52% | Median |
-| 9 | 6% | 42% |  |
-| 10 | 8% | 36% |  |
-| 11 | 2% | 28% |  |
-| 12 | 12% | 26% | Last Result |
-| 13 | 8% | 14% |  |
-| 14 | 5% | 7% |  |
-| 15 | 0.8% | 1.2% |  |
-| 16 | 0.1% | 0.4% |  |
-| 17 | 0% | 0.2% |  |
-| 18 | 0.1% | 0.2% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0.1% |  |
+| 8 | 11% | 52% | Median |
+| 9 | 7% | 40% |  |
+| 10 | 10% | 34% |  |
+| 11 | 4% | 24% |  |
+| 12 | 5% | 20% | Last Result |
+| 13 | 5% | 15% |  |
+| 14 | 6% | 10% |  |
+| 15 | 2% | 5% |  |
+| 16 | 0.5% | 2% |  |
+| 17 | 0.4% | 2% |  |
+| 18 | 1.3% | 2% |  |
+| 19 | 0.1% | 0.3% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 
