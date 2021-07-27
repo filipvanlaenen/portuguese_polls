@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Mon, 26 Jul 2021 15:36:03 +0200</pubDate>
+    <pubDate>Tue, 27 Jul 2021 19:44:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 57–76 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 91–115 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 12–25 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1–5 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 7–18 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 3–11 seats&lt;/li&gt;&lt;li&gt;LIVRE: 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 2–6 seats&lt;/li&gt;&lt;li&gt;Chega: 11–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus-seats.png"
+        length="232007"
+        type="image/png"/>
+      <pubDate>Tue, 27 Jul 2021 19:44:15 +0200</pubDate>
+      <dc:date>2021-07-27T19:44:15.272731+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus-coalitions-seats.png"
+        length="201841"
+        type="image/png"/>
+      <pubDate>Tue, 27 Jul 2021 19:44:15 +0200</pubDate>
+      <dc:date>2021-07-27T19:44:15.272731+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus.png"
         length="288799"
         type="image/png"/>
-      <pubDate>Mon, 26 Jul 2021 15:36:03 +0200</pubDate>
-      <dc:date>2021-07-26T15:36:03.134309+02:00</dc:date>
+      <pubDate>Tue, 27 Jul 2021 19:44:15 +0200</pubDate>
+      <dc:date>2021-07-27T19:44:15.272731+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 10–12 July 2021 – Seat Projections for the Parties</title>
@@ -1359,6 +1379,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-07-26T15:36:03.134309+02:00</dc:date>
+    <dc:date>2021-07-27T19:44:15.272731+02:00</dc:date>
   </channel>
 </rss>
