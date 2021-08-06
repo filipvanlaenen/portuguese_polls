@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Tue, 27 Jul 2021 19:44:15 +0200</pubDate>
+    <pubDate>Fri, 06 Aug 2021 19:35:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 26–29 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 64–82 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 108–125 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 3–10 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 6–15 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 0–3 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3–6 seats&lt;/li&gt;&lt;li&gt;Chega: 11–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem-seats.png"
+        length="212753"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 19:35:32 +0200</pubDate>
+      <dc:date>2021-08-06T19:35:32.890599+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 26–29 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem-coalitions-seats.png"
+        length="186125"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 19:35:32 +0200</pubDate>
+      <dc:date>2021-08-06T19:35:32.890599+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Porto Canal and Sol, 26–29 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 24.7–30.1%&lt;/li&gt;&lt;li&gt;Partido Socialista: 38.1–44.1%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 3.6–6.3%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.4–3.2%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.6–7.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.5–3.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Chega: 7.2–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-07-29-Eurosondagem.png"
+        length="254005"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 19:35:32 +0200</pubDate>
+      <dc:date>2021-08-06T19:35:32.890599+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Intercampus for Correio da Manhã and Negócios, 7–16 July 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-07-16-Intercampus.html#seats</link>
@@ -1379,6 +1409,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-07-27T19:44:15.272731+02:00</dc:date>
+    <dc:date>2021-08-06T19:35:32.890599+02:00</dc:date>
   </channel>
 </rss>
