@@ -10,7 +10,8 @@ Last result: **9.5%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 4.7–9.7% | 4.3–10.3% | 4.0–10.8% | 3.6–11.7% |
+| N/A | [Poll Average](average.html) | 7.7% | 5.3–9.9% | 5.0–10.5% | 4.7–11.0% | 4.2–11.9% |
+| [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.2% | 4.0–7.7% |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 9.1% | 7.7–10.7% | 7.3–11.2% | 7.0–11.6% | 6.4–12.5% |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 7.9% | 6.7–9.3% | 6.4–9.6% | 6.2–10.0% | 5.7–10.7% |
@@ -94,17 +95,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.4% | 100% |  |
-| 3.5–4.5% | 8% | 99.6% |  |
-| 4.5–5.5% | 13% | 92% |  |
-| 5.5–6.5% | 6% | 79% |  |
-| 6.5–7.5% | 15% | 73% |  |
-| 7.5–8.5% | 27% | 58% | Median |
-| 8.5–9.5% | 20% | 31% |  |
-| 9.5–10.5% | 8% | 12% | Last Result |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.6% | 0.7% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 13% | 98% |  |
+| 5.5–6.5% | 17% | 85% |  |
+| 6.5–7.5% | 15% | 68% |  |
+| 7.5–8.5% | 21% | 53% | Median |
+| 8.5–9.5% | 18% | 32% |  |
+| 9.5–10.5% | 10% | 14% | Last Result |
+| 10.5–11.5% | 4% | 4% |  |
+| 11.5–12.5% | 0.8% | 0.9% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -117,7 +117,8 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 7–19 | 5–21 | 4–23 | 3–26 |
+| N/A | [Poll Average](average.html) | 14 | 7–20 | 7–22 | 7–23 | 5–26 |
+| [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 7 | 7–11 | 7–11 | 5–12 | 3–14 |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 4–7 | 3–9 | 3–10 | 2–11 |
 | [7–16 July 2021](2021-07-16-Intercampus.html) | Intercampus <br> Correio da Manhã and Negócios | 18 | 15–22 | 13–24 | 12–25 | 11–28 |
 | [10–12 July 2021](2021-07-12-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14 | 12–18 | 11–19 | 11–20 | 7–22 |
@@ -203,34 +204,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% |  |
-| 3 | 1.5% | 99.5% |  |
-| 4 | 1.0% | 98% |  |
-| 5 | 3% | 97% |  |
-| 6 | 1.3% | 94% |  |
-| 7 | 16% | 93% |  |
-| 8 | 1.0% | 77% |  |
-| 9 | 0.6% | 76% |  |
-| 10 | 0.7% | 75% |  |
-| 11 | 3% | 75% |  |
-| 12 | 3% | 71% |  |
-| 13 | 5% | 68% |  |
-| 14 | 13% | 63% |  |
-| 15 | 6% | 51% | Median |
+| 3 | 0.2% | 100% |  |
+| 4 | 0.2% | 99.8% |  |
+| 5 | 0.6% | 99.6% |  |
+| 6 | 0.3% | 99.0% |  |
+| 7 | 17% | 98.7% |  |
+| 8 | 3% | 82% |  |
+| 9 | 3% | 78% |  |
+| 10 | 2% | 75% |  |
+| 11 | 9% | 74% |  |
+| 12 | 4% | 65% |  |
+| 13 | 4% | 61% |  |
+| 14 | 11% | 57% | Median |
+| 15 | 2% | 46% |  |
 | 16 | 7% | 44% |  |
-| 17 | 9% | 37% |  |
-| 18 | 15% | 28% |  |
-| 19 | 5% | 13% | Last Result |
-| 20 | 0.9% | 8% |  |
-| 21 | 3% | 7% |  |
-| 22 | 2% | 4% |  |
-| 23 | 0.9% | 3% |  |
-| 24 | 0.9% | 2% |  |
-| 25 | 0.3% | 0.8% |  |
-| 26 | 0.2% | 0.5% |  |
-| 27 | 0.1% | 0.3% |  |
-| 28 | 0.1% | 0.2% |  |
-| 29 | 0% | 0.1% |  |
+| 17 | 5% | 37% |  |
+| 18 | 15% | 32% |  |
+| 19 | 6% | 16% | Last Result |
+| 20 | 1.1% | 11% |  |
+| 21 | 4% | 10% |  |
+| 22 | 2% | 6% |  |
+| 23 | 1.2% | 3% |  |
+| 24 | 1.2% | 2% |  |
+| 25 | 0.3% | 1.0% |  |
+| 26 | 0.2% | 0.7% |  |
+| 27 | 0.2% | 0.4% |  |
+| 28 | 0.1% | 0.3% |  |
+| 29 | 0% | 0.2% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
