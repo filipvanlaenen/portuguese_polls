@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | BE | CDU | CDS–PP | PAN | CH | IL | L | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 October 2019 | General Election | 36.4% <br> 108 | 27.8% <br> 79 | 9.5% <br> 19 | 6.3% <br> 12 | 4.2% <br> 5 | 3.3% <br> 4 | 1.3% <br> 1 | 1.3% <br> 1 | 1.1% <br> 1 | 0.8% <br> 0 |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 33–41% <br> 96–121 | 21–28% <br> 57–79 | 8–12% <br> 14–27 | 4–8% <br> 5–15 | 1–3% <br> 0–2 | 2–5% <br> 2–6 | 7–11% <br> 11–24 | 4–8% <br> 5–13 | 0–1% <br> 0–1 | N/A <br> N/A |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 31–39% <br> 91–114 | 22–29% <br> 63–83 | 7–12% <br> 13–26 | 4–7% <br> 6–15 | 1–3% <br> 0–2 | 2–5% <br> 2–7 | 6–10% <br> 9–20 | 4–8% <br> 6–14 | 0–1% <br> 0 | N/A <br> N/A |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 38–44% <br> 106–124 | 25–30% <br> 63–80 | 4–7% <br> 5–12 | 5–8% <br> 6–15 | 1–3% <br> 0–2 | 2–4% <br> 1–4 | 7–11% <br> 11–22 | 3–6% <br> 4–9 | N/A <br> N/A | N/A <br> N/A |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 38–44% <br> 108–125 | 25–30% <br> 64–82 | 4–6% <br> 3–10 | 5–7% <br> 6–15 | 1–3% <br> 0–2 | 1–3% <br> 0–3 | 7–11% <br> 11–22 | 2–5% <br> 3–6 | N/A <br> N/A | N/A <br> N/A |
