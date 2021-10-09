@@ -10,7 +10,10 @@ Last result: **1.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 6.7–9.7% | 6.3–10.1% | 6.0–10.5% | 5.4–11.2% |
+| N/A | [Poll Average](average.html) | 8.2% | 6.9–9.8% | 6.5–10.2% | 6.2–10.7% | 5.7–11.5% |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8.5% | 7.2–10.2% | 6.9–10.6% | 6.6–11.0% | 6.0–11.9% |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 8.9% | N/A | N/A | N/A | N/A |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 7.1% | N/A | N/A | N/A | N/A |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 7.5% | 6.3–9.1% | 6.0–9.5% | 5.7–9.9% | 5.2–10.7% |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 8.8% | 7.7–10.0% | 7.4–10.4% | 7.2–10.7% | 6.7–11.3% |
@@ -100,15 +103,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.7% | 100% |  |
-| 5.5–6.5% | 7% | 99.3% |  |
-| 6.5–7.5% | 22% | 92% |  |
-| 7.5–8.5% | 31% | 70% | Median |
-| 8.5–9.5% | 26% | 39% |  |
-| 9.5–10.5% | 11% | 13% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 5% | 99.7% |  |
+| 6.5–7.5% | 22% | 94% |  |
+| 7.5–8.5% | 35% | 72% | Median |
+| 8.5–9.5% | 25% | 38% |  |
+| 9.5–10.5% | 10% | 13% |  |
+| 10.5–11.5% | 3% | 3% |  |
+| 11.5–12.5% | 0.4% | 0.5% |  |
+| 12.5–13.5% | 0% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -119,7 +123,10 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–18 | 10–20 | 9–21 | 8–23 |
+| N/A | [Poll Average](average.html) | 14 | 11–19 | 11–20 | 10–23 | 8–25 |
+| [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 14 | 11–20 | 11–23 | 11–24 | 9–26 |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol |  |  |  |  |  |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI |  |  |  |  |  |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 11 | 11–17 | 10–18 | 9–20 | 8–23 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 15 | 13–20 | 11–21 | 11–22 | 11–23 |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 14 | 12–19 | 11–20 | 11–22 | 11–23 |
@@ -213,25 +220,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 0.8% | 99.9% |  |
-| 9 | 2% | 99.1% |  |
-| 10 | 3% | 97% |  |
-| 11 | 25% | 95% |  |
-| 12 | 5% | 69% |  |
-| 13 | 8% | 64% |  |
-| 14 | 28% | 56% | Median |
-| 15 | 6% | 29% |  |
-| 16 | 2% | 23% |  |
-| 17 | 3% | 20% |  |
-| 18 | 8% | 17% |  |
-| 19 | 3% | 9% |  |
-| 20 | 2% | 5% |  |
-| 21 | 1.4% | 3% |  |
-| 22 | 0.9% | 2% |  |
-| 23 | 0.4% | 0.9% |  |
-| 24 | 0.3% | 0.4% |  |
-| 25 | 0.1% | 0.1% |  |
-| 26 | 0% | 0% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0.6% | 100% |  |
+| 9 | 1.5% | 99.3% |  |
+| 10 | 2% | 98% |  |
+| 11 | 22% | 96% |  |
+| 12 | 7% | 73% |  |
+| 13 | 7% | 66% |  |
+| 14 | 27% | 59% | Median |
+| 15 | 5% | 32% |  |
+| 16 | 4% | 28% |  |
+| 17 | 3% | 23% |  |
+| 18 | 8% | 20% |  |
+| 19 | 5% | 12% |  |
+| 20 | 3% | 7% |  |
+| 21 | 1.3% | 5% |  |
+| 22 | 0.6% | 3% |  |
+| 23 | 0.6% | 3% |  |
+| 24 | 1.3% | 2% |  |
+| 25 | 0.5% | 0.9% |  |
+| 26 | 0.2% | 0.4% |  |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 
