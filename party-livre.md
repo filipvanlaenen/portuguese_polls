@@ -13,7 +13,7 @@ Last result: **1.1%** (General Election of 6 October 2019)
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% | 0.1–1.5% |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0.3% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% | 0.0–1.5% |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 0.0% | N/A | N/A | N/A | N/A |
-| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 0.3% | N/A | N/A | N/A | N/A |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 0.3% | 0.2–0.9% | 0.1–1.0% | 0.1–1.2% | 0.0–1.5% |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 0.2% | 0.1–0.6% | 0.0–0.8% | 0.0–0.9% | 0.0–1.2% |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 0.0% | N/A | N/A | N/A | N/A |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 0.0% | N/A | N/A | N/A | N/A |
@@ -116,7 +116,7 @@ Last result: **1** seats (General Election of 6 October 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0 | 0 | 0–1 | 0–1 |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol |  |  |  |  |  |
-| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI |  |  |  |  |  |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 0 | 0 | 0 | 0 | 0–1 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem |  |  |  |  |  |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol |  |  |  |  |  |

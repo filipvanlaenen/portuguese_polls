@@ -10,10 +10,10 @@ Last result: **4.2%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.7–2.1% | 0.6–2.3% | 0.5–2.6% | 0.4–3.1% |
+| N/A | [Poll Average](average.html) | 1.7% | 0.9–2.6% | 0.7–2.8% | 0.6–3.1% | 0.4–3.6% |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 1.5% | 1.0–2.3% | 0.9–2.6% | 0.8–2.8% | 0.6–3.3% |
-| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 2.0% | N/A | N/A | N/A | N/A |
-| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 2.0% | N/A | N/A | N/A | N/A |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 2.0% | 1.4–2.9% | 1.3–3.2% | 1.1–3.4% | 0.9–3.9% |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 1.6% | 1.1–2.5% | 1.0–2.8% | 0.9–3.0% | 0.7–3.5% |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 2.1% | 1.7–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
@@ -99,11 +99,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% |  |
-| 0.5–1.5% | 66% | 97% | Median |
-| 1.5–2.5% | 28% | 31% |  |
-| 2.5–3.5% | 3% | 3% |  |
-| 3.5–4.5% | 0.1% | 0.1% | Last Result |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 39% | 98% |  |
+| 1.5–2.5% | 48% | 59% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.5% | 0.5% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -115,10 +115,10 @@ Last result: **5** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
-| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol |  |  |  |  |  |
-| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI |  |  |  |  |  |
+| [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 1 | 0–1 | 0–2 | 0–2 | 0–2 |
+| [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 1 | 0–2 | 0–2 | 0–3 | 0–4 |
 | [13–20 August 2021](2021-08-20-Intercampus.html) | Intercampus | 0 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [16–19 August 2021](2021-08-19-Eurosondagem.html) | Eurosondagem | 1 | 0–1 | 0–2 | 0–2 | 0–3 |
 | [26–29 July 2021](2021-07-29-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
@@ -206,11 +206,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Median |
-| 1 | 12% | 14% |  |
-| 2 | 1.4% | 2% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% | Last Result |
+| 0 | 63% | 100% | Median |
+| 1 | 29% | 37% |  |
+| 2 | 6% | 7% |  |
+| 3 | 0.7% | 0.9% |  |
+| 4 | 0.1% | 0.2% |  |
+| 5 | 0.1% | 0.1% | Last Result |
+| 6 | 0% | 0% |  |
 
 
