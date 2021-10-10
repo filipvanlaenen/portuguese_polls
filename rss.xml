@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Sat, 09 Oct 2021 17:01:09 +0200</pubDate>
+    <pubDate>Sun, 10 Oct 2021 14:02:20 +0200</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for CMTV, Correio da Manhã and Negócios, 14–23 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Intercampus.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sat, 09 Oct 2021 17:01:09 +0200</pubDate>
       <dc:date>2021-10-09T17:01:09.567378+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Sol, 20–23 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 63–80 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 107–125 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 3–11 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–14 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1–4 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 5–12 seats&lt;/li&gt;&lt;li&gt;Chega: 11–22 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem-seats.png"
+        length="209866"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 12:53:27 +0200</pubDate>
+      <dc:date>2021-10-10T12:53:27.191146+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Sol, 20–23 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem-coalitions-seats.png"
+        length="183530"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 12:53:27 +0200</pubDate>
+      <dc:date>2021-10-10T12:53:27.191146+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Eurosondagem for Sol, 20–23 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 24.6–30.0%&lt;/li&gt;&lt;li&gt;Partido Socialista: 38.5–44.5%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 3.9–6.6%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.3–7.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.8–3.8%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Chega: 7.3–10.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-23-Eurosondagem.png"
+        length="251430"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 12:53:27 +0200</pubDate>
+      <dc:date>2021-10-10T12:53:27.191146+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for TVI, 10–19 September 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 56–79 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 107–132 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7–18 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–3 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–15 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 0–3 seats&lt;/li&gt;&lt;li&gt;LIVRE: 0–1 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 4–12 seats&lt;/li&gt;&lt;li&gt;Chega: 8–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica-seats.png"
+        length="217936"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 14:02:20 +0200</pubDate>
+      <dc:date>2021-10-10T14:02:20.243813+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for TVI, 10–19 September 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica-coalitions-seats.png"
+        length="193317"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 14:02:20 +0200</pubDate>
+      <dc:date>2021-10-10T14:02:20.243813+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for TVI, 10–19 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 21.8–28.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 37.5–45.3%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 5.3–9.4%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 1.1–3.4%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.9–7.5%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.0–3.2%&lt;/li&gt;&lt;li&gt;LIVRE: 0.1–1.2%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3.3–6.8%&lt;/li&gt;&lt;li&gt;Chega: 5.3–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-09-19-Pitagórica.png"
+        length="271137"
+        type="image/png"/>
+      <pubDate>Sun, 10 Oct 2021 14:02:20 +0200</pubDate>
+      <dc:date>2021-10-10T14:02:20.243813+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Intercampus, 13–20 August 2021 – Seat Projections for the Parties</title>
@@ -1499,6 +1559,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36.989088+01:00</dc:date>
     </item>
-    <dc:date>2021-10-09T17:01:09.567378+02:00</dc:date>
+    <dc:date>2021-10-10T14:02:20.243813+02:00</dc:date>
   </channel>
 </rss>
