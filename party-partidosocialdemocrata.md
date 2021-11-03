@@ -125,8 +125,8 @@ Last result: **79** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 62–80 | 59–80 | 57–82 | 55–86 |
-| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 76 | 70–81 | 68–82 | 66–84 | 65–87 |
+| N/A | [Poll Average](average.html) | 70 | 62–79 | 59–80 | 57–82 | 55–86 |
+| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 75 | 69–81 | 67–83 | 66–85 | 64–88 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 66 | 60–75 | 58–77 | 57–79 | 55–82 |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 72 | 66–77 | 64–80 | 63–80 | 62–84 |
 | [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 67 | 61–75 | 58–77 | 56–79 | 54–83 |
@@ -231,29 +231,30 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 3% | 83% |  |
 | 65 | 5% | 80% |  |
 | 66 | 8% | 76% |  |
-| 67 | 5% | 67% |  |
+| 67 | 6% | 67% |  |
 | 68 | 6% | 62% |  |
-| 69 | 4% | 56% |  |
-| 70 | 4% | 52% | Median |
-| 71 | 4% | 49% |  |
-| 72 | 5% | 44% |  |
-| 73 | 3% | 40% |  |
-| 74 | 8% | 37% |  |
-| 75 | 4% | 28% |  |
-| 76 | 4% | 24% |  |
-| 77 | 4% | 20% |  |
-| 78 | 1.5% | 16% |  |
-| 79 | 4% | 15% | Last Result |
-| 80 | 6% | 11% |  |
+| 69 | 5% | 56% |  |
+| 70 | 5% | 51% | Median |
+| 71 | 5% | 45% |  |
+| 72 | 5% | 40% |  |
+| 73 | 3% | 35% |  |
+| 74 | 5% | 32% |  |
+| 75 | 5% | 27% |  |
+| 76 | 3% | 22% |  |
+| 77 | 4% | 18% |  |
+| 78 | 3% | 14% |  |
+| 79 | 4% | 11% | Last Result |
+| 80 | 3% | 7% |  |
 | 81 | 2% | 5% |  |
-| 82 | 1.2% | 3% |  |
-| 83 | 0.6% | 2% |  |
-| 84 | 0.3% | 1.1% |  |
-| 85 | 0.2% | 0.8% |  |
-| 86 | 0.4% | 0.6% |  |
-| 87 | 0.2% | 0.3% |  |
-| 88 | 0% | 0.1% |  |
+| 82 | 1.0% | 3% |  |
+| 83 | 0.8% | 2% |  |
+| 84 | 0.4% | 2% |  |
+| 85 | 0.5% | 1.1% |  |
+| 86 | 0.3% | 0.7% |  |
+| 87 | 0.2% | 0.4% |  |
+| 88 | 0.1% | 0.2% |  |
 | 89 | 0% | 0.1% |  |
-| 90 | 0% | 0% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0% |  |
 
 

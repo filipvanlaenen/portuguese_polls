@@ -119,8 +119,8 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–13 | 5–14 | 5–15 | 4–16 |
-| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 7 | 6–12 | 6–14 | 6–15 | 5–15 |
+| N/A | [Poll Average](average.html) | 9 | 6–13 | 5–14 | 5–15 | 4–16 |
+| [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 9 | 6–13 | 6–14 | 5–14 | 5–15 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8 | 6–13 | 5–14 | 5–15 | 4–16 |
 | [20–23 September 2021](2021-09-23-Eurosondagem.html) | Eurosondagem <br> Sol | 8 | 6–11 | 6–13 | 5–14 | 5–15 |
 | [10–19 September 2021](2021-09-19-Pitagórica.html) | Pitagórica <br> TVI | 8 | 5–13 | 5–14 | 5–15 | 4–16 |
@@ -214,17 +214,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 0.5% | 99.9% |  |
 | 5 | 8% | 99.4% |  |
-| 6 | 16% | 91% |  |
-| 7 | 19% | 75% |  |
-| 8 | 9% | 55% | Median |
-| 9 | 9% | 46% |  |
-| 10 | 17% | 37% |  |
-| 11 | 4% | 20% |  |
-| 12 | 4% | 16% | Last Result |
-| 13 | 5% | 12% |  |
-| 14 | 4% | 7% |  |
+| 6 | 13% | 91% |  |
+| 7 | 18% | 78% |  |
+| 8 | 10% | 60% |  |
+| 9 | 10% | 50% | Median |
+| 10 | 18% | 40% |  |
+| 11 | 5% | 22% |  |
+| 12 | 5% | 17% | Last Result |
+| 13 | 5% | 13% |  |
+| 14 | 5% | 8% |  |
 | 15 | 2% | 3% |  |
-| 16 | 0.5% | 0.8% |  |
+| 16 | 0.6% | 0.8% |  |
 | 17 | 0.1% | 0.3% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
