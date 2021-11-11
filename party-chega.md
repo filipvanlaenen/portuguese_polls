@@ -125,8 +125,8 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–19 | 5–21 | 5–22 | 3–25 |
-| [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 8 | 5–10 | 4–10 | 3–10 | 3–11 |
+| N/A | [Poll Average](average.html) | 13 | 8–19 | 6–21 | 4–22 | 3–25 |
+| [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 8 | 4–10 | 4–10 | 3–11 | 3–11 |
 | [28–31 October 2021](2021-10-31-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 14 | 11–16 | 11–18 | 10–20 | 8–23 |
 | [18–21 October 2021](2021-10-21-Eurosondagem.html) | Eurosondagem <br> Porto Canal and Sol | 17 | 14–21 | 12–23 | 11–23 | 11–25 |
 | [14–23 September 2021](2021-09-23-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 14 | 11–20 | 11–23 | 11–24 | 9–26 |
@@ -222,14 +222,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0.5% | 100% |  |
-| 4 | 1.0% | 99.5% |  |
-| 5 | 4% | 98.5% |  |
-| 6 | 3% | 94% |  |
-| 7 | 2% | 92% |  |
-| 8 | 5% | 90% |  |
-| 9 | 1.0% | 85% |  |
-| 10 | 9% | 84% |  |
-| 11 | 16% | 75% |  |
+| 4 | 3% | 99.5% |  |
+| 5 | 1.3% | 97% |  |
+| 6 | 2% | 95% |  |
+| 7 | 3% | 94% |  |
+| 8 | 8% | 91% |  |
+| 9 | 3% | 83% |  |
+| 10 | 5% | 80% |  |
+| 11 | 17% | 75% |  |
 | 12 | 6% | 58% |  |
 | 13 | 4% | 53% | Median |
 | 14 | 19% | 48% |  |
