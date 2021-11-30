@@ -10,7 +10,8 @@ Last result: **9.5%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 4.6–9.2% | 4.3–9.8% | 4.0–10.2% | 3.6–11.1% |
+| N/A | [Poll Average](average.html) | 6.4% | 4.6–9.0% | 4.3–9.6% | 4.0–10.1% | 3.6–11.0% |
+| [10–15 November 2021](2021-11-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.4% | 4.4–6.8% | 4.1–7.2% | 3.9–7.5% | 3.5–8.2% |
 | [5–11 November 2021](2021-11-11-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 7.7% | 6.5–9.2% | 6.1–9.7% | 5.8–10.1% | 5.3–10.9% |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 6.9% | 6.0–8.2% | 5.7–8.5% | 5.4–8.8% | 5.0–9.4% |
 | [21 October–1 November 2021](2021-11-01-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
@@ -107,14 +108,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.4% | 100% |  |
 | 3.5–4.5% | 9% | 99.6% |  |
-| 4.5–5.5% | 21% | 91% |  |
-| 5.5–6.5% | 17% | 70% |  |
-| 6.5–7.5% | 17% | 53% | Median |
-| 7.5–8.5% | 17% | 36% |  |
-| 8.5–9.5% | 12% | 19% |  |
-| 9.5–10.5% | 5% | 7% | Last Result |
-| 10.5–11.5% | 1.2% | 1.4% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 4.5–5.5% | 24% | 90% |  |
+| 5.5–6.5% | 20% | 67% | Median |
+| 6.5–7.5% | 16% | 47% |  |
+| 7.5–8.5% | 15% | 30% |  |
+| 8.5–9.5% | 10% | 16% |  |
+| 9.5–10.5% | 4% | 5% | Last Result |
+| 10.5–11.5% | 1.0% | 1.2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -126,7 +127,8 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 7–18 | 5–19 | 5–21 | 3–23 |
+| N/A | [Poll Average](average.html) | 11 | 7–18 | 5–19 | 5–20 | 3–23 |
+| [10–15 November 2021](2021-11-15-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 5–12 | 5–12 | 4–13 | 3–15 |
 | [5–11 November 2021](2021-11-11-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 15 | 11–18 | 10–18 | 9–19 | 7–22 |
 | [29 October–4 November 2021](2021-11-04-CESOP–UCP.html) | CESOP–UCP | 13 | 8–15 | 7–16 | 7–17 | 7–18 |
 | [21 October–1 November 2021](2021-11-01-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 7 | 5–10 | 5–11 | 3–11 | 2–13 |
@@ -223,27 +225,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.4% | 100% |  |
-| 3 | 0.9% | 99.6% |  |
-| 4 | 0.7% | 98.7% |  |
+| 3 | 1.0% | 99.6% |  |
+| 4 | 1.0% | 98.6% |  |
 | 5 | 3% | 98% |  |
-| 6 | 2% | 95% |  |
-| 7 | 27% | 93% |  |
-| 8 | 3% | 67% |  |
-| 9 | 3% | 63% |  |
-| 10 | 3% | 61% |  |
-| 11 | 7% | 57% |  |
-| 12 | 5% | 50% | Median |
-| 13 | 4% | 45% |  |
-| 14 | 10% | 41% |  |
-| 15 | 8% | 31% |  |
-| 16 | 5% | 24% |  |
-| 17 | 3% | 18% |  |
-| 18 | 9% | 15% |  |
-| 19 | 2% | 6% | Last Result |
-| 20 | 1.0% | 4% |  |
-| 21 | 0.9% | 3% |  |
-| 22 | 1.4% | 2% |  |
-| 23 | 0.5% | 0.6% |  |
+| 6 | 2% | 94% |  |
+| 7 | 29% | 92% |  |
+| 8 | 4% | 63% |  |
+| 9 | 4% | 59% |  |
+| 10 | 4% | 55% |  |
+| 11 | 7% | 51% | Median |
+| 12 | 5% | 44% |  |
+| 13 | 4% | 39% |  |
+| 14 | 8% | 35% |  |
+| 15 | 7% | 26% |  |
+| 16 | 5% | 20% |  |
+| 17 | 2% | 15% |  |
+| 18 | 8% | 13% |  |
+| 19 | 2% | 5% | Last Result |
+| 20 | 0.9% | 3% |  |
+| 21 | 0.8% | 2% |  |
+| 22 | 1.2% | 2% |  |
+| 23 | 0.4% | 0.5% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0.1% |  |
