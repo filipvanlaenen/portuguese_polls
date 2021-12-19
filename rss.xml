@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Assembleia da República</title>
     <link>https://filipvanlaenen.github.io/portuguese_polls</link>
     <description>All Registered Polls for the Assembleia da República</description>
-    <pubDate>Fri, 17 Dec 2021 19:51:53 +0100</pubDate>
+    <pubDate>Sun, 19 Dec 2021 12:43:57 +0100</pubDate>
     <item>
       <title>Opinion Poll by Intercampus for CMTV and Correio da Manhã, 7–14 December 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-14-Intercampus.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Fri, 17 Dec 2021 19:51:53 +0100</pubDate>
       <dc:date>2021-12-17T19:51:53.370864+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 78–105 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 84–112 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 7–20 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–2 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–15 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 0–5 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 3–10 seats&lt;/li&gt;&lt;li&gt;Chega: 4–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage-seats.png"
+        length="235865"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:29:04 +0100</pubDate>
+      <dc:date>2021-12-19T12:29:04.356134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage-coalitions-seats.png"
+        length="219910"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:29:04 +0100</pubDate>
+      <dc:date>2021-12-19T12:29:04.356134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Aximage for Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias, 9–13 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 29.0–37.7%&lt;/li&gt;&lt;li&gt;Partido Socialista: 31.1–40.0%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 5.3–10.2%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0.6–2.9%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 3.5–7.6%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1.4–4.4%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 2.4–6.0%&lt;/li&gt;&lt;li&gt;Chega: 4.4–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-13-Aximage.png"
+        length="286458"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:29:04 +0100</pubDate>
+      <dc:date>2021-12-19T12:29:04.356134+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 77–99 seats&lt;/li&gt;&lt;li&gt;Partido Socialista: 89–113 seats&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 2–12 seats&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0–1 seats&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 5–15 seats&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 1–6 seats&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 6–14 seats&lt;/li&gt;&lt;li&gt;Chega: 5–14 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica-seats.png"
+        length="221721"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:43:57 +0100</pubDate>
+      <dc:date>2021-12-19T12:43:57.46755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica-coalitions-seats.png"
+        length="206959"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:43:57 +0100</pubDate>
+      <dc:date>2021-12-19T12:43:57.46755+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 7–12 December 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partido Social Democrata: 28.2–35.4%&lt;/li&gt;&lt;li&gt;Partido Socialista: 33.3–40.8%&lt;/li&gt;&lt;li&gt;Bloco de Esquerda: 3.5–7.0%&lt;/li&gt;&lt;li&gt;CDS–Partido Popular: 0.4–2.1%&lt;/li&gt;&lt;li&gt;Coligação Democrática Unitária: 4.3–8.1%&lt;/li&gt;&lt;li&gt;Pessoas–Animais–Natureza: 2.0–4.7%&lt;/li&gt;&lt;li&gt;Iniciativa Liberal: 4.3–8.1%&lt;/li&gt;&lt;li&gt;Chega: 4.6–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/portuguese_polls/2021-12-12-Pitagórica.png"
+        length="265458"
+        type="image/png"/>
+      <pubDate>Sun, 19 Dec 2021 12:43:57 +0100</pubDate>
+      <dc:date>2021-12-19T12:43:57.46755+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Pitagórica for CNN Portugal and TVI, 10–15 November 2021 – Seat Projections for the Parties</title>
@@ -1649,6 +1709,6 @@
       <pubDate>Tue, 02 Feb 2021 21:52:36 +0100</pubDate>
       <dc:date>2021-02-02T21:52:36+01:00</dc:date>
     </item>
-    <dc:date>2021-12-17T19:51:53.370864+01:00</dc:date>
+    <dc:date>2021-12-19T12:43:57.46755+01:00</dc:date>
   </channel>
 </rss>
