@@ -10,7 +10,8 @@ Last result: **1.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 2.1–7.0% | 1.8–7.5% | 1.5–8.0% | 1.2–8.8% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.5–7.0% | 3.2–7.5% | 2.9–8.0% | 2.4–8.8% |
+| [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 6.5% | 5.3–7.9% | 5.0–8.4% | 4.8–8.7% | 4.3–9.5% |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 3.8% | 2.9–5.2% | 2.6–5.7% | 2.4–6.0% | 2.0–6.8% |
 | [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.9% | 4.9–7.3% | 4.6–7.7% | 4.3–8.1% | 3.9–8.8% |
@@ -108,12 +109,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 3% | 100% | Last Result |
-| 1.5–2.5% | 14% | 97% |  |
-| 2.5–3.5% | 10% | 83% |  |
-| 3.5–4.5% | 14% | 73% |  |
-| 4.5–5.5% | 22% | 59% | Median |
+| 0.5–1.5% | 0% | 100% | Last Result |
+| 1.5–2.5% | 0.9% | 100% |  |
+| 2.5–3.5% | 10% | 99.1% |  |
+| 3.5–4.5% | 25% | 89% |  |
+| 4.5–5.5% | 26% | 64% | Median |
 | 5.5–6.5% | 21% | 38% |  |
 | 6.5–7.5% | 12% | 17% |  |
 | 7.5–8.5% | 4% | 5% |  |
@@ -130,7 +130,8 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–12 | 1–14 | 1–14 | 1–15 |
+| N/A | [Poll Average](average.html) | 6 | 4–12 | 4–14 | 3–14 | 3–15 |
+| [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 5 | 4–6 | 3–7 | 3–8 | 3–10 |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 12 | 8–14 | 6–14 | 6–15 | 6–17 |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 5 | 3–7 | 3–9 | 3–10 | 3–12 |
 | [7–12 December 2021](2021-12-12-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 10 | 6–12 | 6–14 | 6–14 | 5–15 |
@@ -230,19 +231,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 6% | 99.9% | Last Result |
-| 2 | 4% | 94% |  |
-| 3 | 13% | 91% |  |
-| 4 | 6% | 78% |  |
-| 5 | 5% | 72% |  |
-| 6 | 22% | 67% | Median |
-| 7 | 5% | 45% |  |
-| 8 | 4% | 40% |  |
-| 9 | 5% | 36% |  |
-| 10 | 8% | 31% |  |
+| 1 | 0.1% | 100% | Last Result |
+| 2 | 0% | 99.9% |  |
+| 3 | 4% | 99.9% |  |
+| 4 | 10% | 96% |  |
+| 5 | 10% | 86% |  |
+| 6 | 30% | 76% | Median |
+| 7 | 5% | 46% |  |
+| 8 | 4% | 41% |  |
+| 9 | 5% | 37% |  |
+| 10 | 9% | 31% |  |
 | 11 | 4% | 23% |  |
-| 12 | 11% | 19% |  |
+| 12 | 12% | 19% |  |
 | 13 | 2% | 7% |  |
 | 14 | 5% | 5% |  |
 | 15 | 0.5% | 0.7% |  |
