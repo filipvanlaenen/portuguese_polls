@@ -10,7 +10,11 @@ Last result: **1.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 3.5–7.0% | 3.2–7.5% | 2.9–8.0% | 2.4–8.8% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.4–6.1% | 3.1–6.6% | 2.9–7.0% | 2.4–7.8% |
+| [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 5.5% | 4.5–6.9% | 4.2–7.3% | 4.0–7.6% | 3.5–8.3% |
+| [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.8–5.7% |
+| [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.2% | 4.2–6.5% | 3.9–6.9% | 3.7–7.3% | 3.2–8.0% |
+| [28 December 2021–5 January 2022](2022-01-05-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5.0% | N/A | N/A | N/A | N/A |
 | [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 6.5% | 5.3–7.9% | 5.0–8.4% | 4.8–8.7% | 4.3–9.5% |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 3.8% | 2.9–5.2% | 2.6–5.7% | 2.4–6.0% | 2.0–6.8% |
@@ -111,15 +115,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% | Last Result |
 | 1.5–2.5% | 0.9% | 100% |  |
-| 2.5–3.5% | 10% | 99.1% |  |
-| 3.5–4.5% | 25% | 89% |  |
-| 4.5–5.5% | 26% | 64% | Median |
-| 5.5–6.5% | 21% | 38% |  |
-| 6.5–7.5% | 12% | 17% |  |
-| 7.5–8.5% | 4% | 5% |  |
-| 8.5–9.5% | 0.8% | 0.9% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 14% | 99.1% |  |
+| 3.5–4.5% | 38% | 85% | Median |
+| 4.5–5.5% | 28% | 48% |  |
+| 5.5–6.5% | 15% | 20% |  |
+| 6.5–7.5% | 5% | 5% |  |
+| 7.5–8.5% | 0.8% | 0.9% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -130,7 +133,11 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–12 | 4–14 | 3–14 | 3–15 |
+| N/A | [Poll Average](average.html) | 6 | 4–10 | 4–12 | 3–12 | 3–14 |
+| [4–10 January 2022](2022-01-10-Intercampus.html) | Intercampus <br> CMTV, Correio da Manhã and Negócios | 8 | 6–12 | 6–12 | 5–13 | 4–14 |
+| [6–10 January 2022](2022-01-10-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 5 | 4–6 | 4–6 | 3–7 | 3–9 |
+| [30 December 2021–9 January 2022](2022-01-09-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 6–12 | 5–12 | 4–12 | 4–14 |
+| [28 December 2021–5 January 2022](2022-01-05-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP |  |  |  |  |  |
 | [10–20 December 2021](2021-12-20-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 5 | 4–6 | 3–7 | 3–8 | 3–10 |
 | [7–14 December 2021](2021-12-14-Intercampus.html) | Intercampus <br> CMTV and Correio da Manhã | 12 | 8–14 | 6–14 | 6–15 | 6–17 |
 | [9–13 December 2021](2021-12-13-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 5 | 3–7 | 3–9 | 3–10 | 3–12 |
@@ -234,21 +241,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0.1% | 100% | Last Result |
 | 2 | 0% | 99.9% |  |
 | 3 | 4% | 99.9% |  |
-| 4 | 10% | 96% |  |
-| 5 | 10% | 86% |  |
-| 6 | 30% | 76% | Median |
-| 7 | 5% | 46% |  |
-| 8 | 4% | 41% |  |
-| 9 | 5% | 37% |  |
-| 10 | 9% | 31% |  |
-| 11 | 4% | 23% |  |
-| 12 | 12% | 19% |  |
-| 13 | 2% | 7% |  |
-| 14 | 5% | 5% |  |
-| 15 | 0.5% | 0.7% |  |
-| 16 | 0.1% | 0.3% |  |
-| 17 | 0.1% | 0.2% |  |
-| 18 | 0.1% | 0.1% |  |
-| 19 | 0% | 0% |  |
+| 4 | 14% | 95% |  |
+| 5 | 17% | 82% |  |
+| 6 | 36% | 65% | Median |
+| 7 | 7% | 29% |  |
+| 8 | 4% | 22% |  |
+| 9 | 5% | 18% |  |
+| 10 | 5% | 13% |  |
+| 11 | 2% | 8% |  |
+| 12 | 5% | 6% |  |
+| 13 | 0.3% | 1.0% |  |
+| 14 | 0.6% | 0.7% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
