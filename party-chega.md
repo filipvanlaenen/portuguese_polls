@@ -10,7 +10,9 @@ Last result: **1.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.6–9.2% | 5.3–9.9% | 5.0–10.3% | 4.5–11.2% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.6–9.2% | 5.3–9.9% | 5.1–10.3% | 4.6–11.2% |
+| [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.4% | 5.3–7.9% | 5.0–8.3% | 4.7–8.7% | 4.2–9.4% |
+| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.2% | N/A | N/A | N/A | N/A |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.2% | 5.2–7.7% | 4.8–8.1% | 4.6–8.5% | 4.1–9.2% |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7.2% | N/A | N/A | N/A | N/A |
 | [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6.0% | 5.2–6.9% | 5.0–7.1% | 4.9–7.3% | 4.5–7.8% |
@@ -125,11 +127,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% | Last Result |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 9% | 99.4% |  |
-| 5.5–6.5% | 28% | 90% |  |
-| 6.5–7.5% | 27% | 62% | Median |
-| 7.5–8.5% | 17% | 35% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 8% | 99.6% |  |
+| 5.5–6.5% | 28% | 91% |  |
+| 6.5–7.5% | 27% | 63% | Median |
+| 7.5–8.5% | 18% | 36% |  |
 | 8.5–9.5% | 11% | 18% |  |
 | 9.5–10.5% | 5% | 7% |  |
 | 10.5–11.5% | 2% | 2% |  |
@@ -146,6 +148,8 @@ Last result: **1** seats (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–16 | 8–19 | 7–20 | 5–23 |
+| [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 11 | 8–13 | 7–14 | 6–15 | 4–18 |
+| [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 10 | 8–11 | 6–13 | 5–14 | 4–17 |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [12–18 January 2022](2022-01-18-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 10 | 8–11 | 7–11 | 7–11 | 5–12 |
@@ -262,15 +266,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 0.7% | 99.7% |  |
-| 6 | 0.6% | 99.0% |  |
-| 7 | 2% | 98% |  |
-| 8 | 9% | 97% |  |
-| 9 | 7% | 88% |  |
-| 10 | 15% | 81% |  |
-| 11 | 32% | 66% | Median |
-| 12 | 4% | 33% |  |
+| 4 | 0.2% | 100% |  |
+| 5 | 0.3% | 99.7% |  |
+| 6 | 0.5% | 99.5% |  |
+| 7 | 2% | 98.9% |  |
+| 8 | 8% | 97% |  |
+| 9 | 6% | 89% |  |
+| 10 | 15% | 83% |  |
+| 11 | 33% | 67% | Median |
+| 12 | 4% | 34% |  |
 | 13 | 5% | 30% |  |
 | 14 | 10% | 25% |  |
 | 15 | 3% | 15% |  |
