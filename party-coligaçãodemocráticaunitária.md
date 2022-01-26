@@ -10,8 +10,12 @@ Last result: **6.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.2–6.8% | 4.0–7.2% | 3.7–7.6% | 3.3–8.3% |
+| N/A | [Poll Average](average.html) | 5.2% | 3.9–6.7% | 3.6–7.2% | 3.4–7.5% | 2.9–8.3% |
+| [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.3% | 3.4–5.5% | 3.1–5.9% | 2.9–6.2% | 2.6–6.9% |
+| [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.9% | N/A | N/A | N/A | N/A |
+| [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.1% | N/A | N/A | N/A | N/A |
 | [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.8% | 3.8–6.1% | 3.6–6.4% | 3.3–6.8% | 2.9–7.5% |
+| [16–21 January 2022](2022-01-21-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.3–6.0% | 3.0–6.5% |
 | [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.4% | N/A | N/A | N/A | N/A |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.9% | 4.0–6.2% | 3.7–6.6% | 3.5–7.0% | 3.1–7.7% |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.3% | N/A | N/A | N/A | N/A |
@@ -124,13 +128,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.5% | 100% |  |
-| 3.5–4.5% | 17% | 98.5% |  |
-| 4.5–5.5% | 39% | 82% | Median |
-| 5.5–6.5% | 29% | 42% | Last Result |
-| 6.5–7.5% | 11% | 13% |  |
-| 7.5–8.5% | 2% | 3% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 23% | 96% |  |
+| 4.5–5.5% | 36% | 73% | Median |
+| 5.5–6.5% | 24% | 37% | Last Result |
+| 6.5–7.5% | 10% | 12% |  |
+| 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -143,8 +148,12 @@ Last result: **12** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–13 | 5–14 | 5–15 | 4–16 |
+| N/A | [Poll Average](average.html) | 8 | 5–12 | 5–14 | 5–15 | 3–16 |
+| [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 5–9 | 4–9 | 3–11 | 2–14 |
+| [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
+| [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 7 | 5–10 | 5–11 | 5–13 | 3–15 |
+| [16–21 January 2022](2022-01-21-Aximage.html) | Aximage <br> Diário de Notícias, Jornal de Notícias and TSF Rádio Notícias | 5 | 5–8 | 5–9 | 4–10 | 3–12 |
 | [17–20 January 2022](2022-01-20-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [16–19 January 2022](2022-01-19-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 5–11 | 5–12 | 5–14 | 3–15 |
 | [15–18 January 2022](2022-01-18-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
@@ -259,21 +268,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 0.3% | 99.9% |  |
-| 4 | 0.4% | 99.6% |  |
-| 5 | 12% | 99.2% |  |
-| 6 | 13% | 87% |  |
-| 7 | 16% | 74% |  |
-| 8 | 24% | 58% | Median |
-| 9 | 10% | 34% |  |
-| 10 | 7% | 24% |  |
-| 11 | 3% | 17% |  |
-| 12 | 3% | 14% | Last Result |
+| 2 | 0.3% | 100% |  |
+| 3 | 0.5% | 99.7% |  |
+| 4 | 1.1% | 99.2% |  |
+| 5 | 19% | 98% |  |
+| 6 | 11% | 79% |  |
+| 7 | 16% | 68% |  |
+| 8 | 21% | 52% | Median |
+| 9 | 10% | 31% |  |
+| 10 | 5% | 21% |  |
+| 11 | 3% | 15% |  |
+| 12 | 3% | 13% | Last Result |
 | 13 | 2% | 10% |  |
-| 14 | 5% | 8% |  |
+| 14 | 4% | 8% |  |
 | 15 | 2% | 3% |  |
-| 16 | 0.5% | 1.0% |  |
+| 16 | 0.5% | 0.9% |  |
 | 17 | 0.2% | 0.4% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0.1% |  |
