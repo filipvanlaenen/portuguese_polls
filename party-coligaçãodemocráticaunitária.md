@@ -11,6 +11,7 @@ Last result: **6.3%** (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.2% | 3.9–6.7% | 3.6–7.2% | 3.4–7.5% | 2.9–8.3% |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.3% | 3.4–5.5% | 3.1–5.9% | 2.9–6.2% | 2.6–6.9% |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.3% | 3.4–5.5% | 3.1–5.9% | 2.9–6.2% | 2.6–6.9% |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.9% | N/A | N/A | N/A | N/A |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.1% | N/A | N/A | N/A | N/A |
@@ -149,6 +150,7 @@ Last result: **12** seats (General Election of 6 October 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 5–12 | 5–14 | 5–15 | 3–16 |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 5–8 | 4–9 | 3–10 | 2–13 |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 5–9 | 4–9 | 3–11 | 2–14 |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
@@ -269,17 +271,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.3% | 100% |  |
-| 3 | 0.5% | 99.7% |  |
-| 4 | 1.1% | 99.2% |  |
-| 5 | 19% | 98% |  |
-| 6 | 11% | 79% |  |
-| 7 | 16% | 68% |  |
-| 8 | 21% | 52% | Median |
-| 9 | 10% | 31% |  |
-| 10 | 5% | 21% |  |
+| 3 | 0.7% | 99.7% |  |
+| 4 | 1.4% | 99.0% |  |
+| 5 | 20% | 98% |  |
+| 6 | 11% | 78% |  |
+| 7 | 15% | 67% |  |
+| 8 | 21% | 51% | Median |
+| 9 | 10% | 30% |  |
+| 10 | 5% | 20% |  |
 | 11 | 3% | 15% |  |
 | 12 | 3% | 13% | Last Result |
-| 13 | 2% | 10% |  |
+| 13 | 2% | 9% |  |
 | 14 | 4% | 8% |  |
 | 15 | 2% | 3% |  |
 | 16 | 0.5% | 0.9% |  |

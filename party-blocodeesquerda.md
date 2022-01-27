@@ -10,7 +10,8 @@ Last result: **9.5%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.9% | 4.6–8.6% | 4.3–9.3% | 4.1–9.9% | 3.7–10.9% |
+| N/A | [Poll Average](average.html) | 6.3% | 4.6–8.7% | 4.3–9.4% | 4.1–9.9% | 3.7–10.9% |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.7% | 5.6–8.2% | 5.3–8.7% | 5.0–9.0% | 4.5–9.8% |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.8% | 4.7–7.2% | 4.4–7.6% | 4.2–7.9% | 3.7–8.6% |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6.1% | N/A | N/A | N/A | N/A |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.4% | N/A | N/A | N/A | N/A |
@@ -129,13 +130,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 10% | 99.7% |  |
-| 4.5–5.5% | 30% | 90% |  |
-| 5.5–6.5% | 24% | 60% | Median |
-| 6.5–7.5% | 16% | 36% |  |
-| 7.5–8.5% | 10% | 21% |  |
-| 8.5–9.5% | 7% | 10% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 8% | 99.8% |  |
+| 4.5–5.5% | 25% | 91% |  |
+| 5.5–6.5% | 22% | 66% | Median |
+| 6.5–7.5% | 19% | 44% |  |
+| 7.5–8.5% | 13% | 25% |  |
+| 8.5–9.5% | 7% | 11% |  |
 | 9.5–10.5% | 3% | 4% | Last Result |
 | 10.5–11.5% | 0.8% | 1.0% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
@@ -150,7 +151,8 @@ Last result: **19** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–17 | 5–18 | 4–18 | 3–21 |
+| N/A | [Poll Average](average.html) | 11 | 7–17 | 6–18 | 4–18 | 3–21 |
+| [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 12 | 8–16 | 7–17 | 7–18 | 7–20 |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 8 | 7–13 | 5–14 | 5–15 | 3–17 |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
@@ -271,27 +273,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
-| 3 | 0.7% | 99.9% |  |
-| 4 | 2% | 99.1% |  |
+| 3 | 0.6% | 99.9% |  |
+| 4 | 2% | 99.3% |  |
 | 5 | 2% | 97% |  |
-| 6 | 2% | 95% |  |
-| 7 | 36% | 93% |  |
-| 8 | 5% | 57% |  |
-| 9 | 5% | 52% | Median |
-| 10 | 4% | 47% |  |
-| 11 | 11% | 42% |  |
-| 12 | 6% | 31% |  |
-| 13 | 3% | 25% |  |
-| 14 | 4% | 22% |  |
-| 15 | 5% | 18% |  |
-| 16 | 3% | 14% |  |
-| 17 | 2% | 10% |  |
-| 18 | 6% | 8% |  |
-| 19 | 0.7% | 2% | Last Result |
-| 20 | 0.5% | 1.3% |  |
-| 21 | 0.4% | 0.8% |  |
-| 22 | 0.2% | 0.4% |  |
-| 23 | 0% | 0.2% |  |
+| 6 | 1.4% | 96% |  |
+| 7 | 31% | 94% |  |
+| 8 | 4% | 63% |  |
+| 9 | 5% | 60% |  |
+| 10 | 4% | 54% |  |
+| 11 | 12% | 50% | Median |
+| 12 | 7% | 39% |  |
+| 13 | 5% | 32% |  |
+| 14 | 5% | 27% |  |
+| 15 | 7% | 23% |  |
+| 16 | 4% | 16% |  |
+| 17 | 2% | 11% |  |
+| 18 | 7% | 9% |  |
+| 19 | 0.9% | 2% | Last Result |
+| 20 | 0.6% | 1.4% |  |
+| 21 | 0.4% | 0.9% |  |
+| 22 | 0.2% | 0.5% |  |
+| 23 | 0.1% | 0.2% |  |
 | 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
