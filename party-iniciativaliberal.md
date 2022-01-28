@@ -10,9 +10,12 @@ Last result: **1.3%** (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 2.8–5.9% | 2.5–6.3% | 2.3–6.8% | 1.9–7.6% |
+| N/A | [Poll Average](average.html) | 5.4% | 2.8–6.7% | 2.5–7.0% | 2.3–7.3% | 1.9–7.9% |
+| [23–26 January 2022](2022-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.3% | 3.4–5.5% | 3.1–5.9% | 2.9–6.2% | 2.6–6.9% |
+| [19–26 January 2022](2022-01-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.1–7.1% | 4.8–7.5% |
 | [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 3.8% | 3.0–5.0% | 2.7–5.3% | 2.5–5.6% | 2.2–6.2% |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 3.1% | 2.4–4.2% | 2.2–4.6% | 2.0–4.8% | 1.7–5.4% |
+| [18–24 January 2022](2022-01-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4.8% | N/A | N/A | N/A | N/A |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.3% | N/A | N/A | N/A | N/A |
 | [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5.8% | 4.7–7.2% | 4.4–7.6% | 4.2–7.9% | 3.7–8.6% |
@@ -130,13 +133,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% | Last Result |
-| 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 23% | 94% |  |
-| 3.5–4.5% | 28% | 71% | Median |
-| 4.5–5.5% | 27% | 43% |  |
-| 5.5–6.5% | 12% | 16% |  |
-| 6.5–7.5% | 3% | 4% |  |
-| 7.5–8.5% | 0.5% | 0.6% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 15% | 95% |  |
+| 3.5–4.5% | 13% | 79% |  |
+| 4.5–5.5% | 21% | 66% | Median |
+| 5.5–6.5% | 32% | 44% |  |
+| 6.5–7.5% | 11% | 12% |  |
+| 7.5–8.5% | 1.2% | 1.3% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -149,9 +152,12 @@ Last result: **1** seats (General Election of 6 October 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 3–9 | 3–11 | 3–12 | 2–13 |
+| N/A | [Poll Average](average.html) | 7 | 3–12 | 3–12 | 3–12 | 2–14 |
+| [23–26 January 2022](2022-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 6 | 4–8 | 4–10 | 3–11 | 3–12 |
+| [19–26 January 2022](2022-01-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 9 | 8–12 | 7–12 | 6–12 | 6–13 |
 | [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 5 | 3–6 | 3–8 | 3–9 | 3–11 |
 | [21–24 January 2022](2022-01-24-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 4 | 3–6 | 3–6 | 3–6 | 1–9 |
+| [18–24 January 2022](2022-01-24-ICSISCTE.html) | ICS/ISCTE <br> Expresso and SIC Notícias | 10 | 6–12 | 6–13 | 6–14 | 6–14 |
 | [20–23 January 2022](2022-01-23-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [19–22 January 2022](2022-01-22-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI |  |  |  |  |  |
 | [18–21 January 2022](2022-01-21-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 9 | 6–13 | 6–14 | 6–14 | 5–15 |
@@ -272,18 +278,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.3% | 100% | Last Result |
 | 2 | 0.3% | 99.7% |  |
-| 3 | 14% | 99.4% |  |
-| 4 | 15% | 86% |  |
-| 5 | 12% | 70% |  |
-| 6 | 33% | 59% | Median |
-| 7 | 5% | 25% |  |
-| 8 | 6% | 20% |  |
-| 9 | 5% | 14% |  |
-| 10 | 4% | 9% |  |
-| 11 | 2% | 6% |  |
-| 12 | 3% | 4% |  |
-| 13 | 0.2% | 0.6% |  |
-| 14 | 0.4% | 0.4% |  |
-| 15 | 0% | 0% |  |
+| 3 | 11% | 99.4% |  |
+| 4 | 10% | 88% |  |
+| 5 | 6% | 78% |  |
+| 6 | 16% | 72% |  |
+| 7 | 7% | 56% | Median |
+| 8 | 8% | 49% |  |
+| 9 | 12% | 42% |  |
+| 10 | 9% | 29% |  |
+| 11 | 6% | 21% |  |
+| 12 | 12% | 14% |  |
+| 13 | 0.7% | 2% |  |
+| 14 | 1.2% | 1.3% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
