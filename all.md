@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PS | PSD | BE | CDU | CDS–PP | PAN | CH | IL | L | A |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 6 October 2019 | General Election | 36.4% <br> 108 | 27.8% <br> 79 | 9.5% <br> 19 | 6.3% <br> 12 | 4.2% <br> 5 | 3.3% <br> 4 | 1.3% <br> 1 | 1.3% <br> 1 | 1.1% <br> 1 | 0.8% <br> 0 |
+| [24–28 January 2022](2022-01-28-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–40% <br> 92–115 | 30–36% <br> 83–103 | 4–7% <br> 4–13 | 4–7% <br> 5–13 | 1–3% <br> 0–1 | 1–2% <br> 0–2 | 4–7% <br> 4–11 | 4–7% <br> 5–12 | 1–3% <br> 1–3 | N/A <br> N/A |
 | [23–26 January 2022](2022-01-26-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–41% <br> 92–118 | 28–35% <br> 77–101 | 4–8% <br> 7–15 | 4–8% <br> 5–16 | 1–4% <br> 0–3 | 0–2% <br> 0–2 | 4–7% <br> 4–11 | 3–6% <br> 3–11 | 1–3% <br> 1–4 | N/A <br> N/A |
 | [19–26 January 2022](2022-01-26-CESOP–UCP.html) | CESOP–UCP <br> Público and RTP | 34–38% <br> 92–107 | 31–35% <br> 85–99 | 5–7% <br> 7–14 | 4–6% <br> 5–9 | 1–3% <br> 0–2 | 1–3% <br> 1–2 | 5–7% <br> 7–11 | 5–7% <br> 6–12 | 1–3% <br> 1–2 | N/A <br> N/A |
 | [22–25 January 2022](2022-01-25-Pitagórica.html) | Pitagórica <br> CNN Portugal and TVI | 33–41% <br> 92–118 | 27–35% <br> 76–99 | 5–9% <br> 7–18 | 3–6% <br> 3–10 | 1–3% <br> 0–2 | 0–2% <br> 0–2 | 5–9% <br> 8–18 | 3–6% <br> 3–9 | 1–3% <br> 0–4 | N/A <br> N/A |
